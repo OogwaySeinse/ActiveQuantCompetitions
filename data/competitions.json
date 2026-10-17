@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-17T08:01:21Z",
+    "generated_at": "2026-10-17T09:11:57Z",
     "total_active": 72,
     "total_prize_usd": 863310.0,
     "ending_soon_count": 0,
@@ -51,57 +51,105 @@
         "name": "numerai",
         "status": "ok",
         "count": 3,
-        "duration_ms": 38512,
+        "duration_ms": 1086,
         "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "updated_at": "2026-10-17T09:11:57Z"
       },
       {
         "name": "crunchdao",
         "status": "ok",
         "count": 6,
-        "duration_ms": 16376,
+        "duration_ms": 927,
         "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "updated_at": "2026-10-17T09:11:57Z"
       },
       {
         "name": "ens",
         "status": "ok",
         "count": 34,
-        "duration_ms": 21801,
+        "duration_ms": 1399,
         "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "updated_at": "2026-10-17T09:11:57Z"
       },
       {
         "name": "janestreet",
         "status": "ok",
         "count": 1,
-        "duration_ms": 32638,
+        "duration_ms": 682,
         "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "updated_at": "2026-10-17T09:11:57Z"
       },
       {
         "name": "quantcontests",
         "status": "ok",
         "count": 26,
-        "duration_ms": 10591,
+        "duration_ms": 418,
         "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "updated_at": "2026-10-17T09:11:57Z"
+      },
+      {
+        "name": "kaggle",
+        "status": "cached",
+        "count": 4,
+        "duration_ms": 431,
+        "error": "Live scrape returned 0 quant records; used cached snapshot",
+        "updated_at": "2026-10-17T09:11:57Z"
       },
       {
         "name": "mlcontests",
         "status": "ok",
         "count": 2,
-        "duration_ms": 15710,
+        "duration_ms": 485,
         "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "updated_at": "2026-10-17T09:11:57Z"
       },
       {
-        "name": "kaggle",
-        "status": "ok",
-        "count": 4,
-        "duration_ms": 35967,
-        "error": null,
-        "updated_at": "2026-10-17T08:01:21Z"
+        "name": "zindi",
+        "status": "degraded",
+        "count": 0,
+        "duration_ms": 2340,
+        "error": "0 quant records returned",
+        "updated_at": "2026-10-17T09:11:57Z"
+      },
+      {
+        "name": "drivendata",
+        "status": "degraded",
+        "count": 0,
+        "duration_ms": 1123,
+        "error": "0 quant records returned",
+        "updated_at": "2026-10-17T09:11:57Z"
+      },
+      {
+        "name": "aicrowd",
+        "status": "degraded",
+        "count": 0,
+        "duration_ms": 959,
+        "error": "0 quant records returned",
+        "updated_at": "2026-10-17T09:11:57Z"
+      },
+      {
+        "name": "codalab",
+        "status": "degraded",
+        "count": 0,
+        "duration_ms": 991,
+        "error": "0 quant records returned",
+        "updated_at": "2026-10-17T09:11:57Z"
+      },
+      {
+        "name": "devpost",
+        "status": "degraded",
+        "count": 0,
+        "duration_ms": 2070,
+        "error": "0 quant records returned",
+        "updated_at": "2026-10-17T09:11:57Z"
+      },
+      {
+        "name": "tianchi",
+        "status": "degraded",
+        "count": 0,
+        "duration_ms": 1501,
+        "error": "0 quant records returned",
+        "updated_at": "2026-10-17T09:11:57Z"
       }
     ]
   },
@@ -179,7 +227,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "cfa-institute-research-challenge-2026-26-d9f7b7862abc",
@@ -219,7 +267,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "jane-street-monthly-quant-puzzle-it-s-a-metric-t-e97797c7db5f",
@@ -258,7 +306,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:10Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "bloomberg-2026-global-trading-challenge-95d1f98520de",
@@ -297,7 +345,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "wunder-fund-connectome-limit-order-book-price-mo-051b83117c32",
@@ -341,7 +389,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "adia-lab-structural-break-challenge-real-time-ed-d996523e70e7",
@@ -378,7 +426,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:16Z"
+      "scraped_at": "2026-10-17T09:12:00Z"
     },
     {
       "id": "battle-on-bay-2026-d1bb4996f3a8",
@@ -418,7 +466,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "datacrunch-equity-market-neutral-2-d1b58874fd0e",
@@ -452,7 +500,7 @@
       "evaluation_metric": "",
       "teams_count": null,
       "competitors_count": 557,
-      "entries_count": 9558,
+      "entries_count": 9559,
       "difficulty": "Research",
       "competition_type": "tournament",
       "conference": null,
@@ -462,7 +510,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:16Z"
+      "scraped_at": "2026-10-17T09:12:00Z"
     },
     {
       "id": "quantconnect-quant-league-q4-2026-5444bc212bd0",
@@ -502,7 +550,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "asset-allocation-performance-forecasting-qrt-202-23fce32ad3c1",
@@ -544,7 +592,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "how-do-you-fill-in-the-missing-values-for-custom-8c4dd3e2d066",
@@ -586,7 +634,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "insurprime-can-you-guess-the-insurance-premium-c-f1fe2c8c06e2",
@@ -628,7 +676,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "cornell-undergraduate-women-in-investing-confere-149a30f2571e",
@@ -667,7 +715,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "rotman-international-trading-competition-2026-032b30047a4c",
@@ -706,7 +754,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "southeastern-hedge-fund-competition-2026-fd3a308a5f83",
@@ -746,7 +794,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "fma-investment-analysis-competition-b63390e05636",
@@ -785,7 +833,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "global-case-competition-at-harvard-2026-cbb61c8b02df",
@@ -825,7 +873,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "optiver-ready-trader-go-global-algorithmic-marke-a2cd1cd38f3f",
@@ -864,7 +912,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "quinnipiac-game-forum-2026-0712ae2cbb3d",
@@ -903,7 +951,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "14th-annual-uchicago-trading-competition-48b9fdc1081d",
@@ -943,7 +991,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "g-research-spring-into-quant-finance-2026-e087c75b0d1e",
@@ -983,7 +1031,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "imc-prosperity-global-algorithmic-manual-trading-4bcd8235aacb",
@@ -1022,7 +1070,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "citadel-citadel-securities-global-data-open-cham-b8fbfcce83e4",
@@ -1061,7 +1109,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "fma-1-000-000-student-investing-challenge-6172feb163ac",
@@ -1101,7 +1149,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "mcgill-international-portfolio-challenge-2026-15acd61f0f54",
@@ -1140,7 +1188,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "2027-mscf-trading-competition-2931ccd3f5f0",
@@ -1180,7 +1228,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "ensimag-if-algorithmic-trading-2026-0a24ea715dfd",
@@ -1255,7 +1303,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "international-quant-championship-iqc-9ef253f7a1ae",
@@ -1294,7 +1342,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "the5ers-weekly-trading-competition-55b08ab16600",
@@ -1334,7 +1382,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "numerai-classic-global-equity-hedge-fund-tournam-7ad52e2011ea",
@@ -1374,7 +1422,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:01:41Z"
+      "scraped_at": "2026-10-17T09:11:58Z"
     },
     {
       "id": "worldquant-brain-alpha-research-e4d13312eeb8",
@@ -1414,7 +1462,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "numerai-signals-raw-global-equities-alpha-tourna-23437895ba0e",
@@ -1453,7 +1501,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:01:46Z"
+      "scraped_at": "2026-10-17T09:11:58Z"
     },
     {
       "id": "synth-synthetic-price-data-effd87fe16dc",
@@ -1491,7 +1539,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:16Z"
+      "scraped_at": "2026-10-17T09:12:00Z"
     },
     {
       "id": "numerai-crypto-digital-assets-meta-model-tournam-e653677daf18",
@@ -1530,7 +1578,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:01:59Z"
+      "scraped_at": "2026-10-17T09:11:59Z"
     },
     {
       "id": "algogene-global-quant-trading-challenge-60ed67e4966c",
@@ -1572,7 +1620,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:03:21Z"
+      "scraped_at": "2026-10-17T09:12:02Z"
     },
     {
       "id": "btc-implied-volatility-prediction-competition-c9e67bd737cb",
@@ -1610,7 +1658,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:16Z"
+      "scraped_at": "2026-10-17T09:12:00Z"
     },
     {
       "id": "xentiment-social-sentiment-trading-signals-a8de7f0234e3",
@@ -1648,7 +1696,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:16Z"
+      "scraped_at": "2026-10-17T09:12:00Z"
     },
     {
       "id": "the-modern-ai-challenge-87863b2e1839",
@@ -1686,7 +1734,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:16Z"
+      "scraped_at": "2026-10-17T09:12:00Z"
     },
     {
       "id": "real-estate-price-prediction-c422ac355973",
@@ -1801,7 +1849,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "asset-production-estimation-kayrros-2020-6d10a5155624",
@@ -1842,7 +1890,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "bankers-and-markets-natixis-2022-899260d3031b",
@@ -1883,7 +1931,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "building-claim-prediction-generali-2019-91ca653ab5cd",
@@ -1925,7 +1973,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "can-you-explain-the-price-of-electricity-qrt-202-e7d0999a0c7e",
@@ -1968,7 +2016,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "can-you-retrieve-the-table-of-content-autorit-de-29d299d0caf5",
@@ -2010,7 +2058,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "deep-hedging-for-an-equinoxe-natixis-2020-2e56c6192fd5",
@@ -2051,7 +2099,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "electricity-price-forecasting-elmy-2024-dd1b2cb5aa70",
@@ -2095,7 +2143,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "esg-indicators-missing-value-estimation-pladifes-f22441f4ce29",
@@ -2137,7 +2185,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "exotic-pricing-with-multidimensional-non-linear--f9e606f5b2b6",
@@ -2179,7 +2227,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "high-frequency-market-data-could-you-guess-the-s-c5c80ce08ced",
@@ -2222,7 +2270,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "historical-consumption-regression-for-electricit-913eedc0e63f",
@@ -2262,7 +2310,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "how-to-detect-a-niche-of-fraudsters-bnp-paribas--eaab4e1caf86",
@@ -2304,7 +2352,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "learning-factors-for-stock-market-returns-predic-5ede9b002323",
@@ -2346,7 +2394,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "metamodels-to-improve-energy-consumptions-and-co-0054734635a9",
@@ -2387,7 +2435,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "prediction-of-daily-stock-end-of-day-movements-o-889e4d86f38f",
@@ -2430,7 +2478,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "prediction-of-direction-of-bitcoin-based-on-sent-b55f4891c9da",
@@ -2472,7 +2520,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "prediction-of-missing-bid-ask-spread-values-cfm--ab1bda0acb5b",
@@ -2513,7 +2561,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "prediction-of-sharpe-ratio-for-blends-of-quantit-5b2a50d31d74",
@@ -2555,7 +2603,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "real-estate-price-prediction-institut-louis-bach-aaa105581ab9",
@@ -2598,7 +2646,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "reconstruction-of-liquid-asset-performance-qrt-2-5bfc469dcd68",
@@ -2640,7 +2688,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "return-forecasting-of-cryptocurrency-clusters-na-87239cd44e45",
@@ -2682,7 +2730,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "smart-meter-is-coming-bcm-energy-plan-te-oui-202-208f0b112a73",
@@ -2723,7 +2771,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "stock-return-prediction-qrt-2020-6c95bde71bd5",
@@ -2765,7 +2813,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "stock-trading-prediction-of-auction-volumes-cfm--a62a0289372b",
@@ -2806,7 +2854,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "volatility-prediction-in-financial-markets-cfm-2-5deabbfff949",
@@ -2848,7 +2896,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "what-do-you-see-in-the-stock-market-data-autorit-0560c97a529c",
@@ -2890,7 +2938,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "where-will-the-next-trade-take-place-cfm-2020-90a75ddddc3b",
@@ -2932,7 +2980,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "who-are-the-high-frequency-traders-autorit-des-m-e45d76fda8e3",
@@ -2973,7 +3021,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     },
     {
       "id": "wind-power-forecasting-for-the-day-ahead-energy--e9bd6a71273f",
@@ -3014,7 +3062,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:02:38Z"
+      "scraped_at": "2026-10-17T09:12:01Z"
     }
   ]
 }
