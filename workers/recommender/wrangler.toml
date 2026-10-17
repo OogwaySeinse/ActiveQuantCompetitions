@@ -1,0 +1,7 @@
+name = "active-quant-recommender"
+main = "src/index.ts"
+compatibility_date = "2025-02-14"
+
+[observability]
+enabled = true
+

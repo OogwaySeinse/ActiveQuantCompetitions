@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Phase 2: 4 days left",
+    "url": "https://www.aicrowd.com/challenges/arc-white-box-estimation-challenge-2026",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Phase 2: 4 days left"
+  },
+  {
+    "title": "Global Chess Challenge 2025",
+    "url": "https://www.aicrowd.com/challenges/global-chess-challenge-2025",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Global Chess Challenge 2025 Train LLMs to Play Chess"
+  },
+  {
+    "title": "Orak Game Agent Challenge 2025",
+    "url": "https://www.aicrowd.com/challenges/orak-game-agent-challenge-2025",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Orak Game Agent Challenge 2025 Build an LLM agent for five real-world games"
+  },
+  {
+    "title": "Flextrack Challenge 2025",
+    "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Flextrack Challenge 2025 Detecting Energy Flexibility in Buildings"
+  },
+  {
+    "title": "Commonsense Persona-Grounded Dialogue Challenge 2025",
+    "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Commonsense Persona-Grounded Dialogue Challenge 2025 Create Context-Aware, Dynamic, and Immersive In-Game Dialogue"
+  },
+  {
+    "title": "Meta CRAG - MM Challenge 2025",
+    "url": "https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Meta CRAG - MM Challenge 2025 Improve RAG with Real-World Benchmarks | KDD Cup 2025"
+  },
+  {
+    "title": "NeurIPS 2020: Procgen Competition",
+    "url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "NeurIPS 2020: Procgen Competition Measure sample efficiency and generalization in reinforcement learning using procedurally generated environments"
+  },
+  {
+    "title": "Sounding Video Generation (SVG) Challenge 2024",
+    "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Sounding Video Generation (SVG) Challenge 2024 Generate Synchronised & Contextually Accurate Videos"
+  },
+  {
+    "title": "Meta Comprehensive RAG Benchmark: KDD Cup 2024",
+    "url": "https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Meta Comprehensive RAG Benchmark: KDD Cup 2024 Improve RAG with Real-World Benchmarks"
+  },
+  {
+    "title": "Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs",
+    "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs Revolutionise E-Commerce with LLM!"
+  },
+  {
+    "title": "Generative Interior Design Challenge 2024",
+    "url": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Generative Interior Design Challenge 2024 Revolutionising Interior Design with AI"
+  },
+  {
+    "title": "Commonsense Persona-Grounded Dialogue Challenge 2023",
+    "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Commonsense Persona-Grounded Dialogue Challenge 2023 Evaluate Natural Conversations"
+  },
+  {
+    "title": "MeltingPot Challenge 2023",
+    "url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "MeltingPot Challenge 2023 Multi-Agent Dynamics & Mixed-Motive Cooperation"
+  },
+  {
+    "title": "NeurIPS 2023 Citylearn Challenge",
+    "url": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "NeurIPS 2023 Citylearn Challenge Advanced Building Control & Grid-Resilience"
+  },
+  {
+    "title": "NeurIPS 2023 - The Neural MMO Challenge",
+    "url": "https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "NeurIPS 2023 - The Neural MMO Challenge Specialize and Bargain in Brave New Worlds"
+  },
+  {
+    "title": "HackAPrompt 2023",
+    "url": "https://www.aicrowd.com/challenges/hackaprompt-2023",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "HackAPrompt 2023 Trick Large Language Models"
+  },
+  {
+    "title": "Amazon KDD Cup '23: Multilingual Recommendation Challenge",
+    "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "Amazon KDD Cup '23: Multilingual Recommendation Challenge Shopping Session Dataset"
+  },
+  {
+    "title": "MosquitoAlert Challenge 2023",
+    "url": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023",
+    "prize": "Knowledge",
+    "end_date": null,
+    "status": "active",
+    "description": "MosquitoAlert Challenge 2023 Small Object Detection and Classification"
+  }
+]

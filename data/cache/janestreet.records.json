@@ -1,0 +1,41 @@
+[
+  {
+    "id": "jane-street-monthly-quant-puzzle-it-s-a-metric-t-e97797c7db5f",
+    "title": "Jane Street Monthly Quant Puzzle: It's a Metric, Too",
+    "platform": "Jane Street",
+    "source": "janestreet",
+    "url": "https://janestreet.com/puzzles/current-puzzle",
+    "prize": "Leaderboard & Swag",
+    "prize_usd": 0.0,
+    "prize_currency": "USD",
+    "prize_raw": "Leaderboard & Swag",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "days_remaining": 14,
+    "status": "active",
+    "category": "Valuation, Portfolio & Case Arenas",
+    "tags": [
+      "combinatorics",
+      "jane-street",
+      "probability",
+      "prop-trading",
+      "quant-puzzle"
+    ],
+    "description": "It's a Metric, Too The 11-by-11 region above can be subdivided into various states . A âstateâ is a connected group of 1 or more squares that is symmetric in some way, be it via rotation or reflection. If every nontrivial rotation or reflection of the plane that takes a state to itself leaves exactly 1 of its squares fixed, then that square is its capitol. (So, for example, a 1-by-3 region has no capitol, nor does the âXâ pentomino.) The",
+    "organizer": "Jane Street",
+    "evaluation_metric": "Exact Mathematical Solution",
+    "teams_count": null,
+    "competitors_count": null,
+    "entries_count": null,
+    "difficulty": "Advanced",
+    "competition_type": "tournament",
+    "conference": "Jane Street",
+    "conference_year": null,
+    "paper_url": null,
+    "first_seen_at": null,
+    "is_new": false,
+    "prize_delta_usd": 0.0,
+    "days_Shift": 0,
+    "scraped_at": "2026-10-17T07:09:06Z"
+  }
+]

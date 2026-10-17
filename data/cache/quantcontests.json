@@ -1,0 +1,865 @@
+[
+  {
+    "id": "numerai-tournament",
+    "title": "Numerai Tournament",
+    "platform": "numerai",
+    "description": "The hardest data science tournament in the world. Predict the stock market with AI to power Numerai's hedge fund. Build models on obfuscated financial data and stake NMR cryptocurrency on your predictions.",
+    "prize": "$21,600,000+ paid",
+    "prizeValue": 21600000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://numer.ai/tournament",
+    "teams": 4546,
+    "difficulty": "Expert",
+    "tags": [
+      "stock market",
+      "hedge fund",
+      "NMR",
+      "crypto",
+      "time series",
+      "staking"
+    ]
+  },
+  {
+    "id": "numerai-signals",
+    "title": "Numerai Signals",
+    "platform": "numerai",
+    "description": "Submit your own stock market signals on 5000+ global stocks. Discover your signal's originality compared to other signals and stake NMR cryptocurrency to earn rewards based on performance.",
+    "prize": "$11,400,000+ paid",
+    "prizeValue": 11400000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://signals.numer.ai",
+    "teams": 494,
+    "difficulty": "Expert",
+    "tags": [
+      "signals",
+      "stocks",
+      "hedge fund",
+      "NMR",
+      "originality"
+    ]
+  },
+  {
+    "id": "crunchdao-falcon",
+    "title": "Falcon: The Collective Pricing Engine",
+    "platform": "crunchdao",
+    "description": "Can you outsmart the falcons and predict where the dove will go next? Build models to forecast price-like timeseries using collective intelligence.",
+    "prize": "$10,000/month",
+    "prizeValue": 120000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://hub.crunchdao.com/competitions/falcon",
+    "teams": 850,
+    "difficulty": "Advanced",
+    "tags": [
+      "timeseries",
+      "forecasting",
+      "pricing",
+      "collective intelligence"
+    ]
+  },
+  {
+    "id": "crunchdao-datacrunch",
+    "title": "DataCrunch Equity Market Neutral",
+    "platform": "crunchdao",
+    "description": "Weekly prediction contest ranking 3000 most liquid US equities for DataCrunch's Hedge Fund. Build market neutral strategies with real market impact.",
+    "prize": "$120,000/year",
+    "prizeValue": 120000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://hub.crunchdao.com/competitions/datacrunch",
+    "teams": 1200,
+    "difficulty": "Expert",
+    "tags": [
+      "equities",
+      "market neutral",
+      "hedge fund",
+      "US stocks",
+      "ranking"
+    ]
+  },
+  {
+    "id": "crunchdao-structural-break",
+    "title": "ADIA Lab Structural Break Open Benchmark",
+    "platform": "crunchdao",
+    "description": "Detect structural changes in time series data for accurate insights. Sponsored by ADIA Lab, one of the world's largest sovereign wealth funds.",
+    "prize": "$6,000 USDC",
+    "prizeValue": 6000,
+    "startDate": "",
+    "deadline": "2026-12-18",
+    "link": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark",
+    "teams": 400,
+    "difficulty": "Advanced",
+    "tags": [
+      "structural break",
+      "time series",
+      "ADIA",
+      "change detection"
+    ]
+  },
+  {
+    "id": "worldquant-brain",
+    "title": "WorldQuant BRAIN Alpha Research",
+    "platform": "worldquant",
+    "description": "Build mathematical models (alphas) that predict future price movements of financial instruments. Join 250,000+ users and 9,000+ consultants building quantitative trading strategies on 125,000+ data fields.",
+    "prize": "Research Consultant Position",
+    "prizeValue": 50000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://platform.worldquantbrain.com",
+    "teams": 250000,
+    "difficulty": "Intermediate",
+    "tags": [
+      "alpha",
+      "research",
+      "consultant",
+      "quant finance",
+      "factor investing"
+    ]
+  },
+  {
+    "id": "worldquant-iqc",
+    "title": "International Quant Championship (IQC)",
+    "platform": "worldquant",
+    "description": "Annual competition to find the next quant champion. Build trading alphas on the BRAIN platform and compete against global talent from universities worldwide.",
+    "prize": "Championship + Career Opportunities",
+    "prizeValue": 100000,
+    "startDate": "",
+    "deadline": "",
+    "link": "https://www.worldquant.com/brain/iqc/",
+    "teams": 50000,
+    "difficulty": "Advanced",
+    "tags": [
+      "championship",
+      "alpha",
+      "university",
+      "career"
+    ]
+  },
+  {
+    "id": "kaggle-hull-tactical",
+    "title": "Hull Tactical - Market Prediction",
+    "platform": "kaggle",
+    "description": "Can you predict market predictability? Develop models to forecast market conditions and trading opportunities for Hull Tactical Asset Management.",
+    "prize": "Swag",
+    "prizeValue": 500,
+    "startDate": "",
+    "deadline": "2025-06-30",
+    "link": "https://www.kaggle.com/competitions/hull-tactical-market-prediction",
+    "teams": 3677,
+    "difficulty": "Intermediate",
+    "tags": [
+      "market prediction",
+      "trading",
+      "time series",
+      "asset management"
+    ]
+  },
+  {
+    "id": "kaggle-mitsui-commodity",
+    "title": "MITSUI&CO. Commodity Prediction Challenge",
+    "platform": "kaggle",
+    "description": "Develop a robust model for accurate and stable prediction of commodity prices. Build trading models for global commodity markets with one of Japan's largest trading companies.",
+    "prize": "$100,000",
+    "prizeValue": 100000,
+    "startDate": "",
+    "deadline": "2025-01-17",
+    "link": "https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge",
+    "teams": 1711,
+    "difficulty": "Advanced",
+    "tags": [
+      "commodity",
+      "prices",
+      "trading",
+      "forecasting",
+      "MITSUI"
+    ]
+  },
+  {
+    "id": "kaggle-reversal-points",
+    "title": "Detecting Reversal Points in US Equities",
+    "platform": "kaggle",
+    "description": "Predict local highs and lows in anonymized stock data. Identify market turning points for trading strategies using machine learning.",
+    "prize": "$3,500",
+    "prizeValue": 3500,
+    "startDate": "",
+    "deadline": "2024-12-30",
+    "link": "https://www.kaggle.com/competitions/detecting-reversal-points-in-us-equities",
+    "teams": 382,
+    "difficulty": "Intermediate",
+    "tags": [
+      "equities",
+      "reversal",
+      "stocks",
+      "technical analysis",
+      "turning points"
+    ]
+  },
+  {
+    "id": "kaggle-helios-corn",
+    "title": "Helios Corn Futures Climate Challenge",
+    "platform": "kaggle",
+    "description": "Turn weather wisdom into trading gold! Use Helios AI's climate data to decode weather signals behind corn futures and outsmart the markets.",
+    "prize": "$7,500",
+    "prizeValue": 7500,
+    "startDate": "",
+    "deadline": "2025-01-31",
+    "link": "https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge",
+    "teams": 42,
+    "difficulty": "Intermediate",
+    "tags": [
+      "futures",
+      "commodities",
+      "climate",
+      "corn",
+      "weather",
+      "agriculture"
+    ]
+  },
+  {
+    "id": "zindi-financial-health",
+    "title": "Financial Health Prediction Challenge",
+    "platform": "zindi",
+    "description": "Predict the financial wellbeing of small businesses using machine learning. Help identify businesses at financial risk using classification models.",
+    "prize": "$1,500",
+    "prizeValue": 1500,
+    "startDate": "",
+    "deadline": "2025-02-28",
+    "link": "https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge",
+    "teams": 450,
+    "difficulty": "Beginner",
+    "tags": [
+      "finance",
+      "classification",
+      "small business",
+      "risk assessment"
+    ]
+  },
+  {
+    "id": "zindi-maize-prices",
+    "title": "agriBORA Commodity Price Forecasting",
+    "platform": "zindi",
+    "description": "Forecast weekly maize commodity prices. Build time series models for agricultural commodity markets in Africa.",
+    "prize": "$9,550",
+    "prizeValue": 9550,
+    "startDate": "",
+    "deadline": "2024-12-27",
+    "link": "https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge",
+    "teams": 380,
+    "difficulty": "Intermediate",
+    "tags": [
+      "commodity",
+      "timeseries",
+      "forecasting",
+      "agriculture",
+      "maize"
+    ]
+  },
+  {
+    "id": "quantconnect-league-q4-2025",
+    "title": "QuantConnect Quant League Q4 2025",
+    "platform": "quantconnect",
+    "description": "The final Quant League competition before transitioning to Strategies. Build algorithmic trading strategies competing against university teams worldwide. Features Open League and Pro League divisions.",
+    "prize": "Recognition + Visibility",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2025-12-31",
+    "link": "https://www.quantconnect.com/league/2025-q4/",
+    "teams": 500,
+    "difficulty": "Advanced",
+    "tags": [
+      "algorithmic trading",
+      "university",
+      "league",
+      "strategies",
+      "backtesting"
+    ]
+  },
+  {
+    "id": "bloomberg-gtc-2025",
+    "title": "Bloomberg 2025 Global Trading Challenge",
+    "platform": "bloomberg",
+    "description": "Teams of undergraduate students manage a virtual portfolio using the Bloomberg Terminal. Compete against universities worldwide in this prestigious annual competition.",
+    "prize": "Bloomberg Terminal Access + Recognition",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "2025-11-14",
+    "link": "https://portal.bloombergforeducation.com",
+    "teams": 5000,
+    "difficulty": "Intermediate",
+    "tags": [
+      "bloomberg terminal",
+      "portfolio management",
+      "university",
+      "undergraduate"
+    ]
+  },
+  {
+    "id": "uchicago-trading-2026",
+    "title": "14th Annual UChicago Trading Competition",
+    "platform": "uchicago",
+    "description": "Premier algorithmic trading competition hosted by the University of Chicago. Compete in multiple trading cases including market making, options, and algorithmic challenges.",
+    "prize": "Cash Prizes + Recruitment",
+    "prizeValue": 25000,
+    "startDate": "",
+    "deadline": "2026-04-11",
+    "link": "https://tradingcompetition.uchicago.edu",
+    "teams": 200,
+    "difficulty": "Expert",
+    "tags": [
+      "algorithmic",
+      "market making",
+      "options",
+      "university",
+      "Chicago"
+    ]
+  },
+  {
+    "id": "cme-trading-challenge-2025",
+    "title": "CME Group Trading Challenge",
+    "platform": "cme",
+    "description": "Trade futures and options on CME Group's simulated platform. Learn about derivatives markets while competing for prizes in this educational trading competition.",
+    "prize": "Cash Prizes",
+    "prizeValue": 15000,
+    "startDate": "",
+    "deadline": "2025-01-31",
+    "link": "https://www.cmegroup.com/education/trading-challenge.html",
+    "teams": 1000,
+    "difficulty": "Intermediate",
+    "tags": [
+      "futures",
+      "options",
+      "derivatives",
+      "CME",
+      "simulation"
+    ]
+  },
+  {
+    "id": "cmu-mscf-trading-2025",
+    "title": "2025 MSCF Trading Competition",
+    "platform": "cmumscf",
+    "description": "Carnegie Mellon University Master of Science in Computational Finance annual trading competition. Over 150 students compete in algorithmic trading challenges.",
+    "prize": "Cash Prizes + Recognition",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "2025-09-20",
+    "link": "https://www.cmu.edu/mscf/news-events/news/2024/2025-mscf-trading-competition.html",
+    "teams": 150,
+    "difficulty": "Advanced",
+    "tags": [
+      "CMU",
+      "MSCF",
+      "computational finance",
+      "algorithmic",
+      "graduate"
+    ]
+  },
+  {
+    "id": "algogene-global-quant-2025",
+    "title": "ALGOGENE Global Quant Trading Challenge",
+    "platform": "algogene",
+    "description": "Global algorithmic trading competition on ALGOGENE platform. Develop and deploy trading strategies using real market data.",
+    "prize": "Cash Prizes + Platform Credits",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://algogene.com/contest/",
+    "teams": 500,
+    "difficulty": "Advanced",
+    "tags": [
+      "algorithmic",
+      "quantitative",
+      "trading strategies",
+      "backtesting"
+    ]
+  },
+  {
+    "id": "algogene-league",
+    "title": "League of Algo Challenge",
+    "platform": "algogene",
+    "description": "Competitive league format for algorithmic traders. Develop trading algorithms and compete for rankings and prizes.",
+    "prize": "Cash Prizes",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://algogene.com/contest/",
+    "teams": 300,
+    "difficulty": "Intermediate",
+    "tags": [
+      "league",
+      "algorithmic",
+      "competition",
+      "ranking"
+    ]
+  },
+  {
+    "id": "quantchallenge-2025",
+    "title": "QuantChallenge 2025",
+    "platform": "quantchallenge",
+    "description": "Annual quantitative trading competition combining market research and algorithmic trading. Teams compete over a week-long challenge with $20,000+ in prizes.",
+    "prize": "$20,000+",
+    "prizeValue": 20000,
+    "startDate": "",
+    "deadline": "2025-09-25",
+    "link": "https://quantchallenge.org",
+    "teams": 500,
+    "difficulty": "Advanced",
+    "tags": [
+      "market research",
+      "algorithmic trading",
+      "student",
+      "annual"
+    ]
+  },
+  {
+    "id": "the5ers-weekly",
+    "title": "The5ers Weekly Trading Competition",
+    "platform": "the5ers",
+    "description": "Free weekly trading competition with 100 winners per week. Prizes include funded trading accounts up to $60K High Stakes for 1st place, $20K for 2nd, and $10K for 3rd.",
+    "prize": "$60K Funded Account (1st)",
+    "prizeValue": 60000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://the5ers.com/trading-competition/",
+    "teams": 5000,
+    "difficulty": "Intermediate",
+    "tags": [
+      "prop trading",
+      "funded account",
+      "forex",
+      "free entry",
+      "weekly"
+    ]
+  },
+  {
+    "id": "gresearch-spring-2026",
+    "title": "G-Research Spring into Quant Finance 2026",
+    "platform": "gresearch",
+    "description": "Virtual insight week for students interested in quantitative finance careers. Learn about quant research and trading through workshops, challenges, and networking.",
+    "prize": "Career Opportunities",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2026-04-17",
+    "link": "https://www.gresearch.com/join-us/events/",
+    "teams": 200,
+    "difficulty": "Beginner",
+    "tags": [
+      "quant finance",
+      "career",
+      "workshop",
+      "networking",
+      "student"
+    ]
+  },
+  {
+    "id": "ens-cfm-hf-data",
+    "title": "CFM High Frequency Data Challenge",
+    "platform": "ens",
+    "description": "Predict financial market movements using high-frequency trading data. Sponsored by CFM (Capital Fund Management), one of the world's leading quantitative asset managers.",
+    "prize": "Recognition + Prizes",
+    "prizeValue": 3000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://challengedata.ens.fr/challenges/141",
+    "teams": 200,
+    "difficulty": "Expert",
+    "tags": [
+      "high frequency",
+      "CFM",
+      "market microstructure",
+      "time series"
+    ]
+  },
+  {
+    "id": "ens-qrt-survival",
+    "title": "QRT Survival Prediction Challenge",
+    "platform": "ens",
+    "description": "Predict company survival using financial and market data. Sponsored by QRT (Qube Research & Technologies), a global quantitative investment firm.",
+    "prize": "Recognition + Prizes",
+    "prizeValue": 3000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://challengedata.ens.fr/challenges/89",
+    "teams": 150,
+    "difficulty": "Advanced",
+    "tags": [
+      "survival analysis",
+      "QRT",
+      "credit risk",
+      "classification"
+    ]
+  },
+  {
+    "id": "ens-stock-returns",
+    "title": "Stock Return Forecasting Challenge",
+    "platform": "ens",
+    "description": "Build models to predict stock returns using fundamental and technical data. Classic quantitative finance prediction problem.",
+    "prize": "Recognition",
+    "prizeValue": 1000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://challengedata.ens.fr/challenges",
+    "teams": 300,
+    "difficulty": "Intermediate",
+    "tags": [
+      "stock returns",
+      "forecasting",
+      "factor models",
+      "regression"
+    ]
+  },
+  {
+    "id": "grandcapital-cup",
+    "title": "Grand Capital Cup Tournament",
+    "platform": "grandcapital",
+    "description": "Weekly 24-hour demo trading tournament. Traders start with $10,000 virtual balance and compete for $500 real trading capital plus Professional Trader status.",
+    "prize": "$500 + Pro Status",
+    "prizeValue": 500,
+    "startDate": "",
+    "deadline": "",
+    "link": "https://grandcapital.net/contests/",
+    "teams": 1000,
+    "difficulty": "Beginner",
+    "tags": [
+      "forex",
+      "demo",
+      "weekly",
+      "tournament",
+      "CFD"
+    ]
+  },
+  {
+    "id": "janestreet-puzzles",
+    "title": "Jane Street Monthly Puzzles",
+    "platform": "janestreet",
+    "description": "Monthly mathematical and logic puzzles from Jane Street, one of the world's leading quantitative trading firms. Solving these puzzles demonstrates the problem-solving skills valued in quant trading.",
+    "prize": "Recognition + Swag",
+    "prizeValue": 100,
+    "startDate": "",
+    "deadline": "",
+    "link": "https://www.janestreet.com/puzzles/",
+    "teams": 10000,
+    "difficulty": "Advanced",
+    "tags": [
+      "puzzles",
+      "mathematics",
+      "logic",
+      "problem solving",
+      "Jane Street"
+    ]
+  },
+  {
+    "id": "fmwc-regular",
+    "title": "Financial Modeling World Cup",
+    "platform": "fmwc",
+    "description": "The leading financial modeling competition in Microsoft Excel. Solve real-life case studies by building financial models. Participants compete in regular rounds throughout the year.",
+    "prize": "Cash Prizes + Recognition",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "Ongoing",
+    "link": "https://fmworldcup.com/product-category/regular-competition/",
+    "teams": 5000,
+    "difficulty": "Intermediate",
+    "tags": [
+      "Excel",
+      "financial modeling",
+      "valuation",
+      "DCF",
+      "case study"
+    ]
+  },
+  {
+    "id": "mewc-2025",
+    "title": "Microsoft Excel World Championship",
+    "platform": "fmwc",
+    "description": "The ultimate Excel competition featuring the world's best spreadsheet experts. Compete for the title of Excel World Champion in fast-paced problem-solving challenges.",
+    "prize": "Championship Title + Cash",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2025-12-31",
+    "link": "https://excel-esports.com/",
+    "teams": 1000,
+    "difficulty": "Expert",
+    "tags": [
+      "Excel",
+      "championship",
+      "esports",
+      "spreadsheet",
+      "problem solving"
+    ]
+  },
+  {
+    "id": "gcch-2026",
+    "title": "Global Case Competition at Harvard 2026",
+    "platform": "gcch",
+    "description": "The world's most prestigious student-organized case competition. Teams engage in 3 weeks of rigorous case-solving in economics and finance, with the winning team receiving $10,000.",
+    "prize": "$10,000",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "2026-03-29",
+    "link": "https://www.thecasecompetition.org/gcch-2026",
+    "teams": 500,
+    "difficulty": "Advanced",
+    "tags": [
+      "Harvard",
+      "case competition",
+      "finance",
+      "economics",
+      "university"
+    ]
+  },
+  {
+    "id": "fma-investing-challenge",
+    "title": "FMA $1,000,000 Student Investing Challenge",
+    "platform": "fma",
+    "description": "Virtual portfolio competition powered by StockTrak. Students receive $1,000,000 virtual capital to build portfolios from US, Toronto, and Mexico exchanges, plus bonds, mutual funds, and ETFs.",
+    "prize": "Cash Prizes",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2025-05-31",
+    "link": "https://fmai.memberclicks.net/stocktrak",
+    "teams": 2000,
+    "difficulty": "Beginner",
+    "tags": [
+      "portfolio",
+      "simulation",
+      "StockTrak",
+      "stocks",
+      "university"
+    ]
+  },
+  {
+    "id": "fma-investment-analysis",
+    "title": "FMA Investment Analysis Competition",
+    "platform": "fma",
+    "description": "Groups of 3-5 students submit analysis reports judged before the Finance Leaders' Conference. Top 3 groups present at the conference and compete for cash prizes.",
+    "prize": "Cash Prizes",
+    "prizeValue": 3000,
+    "startDate": "",
+    "deadline": "2026-03-05",
+    "link": "https://www.fma.org/student-events-competitions",
+    "teams": 100,
+    "difficulty": "Intermediate",
+    "tags": [
+      "investment analysis",
+      "research",
+      "presentation",
+      "conference"
+    ]
+  },
+  {
+    "id": "ritc-2026",
+    "title": "Rotman International Trading Competition 2026",
+    "platform": "rotman",
+    "description": "Premier algorithmic and electronic trading competition. Teams compete in simulated trading cases including market making, sales & trading, and algorithmic execution.",
+    "prize": "Cash Prizes + Recognition",
+    "prizeValue": 25000,
+    "startDate": "",
+    "deadline": "2026-02-15",
+    "link": "https://ritc.rotman.utoronto.ca/",
+    "teams": 500,
+    "difficulty": "Expert",
+    "tags": [
+      "algorithmic trading",
+      "market making",
+      "simulation",
+      "Toronto"
+    ]
+  },
+  {
+    "id": "cfa-research-challenge-2026",
+    "title": "CFA Institute Research Challenge 2025-26",
+    "platform": "cfa",
+    "description": "Annual global competition where university students analyze a public company, write a research report, and present to industry professionals. Tests equity research and valuation skills.",
+    "prize": "Career Opportunities + Recognition",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2025-10-31",
+    "link": "https://www.cfainstitute.org/en/about/universities/university-competition",
+    "teams": 6000,
+    "difficulty": "Advanced",
+    "tags": [
+      "equity research",
+      "valuation",
+      "CFA",
+      "financial analysis",
+      "report writing"
+    ]
+  },
+  {
+    "id": "cfa-ethics-challenge-2025",
+    "title": "CFA Societies Canada Ethics Challenge",
+    "platform": "cfa",
+    "description": "Challenge focused on ethical decision-making in finance. Teams analyze ethics cases and present solutions demonstrating CFA Institute Code of Ethics principles.",
+    "prize": "Recognition + Career Opportunities",
+    "prizeValue": 2000,
+    "startDate": "",
+    "deadline": "2025-10-15",
+    "link": "https://www.cfainstitute.org/en/about/universities/university-competition/ethics-challenge",
+    "teams": 500,
+    "difficulty": "Intermediate",
+    "tags": [
+      "ethics",
+      "CFA",
+      "decision making",
+      "professional standards"
+    ]
+  },
+  {
+    "id": "mipc-2026",
+    "title": "McGill International Portfolio Challenge 2026",
+    "platform": "mipc",
+    "description": "The leading international buy-side finance challenge for university students addressing socio-economic issues. Teams of up to 4 students compete in portfolio management and analysis.",
+    "prize": "Cash Prizes + Networking",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "2025-09-15",
+    "link": "https://mipc.ca/",
+    "teams": 300,
+    "difficulty": "Advanced",
+    "tags": [
+      "portfolio management",
+      "buy-side",
+      "asset management",
+      "McGill"
+    ]
+  },
+  {
+    "id": "nibc-2026",
+    "title": "National Investment Banking Competition 2026",
+    "platform": "nibc",
+    "description": "Canada's premier investment banking case competition. Students tackle real M&A, valuation, and corporate finance cases judged by industry professionals.",
+    "prize": "Cash Prizes + Internships",
+    "prizeValue": 15000,
+    "startDate": "",
+    "deadline": "2025-11-30",
+    "link": "https://www.nibccanada.com",
+    "teams": 200,
+    "difficulty": "Expert",
+    "tags": [
+      "investment banking",
+      "M&A",
+      "valuation",
+      "corporate finance",
+      "Vancouver"
+    ]
+  },
+  {
+    "id": "battle-on-bay-2026",
+    "title": "Battle on Bay 2026",
+    "platform": "rotman",
+    "description": "Prestigious finance case competition in Toronto's financial district. Teams compete in valuation, financial analysis, and presentation challenges.",
+    "prize": "Cash Prizes",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2025-11-30",
+    "link": "https://www.battleonbay.ca/",
+    "teams": 100,
+    "difficulty": "Advanced",
+    "tags": [
+      "finance",
+      "Toronto",
+      "Bay Street",
+      "valuation",
+      "case competition"
+    ]
+  },
+  {
+    "id": "vanberkom-2026",
+    "title": "Van Berkom JMSB Small-Cap Case Competition 2026",
+    "platform": "cfa",
+    "description": "Prestigious small-cap equity research competition at Concordia University. Teams analyze small-cap companies and present investment recommendations.",
+    "prize": "Cash Prizes + Career Opportunities",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "2025-10-31",
+    "link": "http://www.vanberkomcc.com/",
+    "teams": 50,
+    "difficulty": "Advanced",
+    "tags": [
+      "small cap",
+      "equity research",
+      "Montreal",
+      "stock pitch"
+    ]
+  },
+  {
+    "id": "gem-traders-cup-2025",
+    "title": "GEM Trader's Cup 2025",
+    "platform": "gem",
+    "description": "Trading competition for French business schools on ProRealTime platform. Over 200 participants from 10 schools compete using real-time market data with virtual funds.",
+    "prize": "Recognition + Networking",
+    "prizeValue": 2000,
+    "startDate": "",
+    "deadline": "2025-03-31",
+    "link": "https://gem-financesociety.com/fr/poles-financiers/financial-competition/",
+    "teams": 200,
+    "difficulty": "Intermediate",
+    "tags": [
+      "ProRealTime",
+      "trading",
+      "French schools",
+      "forex",
+      "stocks"
+    ]
+  },
+  {
+    "id": "sehfc-2026",
+    "title": "Southeastern Hedge Fund Competition 2026",
+    "platform": "fma",
+    "description": "Premier hedge fund stock pitch competition hosted by Georgia State University. Students pitch long/short equity ideas to panels of hedge fund professionals.",
+    "prize": "Cash Prizes + Networking",
+    "prizeValue": 10000,
+    "startDate": "",
+    "deadline": "2026-02-28",
+    "link": "https://robinson.gsu.edu/academic-departments/finance/about/southeastern-hedge-fund-competition/",
+    "teams": 50,
+    "difficulty": "Expert",
+    "tags": [
+      "hedge fund",
+      "stock pitch",
+      "long/short",
+      "equity",
+      "GSU"
+    ]
+  },
+  {
+    "id": "qgame-2026",
+    "title": "Quinnipiac GAME Forum 2026",
+    "platform": "fma",
+    "description": "Global Asset Management Education forum - premier student-managed investment fund conference. Students present portfolio strategies and compete in stock pitch competitions.",
+    "prize": "Recognition + Networking",
+    "prizeValue": 5000,
+    "startDate": "",
+    "deadline": "2026-03-31",
+    "link": "https://qgame.qu.edu/",
+    "teams": 100,
+    "difficulty": "Advanced",
+    "tags": [
+      "asset management",
+      "portfolio",
+      "stock pitch",
+      "student fund"
+    ]
+  },
+  {
+    "id": "win-conference-2026",
+    "title": "Cornell Undergraduate Women in Investing Conference 2026",
+    "platform": "cfa",
+    "description": "Premier conference and stock pitch competition for undergraduate women interested in investment management. Features networking with industry professionals.",
+    "prize": "Career Opportunities + Networking",
+    "prizeValue": 3000,
+    "startDate": "",
+    "deadline": "2026-01-31",
+    "link": "https://www.johnson.cornell.edu/parker-center-for-investment-research/undergraduate-women-in-investing-conference/",
+    "teams": 200,
+    "difficulty": "Intermediate",
+    "tags": [
+      "women in finance",
+      "stock pitch",
+      "Cornell",
+      "diversity"
+    ]
+  }
+]

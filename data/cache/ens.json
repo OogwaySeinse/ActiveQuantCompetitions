@@ -1,0 +1,1338 @@
+[
+  {
+    "title": "Asset Allocation Performance forecasting",
+    "organizer": "QRT",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/167",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Real-time forecast of platform waiting time",
+    "organizer": "SNCF-Transilien",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/166",
+    "tags": [
+      "Industrial",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Anatomic structures segmentation with missing labels",
+    "organizer": "Raidium",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/165",
+    "tags": [
+      "Biology",
+      "Health",
+      "Segmentation",
+      "Images",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Behavioral Job Recommendation with Online Machine Learning and Collaborative Filtering",
+    "organizer": "HrFlow.ai",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/164",
+    "tags": [
+      "Economic sciences",
+      "Industrial",
+      "Classification",
+      "Tabular",
+      "Texts",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predict parking violations!",
+    "organizer": "Egis",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/163",
+    "tags": [
+      "Humanities",
+      "Industrial",
+      "Regression",
+      "Time series",
+      "Tabular",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Overall Survival Prediction for patients diagnosed with Myeloid Leukemia",
+    "organizer": "QRT",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/162",
+    "tags": [
+      "Biology",
+      "Health",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "InsurPrime: Can You Guess the Insurance Premium?",
+    "organizer": "Crédit Agricole Assurances",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/161",
+    "tags": [
+      "Economic sciences",
+      "Insurance",
+      "Regression",
+      "Tabular",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "How do you fill in the missing values for customer electricity consumption?",
+    "organizer": "Enedis",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/160",
+    "tags": [
+      "Physics",
+      "Industrial",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Parkinson's Disease: Predicting and Correcting Bias in Motor Score Evaluation",
+    "organizer": "Institut du Cerveau",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/159",
+    "tags": [
+      "Biology",
+      "Neuroscience",
+      "Health",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Improving Industrial Quality Control with Computer Vision",
+    "organizer": "Valeo",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/157",
+    "tags": [
+      "Industrial",
+      "Classification",
+      "Images",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Toxic gas identification",
+    "organizer": "Bertin Technologies",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/156",
+    "tags": [
+      "Chemistry",
+      "Industrial",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "EchoCem: Third Interface Echo Segmentation for Cement Quality Assessment",
+    "organizer": "SLB",
+    "year": 2026,
+    "url": "https://challengedata.ens.fr/challenges/153",
+    "tags": [
+      "Physics",
+      "Industrial",
+      "Segmentation",
+      "Images",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "ADMET property prediction for drug discovery",
+    "organizer": "ENS - PSL",
+    "year": null,
+    "url": "https://challengedata.ens.fr/challenges/152",
+    "tags": [
+      "Teaching challenge",
+      "Biology",
+      "Chemistry",
+      "Classification",
+      "Texts",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predict sequentially the evolution of a career",
+    "organizer": "HrFlow.ai",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/151",
+    "tags": [
+      "Humanities",
+      "Industrial",
+      "Reinforcement learning",
+      "Classification",
+      "Texts",
+      "Less than 10MB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Few-shots to learn anatomic and oncologic structures and in radiology",
+    "organizer": "Raidium",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/150",
+    "tags": [
+      "Biology",
+      "Health",
+      "Segmentation",
+      "Images",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "",
+    "organizer": "SNCF-Transilien",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/149",
+    "tags": [
+      "Economic sciences",
+      "Industrial",
+      "Regression",
+      "Time series",
+      "Tabular",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "High frequency market data: could you guess the stock?",
+    "organizer": "CFM",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/146",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "Tabular",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "CorroSeg : Corrosion Detection in Wells",
+    "organizer": "SLB",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/144",
+    "tags": [
+      "Physics",
+      "Industrial",
+      "Segmentation",
+      "Images",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Football : Can you guess the winner?",
+    "organizer": "QRT",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/143",
+    "tags": [
+      "Sport",
+      "Classification",
+      "Tabular",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Electricity price forecasting",
+    "organizer": "Elmy",
+    "year": 2024,
+    "url": "https://challengedata.ens.fr/challenges/140",
+    "tags": [
+      "Economic sciences",
+      "Industrial",
+      "Classification",
+      "Regression",
+      "Time series",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predicting molecule-protein interaction for drug discovery",
+    "organizer": "ENS - PSL",
+    "year": null,
+    "url": "https://challengedata.ens.fr/challenges/122",
+    "tags": [
+      "Teaching challenge",
+      "Chemistry",
+      "Regression",
+      "Texts",
+      "Less than 10MB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Challenge MNIST-10",
+    "organizer": "ChallengeData",
+    "year": null,
+    "url": "https://challengedata.ens.fr/challenges/118",
+    "tags": [
+      "Teaching challenge",
+      "Classification",
+      "Images"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Challenge MNIST-2",
+    "organizer": "ChallengeData",
+    "year": null,
+    "url": "https://challengedata.ens.fr/challenges/116",
+    "tags": [
+      "Teaching challenge",
+      "Classification",
+      "Images"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Colloids: How small can we go?",
+    "organizer": "ESPCI Paris",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/106",
+    "tags": [
+      "Physics",
+      "Regression",
+      "Volumetric",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Few-shots to learn anatomic and oncological structures and in radiology",
+    "organizer": "Raidium",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/105",
+    "tags": [
+      "Biology",
+      "Health",
+      "Segmentation",
+      "Images",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "How to detect a niche of fraudsters?",
+    "organizer": "BNP Paribas PF",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/104",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Tabular",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Detecting PIK3CA mutation in breast cancer",
+    "organizer": "OWKIN",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/98",
+    "tags": [
+      "Biology",
+      "Health",
+      "Classification",
+      "Images",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Can you explain the price of electricity?",
+    "organizer": "QRT",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/97",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Finance",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Robustness to distribution changes and ambiguity",
+    "organizer": "EffiSciences",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/95",
+    "tags": [
+      "Classification",
+      "Images",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Real-time train crowding forecasting",
+    "organizer": "SNCF-Transilien",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/89",
+    "tags": [
+      "Environment",
+      "Industrial",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Precipitation Nowcasting",
+    "organizer": "PlumeLabs",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/88",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Regression",
+      "Images",
+      "Time series",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "ESG indicators missing value estimation",
+    "organizer": "Pladifes",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/87",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Can you retrieve the Table of Content?",
+    "organizer": "Autorité des Marchés Financiers",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/86",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Texts",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Biosonar - Odontoceti Click Detection",
+    "organizer": "Universite de Toulon",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/85",
+    "tags": [
+      "Biology",
+      "Oceanography",
+      "Classification",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Prediction of daily stock end-of-day movements on the US market",
+    "organizer": "CFM",
+    "year": 2023,
+    "url": "https://challengedata.ens.fr/challenges/84",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Regional Climate Forecast 2022",
+    "organizer": "CNRS",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/80",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Meteorology",
+      "Volumetric",
+      "10MB to 1GB"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Semantic segmentation of industrial facility point cloud",
+    "organizer": "EDF R&D",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/79",
+    "tags": [
+      "Industrial",
+      "Segmentation",
+      "Tabular",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Solar forecasting using Copernicus radiation images",
+    "organizer": "MINES ParisTech, PSL Research University",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/76",
+    "tags": [
+      "Physics",
+      "Meteorology",
+      "Regression",
+      "Images",
+      "Time series",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Learning factors for stock market returns prediction",
+    "organizer": "QRT",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/72",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Time series",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Return Forecasting of Cryptocurrency Clusters",
+    "organizer": "Napoleon X",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/71",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Bankers and markets",
+    "organizer": "Natixis",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/70",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Tabular",
+      "Less than 10MB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predicting odor compound concentrations",
+    "organizer": "VEOLIA",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/69",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Health",
+      "Regression",
+      "Spatio-temporal series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Real estate price prediction",
+    "organizer": "Institut Louis Bachelier",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/68",
+    "tags": [
+      "Economic sciences",
+      "Real estate",
+      "Regression",
+      "Images",
+      "Tabular",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Can you predict the tide ?",
+    "organizer": "INRIA",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/67",
+    "tags": [
+      "Geology",
+      "Meteorology",
+      "Oceanography",
+      "Regression",
+      "Volumetric",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "What do you see in the stock market data?",
+    "organizer": "Autorité des Marchés Financiers",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/66",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Segmentation",
+      "Time series",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Prediction of missing Bid-Ask spread values",
+    "organizer": "CFM",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/63",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Learning biological properties of molecules from their structure",
+    "organizer": "Simulations Plus",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/62",
+    "tags": [
+      "Chemistry",
+      "Health",
+      "Regression",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Data Centric Movie Reviews Sentiment Classification",
+    "organizer": "Kili Technology",
+    "year": 2022,
+    "url": "https://challengedata.ens.fr/challenges/61",
+    "tags": [
+      "Classification",
+      "Data centric",
+      "Texts",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Stock trading: prediction of auction volumes",
+    "organizer": "CFM",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/60",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Time series",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Rakuten Multi-modal Colour Extraction",
+    "organizer": "Rakuten Institute of Technology, Paris",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/59",
+    "tags": [
+      "Economic sciences",
+      "E-commerce",
+      "Multimodal classification",
+      "Texts",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "AI POWERED VISUAL INSPECTION FOR MANUFACTURING",
+    "organizer": "VALEO",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/58",
+    "tags": [
+      "Industrial",
+      "Classification",
+      "Images",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "EV Charging Stations Usage",
+    "organizer": "Planète Oui",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/57",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Sinusoid segmentation in subsurface images",
+    "organizer": "Schlumberger",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/55",
+    "tags": [
+      "Geology",
+      "Segmentation",
+      "Images",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Assessing uncertainty in air quality predictions",
+    "organizer": "Oze Energies",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/51",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Who are the high-frequency traders ?",
+    "organizer": "Autorité des Marchés Financiers",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/50",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Tabular",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Land cover predictive modeling from satellite images",
+    "organizer": "Preligens",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/48",
+    "tags": [
+      "Geology",
+      "Segmentation",
+      "Images",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Detecting Sleep Apnea from raw physiological signals",
+    "organizer": "Dreem",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/45",
+    "tags": [
+      "Biology",
+      "Health",
+      "Segmentation",
+      "Time series",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Reconstruction of Liquid Asset Performance",
+    "organizer": "QRT",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/44",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Interpreting neural networks predictions for multi-label classification of music catalogs.",
+    "organizer": "Mewo",
+    "year": 2021,
+    "url": "https://challengedata.ens.fr/challenges/43",
+    "tags": [
+      "Tabular",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Where will the next trade take place?",
+    "organizer": "CFM",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/40",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Tabular",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Asset production estimation",
+    "organizer": "Kayrros",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/39",
+    "tags": [
+      "Industrial",
+      "Regression",
+      "Time series",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Deep Hedging for an Equinoxe",
+    "organizer": "Natixis",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/38",
+    "tags": [
+      "Finance",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Defect Prediction on production lines",
+    "organizer": "VALEO",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/36",
+    "tags": [
+      "Classification",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Rakuten France Multimodal Product Data Classification",
+    "organizer": "Rakuten Institute of Technology, Paris",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/35",
+    "tags": [
+      "Economic sciences",
+      "E-commerce",
+      "Multimodal classification",
+      "Images",
+      "Texts",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Wind Power forecasting for the day-ahead energy market",
+    "organizer": "Compagnie Nationale du Rhône",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/34",
+    "tags": [
+      "Physics",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predicting lung cancer survival time",
+    "organizer": "OWKIN",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/33",
+    "tags": [
+      "Biology",
+      "Health",
+      "Regression",
+      "Volumetric",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Dyni Odontocete Click Classification, 10 species\r\n\r\n[ DOCC10 ]",
+    "organizer": "Universite de Toulon",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/32",
+    "tags": [
+      "Biology",
+      "Oceanography",
+      "Classification",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Prediction of direction of Bitcoin based on sentiment data",
+    "organizer": "Napoleon X",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/31",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "AI for Meter Reading",
+    "organizer": "Suez",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/30",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Classification",
+      "Images",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Smart meter is coming",
+    "organizer": "BCM Energy - Planète OUI",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/29",
+    "tags": [
+      "Physics",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Metamodels to improve energy consumptions and comfort control in big buildings",
+    "organizer": "Oze Energies",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/28",
+    "tags": [
+      "Physics",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predict sex from brain rhythms",
+    "organizer": "Dreem",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/27",
+    "tags": [
+      "Biology",
+      "Health",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "PhotoRoom Object Segmentation from Synthetic Images",
+    "organizer": "Artizans",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/25",
+    "tags": [
+      "Segmentation",
+      "Volumetric",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "NLP applied to judicial decisions parsing",
+    "organizer": "Predilex",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/24",
+    "tags": [
+      "Humanities",
+      "Law",
+      "Texts",
+      "10MB to 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Stock Return Prediction",
+    "organizer": "QRT",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/23",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Volatility prediction in financial markets",
+    "organizer": "CFM",
+    "year": 2018,
+    "url": "https://challengedata.ens.fr/challenges/22",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Time series",
+      "More than 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predicting response times of the Paris Fire Brigade vehicles",
+    "organizer": "Paris Fire Brigrade",
+    "year": 2020,
+    "url": "https://challengedata.ens.fr/challenges/21",
+    "tags": [
+      "Health",
+      "Regression",
+      "Tabular",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Solve 2x2x2 Rubik's cube",
+    "organizer": "LumenAI",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/20",
+    "tags": [
+      "Regression",
+      "Tabular",
+      "More than 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Building Claim Prediction",
+    "organizer": "Generali",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/19",
+    "tags": [
+      "Economic sciences",
+      "Insurance",
+      "Classification",
+      "Tabular",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Detecting breast cancer metastases",
+    "organizer": "OWKIN",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/18",
+    "tags": [
+      "Biology",
+      "Health",
+      "Classification",
+      "Images",
+      "More than 1GB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Drug-related questions classification",
+    "organizer": "Posos",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/17",
+    "tags": [
+      "Biology",
+      "Health",
+      "Classification",
+      "Texts",
+      "Less than 10MB",
+      "Advanced level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Prediction of daily stock movements on the US market",
+    "organizer": "CFM",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/16",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Optimizing well-being at work",
+    "organizer": "Oze Energies",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/15",
+    "tags": [
+      "Physics",
+      "Classification",
+      "Time series",
+      "Less than 10MB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Crack the neural code of the brain",
+    "organizer": "GNT ENS",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/14",
+    "tags": [
+      "Biology",
+      "Neuroscience",
+      "Classification",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Prediction of Sharpe ratio for blends of quantitative strategies",
+    "organizer": "Napoleon X",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/13",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Historical consumption regression for electricity supply pricing",
+    "organizer": "BCM Energy",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/12",
+    "tags": [
+      "Physics",
+      "Regression",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Screening and Diagnosis of esophageal cancer from in-vivo microscopy images",
+    "organizer": "Mauna Kea Technologies",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/11",
+    "tags": [
+      "Biology",
+      "Health",
+      "Classification",
+      "Images",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Predict brain deep sleep slow oscillation",
+    "organizer": "Dreem",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/10",
+    "tags": [
+      "Biology",
+      "Health",
+      "Classification",
+      "Time series",
+      "More than 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Exotic pricing with multidimensional non-linear interpolation",
+    "organizer": "Natixis",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/9",
+    "tags": [
+      "Economic sciences",
+      "Finance",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Spatiotemporal PM10 concentration prediction",
+    "organizer": "Plume Labs",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/7",
+    "tags": [
+      "Physics",
+      "Environment",
+      "Regression",
+      "Spatio-temporal series",
+      "10MB to 1GB",
+      "Intermediary level"
+    ],
+    "description": ""
+  },
+  {
+    "title": "Dynamic Profile Forecasting",
+    "organizer": "Enedis",
+    "year": 2019,
+    "url": "https://challengedata.ens.fr/challenges/6",
+    "tags": [
+      "Physics",
+      "Regression",
+      "Time series",
+      "10MB to 1GB",
+      "Basic level"
+    ],
+    "description": ""
+  }
+]
