@@ -539,6 +539,7 @@ def is_quant_competition(
 
 
 def canonicalize_url(url: str) -> str:
+    """Canonical URL key used for deduplication and ID hashing."""
     if not url:
         return ""
     url = url.strip()
@@ -548,6 +549,27 @@ def canonicalize_url(url: str) -> str:
     if netloc.startswith("www."):
         netloc = netloc[4:]
     path = re.sub(r"/+$", "", parsed.path or "")
+    query_pairs = [
+        (k, v)
+        for k, v in parse_qsl(parsed.query, keep_blank_values=False)
+        if k.lower() not in TRACKING_QUERY_KEYS
+    ]
+    query = urlencode(sorted(query_pairs))
+    return urlunparse((scheme, netloc, path, "", query, ""))
+
+
+def clean_display_url(url: str) -> str:
+    """Clean user-facing URL that preserves www. and path structure while stripping tracking params."""
+    if not url:
+        return ""
+    url = url.strip()
+    parsed = urlparse(url)
+    scheme = parsed.scheme.lower() or "https"
+    netloc = parsed.netloc.lower()
+    # Ensure kaggle.com always uses www.kaggle.com to avoid unnecessary apex redirects
+    if netloc == "kaggle.com":
+        netloc = "www.kaggle.com"
+    path = parsed.path or ""
     query_pairs = [
         (k, v)
         for k, v in parse_qsl(parsed.query, keep_blank_values=False)
@@ -828,7 +850,8 @@ def build_record(
 ) -> Optional[CompetitionRecord]:
     clean_title = normalize_title(title)
     canon_url = canonicalize_url(url)
-    if not clean_title or not canon_url:
+    display_url = clean_display_url(url)
+    if not clean_title or not canon_url or not display_url:
         return None
 
     norm_platform = normalize_platform(platform, fallback_source=source)
@@ -871,7 +894,7 @@ def build_record(
         title=clean_title,
         platform=norm_platform,
         source=source,
-        url=canon_url,
+        url=display_url,
         prize=prize_display,
         prize_usd=prize_usd,
         prize_currency=prize_currency,

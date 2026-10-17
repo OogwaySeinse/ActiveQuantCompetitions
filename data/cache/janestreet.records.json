@@ -4,7 +4,7 @@
     "title": "Jane Street Monthly Quant Puzzle: It's a Metric, Too",
     "platform": "Jane Street",
     "source": "janestreet",
-    "url": "https://janestreet.com/puzzles/current-puzzle",
+    "url": "https://www.janestreet.com/puzzles/current-puzzle/",
     "prize": "Leaderboard & Swag",
     "prize_usd": 0.0,
     "prize_currency": "USD",
@@ -36,6 +36,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:21Z"
+    "scraped_at": "2026-10-17T08:03:10Z"
   }
 ]

@@ -35,7 +35,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:19Z"
+    "scraped_at": "2026-10-17T08:02:16Z"
   },
   {
     "id": "btc-implied-volatility-prediction-competition-c9e67bd737cb",
@@ -73,7 +73,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:19Z"
+    "scraped_at": "2026-10-17T08:02:16Z"
   },
   {
     "id": "xentiment-social-sentiment-trading-signals-a8de7f0234e3",
@@ -111,7 +111,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:19Z"
+    "scraped_at": "2026-10-17T08:02:16Z"
   },
   {
     "id": "adia-lab-structural-break-challenge-real-time-ed-d996523e70e7",
@@ -148,7 +148,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:19Z"
+    "scraped_at": "2026-10-17T08:02:16Z"
   },
   {
     "id": "datacrunch-equity-market-neutral-2-d1b58874fd0e",
@@ -186,7 +186,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:19Z"
+    "scraped_at": "2026-10-17T08:02:16Z"
   },
   {
     "id": "synth-synthetic-price-data-effd87fe16dc",
@@ -224,6 +224,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:19Z"
+    "scraped_at": "2026-10-17T08:02:16Z"
   }
 ]

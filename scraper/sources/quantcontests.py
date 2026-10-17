@@ -243,7 +243,7 @@ FLAGSHIP_PROP_ARENAS: List[Dict[str, Any]] = [
         "title": "Citadel & Citadel Securities Global Data Open Championship",
         "platform": "Citadel / Correlation One",
         "organizer": "Citadel & Correlation One",
-        "url": "https://www.correlation-one.com/Programs/data-open",
+        "url": "https://www.correlation-one.com/",
         "prize": "$100,000",
         "prize_usd": 100000.0,
         "start_date": "2026-09-01",
@@ -383,6 +383,26 @@ def _parse_quant_contests_js(js_text: str) -> List[Dict[str, Any]]:
     return items
 
 
+# Upstream platforms in QuantBender/quant-contests whose domains are defunct/offline
+DEAD_UPSTREAM_PLATFORMS = {"nibc", "quantchallenge", "gem", "fmwc", "mewc", "grandcapital", "cme"}
+
+# Verified live replacement URLs for moved institutional/university competition pages
+URL_OVERRIDES: Dict[str, str] = {
+    "http://vanberkomcc.com": "https://www.concordia.ca/jmsb.html",
+    "http://www.vanberkomcc.com/": "https://www.concordia.ca/jmsb.html",
+    "https://algogene.com/contest/": "https://algogene.com/contest",
+    "https://www.cfainstitute.org/en/about/universities/university-competition": "https://www.cfainstitute.org/",
+    "https://www.cfainstitute.org/en/about/universities/university-competition/ethics-challenge": "https://www.cfasociety.org/canada/events-and-programs/ethics-challenge",
+    "https://www.gresearch.com/join-us/events/": "https://www.gresearch.com/events/",
+    "https://www.cmu.edu/mscf/news-events/news/2024/2025-mscf-trading-competition.html": "https://www.cmu.edu/mscf/",
+    "https://www.johnson.cornell.edu/parker-center-for-investment-research/undergraduate-women-in-investing-conference/": "https://business.cornell.edu/centers/parker/",
+    "https://robinson.gsu.edu/academic-departments/finance/about/southeastern-hedge-fund-competition/": "https://robinson.gsu.edu/academic-departments/finance/southeastern-hedge-fund-competition/",
+    "https://fmai.memberclicks.net/stocktrak": "https://www.stocktrak.com/",
+    "https://www.quantconnect.com/league/2025-q4": "https://www.quantconnect.com/league/",
+    "https://ritc.rotman.utoronto.ca/": "https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rotman-international-trading-competition/",
+}
+
+
 def scrape() -> List[CompetitionRecord]:
     session = create_session()
     resp = safe_get(session, DATA_JS_URL)
@@ -406,13 +426,14 @@ def scrape() -> List[CompetitionRecord]:
 
     for item in raw_items:
         plat_key = str(item.get("platform") or "").lower().strip()
-        if plat_key in DEDICATED_LIVE_PLATFORMS:
+        if plat_key in DEDICATED_LIVE_PLATFORMS or plat_key in DEAD_UPSTREAM_PLATFORMS:
             continue
 
         title = str(item.get("title") or "").strip()
         desc = str(item.get("description") or "").strip()
         prize = str(item.get("prize") or "Knowledge").strip()
-        url = str(item.get("link") or "").strip()
+        raw_link = str(item.get("link") or "").strip()
+        url = URL_OVERRIDES.get(raw_link, raw_link)
         tags = list(item.get("tags") or [])
         diff_raw = str(item.get("difficulty") or "Intermediate").strip()
 

@@ -38,7 +38,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:22Z"
+    "scraped_at": "2026-10-17T08:03:36Z"
   },
   {
     "id": "predict-price-movements-from-limit-order-book-da-051b83117c32",
@@ -79,6 +79,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T08:31:22Z"
+    "scraped_at": "2026-10-17T08:03:37Z"
   }
 ]

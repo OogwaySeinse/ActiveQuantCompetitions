@@ -4,7 +4,7 @@
     "title": "Tabular Time Series Trading Signal Classification",
     "platform": "Kaggle",
     "source": "kaggle",
-    "url": "https://kaggle.com/competitions/tabular-time-series-trading-signal-classification",
+    "url": "https://www.kaggle.com/competitions/tabular-time-series-trading-signal-classification",
     "prize": "$10",
     "prize_usd": 10.0,
     "prize_currency": "USD",
@@ -33,14 +33,14 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T07:09:40Z"
+    "scraped_at": "2026-10-17T08:04:12Z"
   },
   {
     "id": "ensimag-if-algorithmic-trading-2026-0a24ea715dfd",
     "title": "Ensimag IF - Algorithmic trading 2026",
     "platform": "Kaggle",
     "source": "kaggle",
-    "url": "https://kaggle.com/competitions/ensimag-if-2026",
+    "url": "https://www.kaggle.com/competitions/ensimag-if-2026",
     "prize": "Kudos",
     "prize_usd": 0.0,
     "prize_currency": "USD",
@@ -69,14 +69,14 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T07:09:40Z"
+    "scraped_at": "2026-10-17T08:04:12Z"
   },
   {
     "id": "real-estate-price-prediction-c422ac355973",
     "title": "Real Estate Price Prediction",
     "platform": "Kaggle",
     "source": "kaggle",
-    "url": "https://kaggle.com/competitions/realestatepriceprediction",
+    "url": "https://www.kaggle.com/competitions/realestatepriceprediction",
     "prize": "Kudos",
     "prize_usd": 0.0,
     "prize_currency": "USD",
@@ -105,14 +105,14 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T07:09:40Z"
+    "scraped_at": "2026-10-17T08:04:13Z"
   },
   {
     "id": "sf-dst-car-price-prediction-451b38d742e0",
     "title": "[SF-DST] Car Price prediction",
     "platform": "Kaggle",
     "source": "kaggle",
-    "url": "https://kaggle.com/competitions/sf-dst-car-price-prediction",
+    "url": "https://www.kaggle.com/competitions/sf-dst-car-price-prediction",
     "prize": "Kudos",
     "prize_usd": 0.0,
     "prize_currency": "USD",
@@ -141,6 +141,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-17T07:09:40Z"
+    "scraped_at": "2026-10-17T08:04:13Z"
   }
 ]

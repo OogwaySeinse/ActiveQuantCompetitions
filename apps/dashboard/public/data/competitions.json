@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-10-17T07:08:47Z",
-    "total_active": 79,
-    "total_prize_usd": 930810.0,
+    "generated_at": "2026-10-17T08:01:21Z",
+    "total_active": 72,
+    "total_prize_usd": 863310.0,
     "ending_soon_count": 0,
-    "platforms_count": 28,
+    "platforms_count": 22,
     "platforms": {
       "Kaggle": 4,
       "CFA Institute": 4,
@@ -12,102 +12,96 @@
       "Bloomberg": 1,
       "Wunder Fund": 1,
       "CrunchDAO": 6,
-      "NIBC": 1,
       "Rotman RITC": 2,
-      "FMWC": 2,
       "QuantConnect": 1,
       "ENS Challenge Data": 33,
-      "CME Group": 1,
       "FMA": 4,
       "Harvard GCCH": 1,
       "Optiver": 1,
-      "GEM Trader's Cup": 1,
       "UChicago Trading": 1,
       "G-Research": 1,
       "IMC Trading": 1,
       "Citadel / Correlation One": 1,
       "McGill MIPC": 1,
       "CMU MSCF": 1,
-      "QuantChallenge": 1,
       "WorldQuant BRAIN": 2,
       "The5ers": 1,
       "Numerai": 3,
-      "Algogene": 1,
-      "Grand Capital": 1
+      "Algogene": 1
     },
     "categories": {
       "Time Series & Econometrics": 14,
-      "Valuation, Portfolio & Case Arenas": 12,
-      "Algorithmic & Prop Trading": 5,
+      "Valuation, Portfolio & Case Arenas": 9,
+      "Algorithmic & Prop Trading": 4,
       "Market Microstructure & HFT": 8,
       "Alpha & Equity Prediction": 27,
       "Credit, Risk & Insurance": 2,
-      "Macro, Commodities & Derivatives": 5,
+      "Macro, Commodities & Derivatives": 2,
       "Crypto, DeFi & Digital Assets": 5,
       "Financial NLP & Sentiment": 1
     },
     "history": {
-      "new_competitions": 79,
+      "new_competitions": 72,
       "prize_changes": 0,
       "deadline_changes": 0,
-      "tracked_total": 90
+      "tracked_total": 100
     },
     "sources": [
       {
         "name": "numerai",
         "status": "ok",
         "count": 3,
-        "duration_ms": 13671,
+        "duration_ms": 38512,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       },
       {
         "name": "crunchdao",
         "status": "ok",
         "count": 6,
-        "duration_ms": 1270,
+        "duration_ms": 16376,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       },
       {
         "name": "ens",
         "status": "ok",
         "count": 34,
-        "duration_ms": 1969,
+        "duration_ms": 21801,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       },
       {
         "name": "janestreet",
         "status": "ok",
         "count": 1,
-        "duration_ms": 2177,
+        "duration_ms": 32638,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       },
       {
         "name": "quantcontests",
         "status": "ok",
-        "count": 33,
-        "duration_ms": 1588,
+        "count": 26,
+        "duration_ms": 10591,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       },
       {
         "name": "mlcontests",
         "status": "ok",
         "count": 2,
-        "duration_ms": 1743,
+        "duration_ms": 15710,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       },
       {
         "name": "kaggle",
         "status": "ok",
         "count": 4,
-        "duration_ms": 30548,
+        "duration_ms": 35967,
         "error": null,
-        "updated_at": "2026-10-17T07:08:47Z"
+        "updated_at": "2026-10-17T08:01:21Z"
       }
     ]
   },
@@ -117,7 +111,7 @@
       "title": "Tabular Time Series Trading Signal Classification",
       "platform": "Kaggle",
       "source": "kaggle",
-      "url": "https://kaggle.com/competitions/tabular-time-series-trading-signal-classification",
+      "url": "https://www.kaggle.com/competitions/tabular-time-series-trading-signal-classification",
       "prize": "$10",
       "prize_usd": 10.0,
       "prize_currency": "USD",
@@ -146,14 +140,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:40Z"
+      "scraped_at": "2026-10-17T08:04:12Z"
     },
     {
-      "id": "van-berkom-jmsb-small-cap-case-competition-2026-cd552fc4aa2e",
+      "id": "van-berkom-jmsb-small-cap-case-competition-2026-dd026714e7cc",
       "title": "Van Berkom JMSB Small-Cap Case Competition 2026",
       "platform": "CFA Institute",
       "source": "quantcontests",
-      "url": "http://vanberkomcc.com",
+      "url": "https://www.concordia.ca/jmsb.html",
       "prize": "Cash Prizes + Career Opportunities",
       "prize_usd": 10000.0,
       "prize_currency": "USD",
@@ -185,14 +179,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "cfa-institute-research-challenge-2026-26-6f88cfb58275",
+      "id": "cfa-institute-research-challenge-2026-26-d9f7b7862abc",
       "title": "CFA Institute Research Challenge 2026-26",
       "platform": "CFA Institute",
       "source": "quantcontests",
-      "url": "https://cfainstitute.org/en/about/universities/university-competition",
+      "url": "https://www.cfainstitute.org/",
       "prize": "Career Opportunities + Recognition",
       "prize_usd": 5000.0,
       "prize_currency": "USD",
@@ -225,14 +219,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "jane-street-monthly-quant-puzzle-it-s-a-metric-t-e97797c7db5f",
       "title": "Jane Street Monthly Quant Puzzle: It's a Metric, Too",
       "platform": "Jane Street",
       "source": "janestreet",
-      "url": "https://janestreet.com/puzzles/current-puzzle",
+      "url": "https://www.janestreet.com/puzzles/current-puzzle/",
       "prize": "Leaderboard & Swag",
       "prize_usd": 0.0,
       "prize_currency": "USD",
@@ -264,7 +258,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:06Z"
+      "scraped_at": "2026-10-17T08:03:10Z"
     },
     {
       "id": "bloomberg-2026-global-trading-challenge-95d1f98520de",
@@ -303,7 +297,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "wunder-fund-connectome-limit-order-book-price-mo-051b83117c32",
@@ -347,7 +341,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "adia-lab-structural-break-challenge-real-time-ed-d996523e70e7",
@@ -384,54 +378,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:02Z"
-    },
-    {
-      "id": "national-investment-banking-competition-2026-52bb5b12f656",
-      "title": "National Investment Banking Competition 2026",
-      "platform": "NIBC",
-      "source": "quantcontests",
-      "url": "https://nibccanada.com",
-      "prize": "Cash Prizes + Internships",
-      "prize_usd": 15000.0,
-      "prize_currency": "USD",
-      "prize_raw": "Cash Prizes + Internships",
-      "start_date": null,
-      "end_date": "2026-11-30",
-      "days_remaining": 44,
-      "status": "active",
-      "category": "Valuation, Portfolio & Case Arenas",
-      "tags": [
-        "M&A",
-        "Vancouver",
-        "corporate finance",
-        "investment banking",
-        "nibc",
-        "valuation"
-      ],
-      "description": "Canada's premier investment banking case competition. Students tackle real M&A, valuation, and corporate finance cases judged by industry professionals.",
-      "organizer": "National Investment Banking Competition",
-      "evaluation_metric": "LBO/DCF Valuation & Boardroom Pitch",
-      "teams_count": 200,
-      "competitors_count": null,
-      "entries_count": null,
-      "difficulty": "Beginner",
-      "competition_type": "competition",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:02:16Z"
     },
     {
       "id": "battle-on-bay-2026-d1bb4996f3a8",
       "title": "Battle on Bay 2026",
       "platform": "Rotman RITC",
       "source": "quantcontests",
-      "url": "https://battleonbay.ca",
+      "url": "https://www.battleonbay.ca/",
       "prize": "Cash Prizes",
       "prize_usd": 5000.0,
       "prize_currency": "USD",
@@ -464,7 +418,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "datacrunch-equity-market-neutral-2-d1b58874fd0e",
@@ -508,54 +462,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:02Z"
-    },
-    {
-      "id": "microsoft-excel-world-championship-f5f2e3e860b1",
-      "title": "Microsoft Excel World Championship",
-      "platform": "FMWC",
-      "source": "quantcontests",
-      "url": "https://excel-esports.com",
-      "prize": "Championship Title + Cash",
-      "prize_usd": 5000.0,
-      "prize_currency": "USD",
-      "prize_raw": "Championship Title + Cash",
-      "start_date": null,
-      "end_date": "2026-12-31",
-      "days_remaining": 75,
-      "status": "active",
-      "category": "Valuation, Portfolio & Case Arenas",
-      "tags": [
-        "Excel",
-        "championship",
-        "esports",
-        "fmwc",
-        "problem solving",
-        "spreadsheet"
-      ],
-      "description": "The ultimate Excel competition featuring the world's best spreadsheet experts. Compete for the title of Excel World Champion in fast-paced problem-solving challenges.",
-      "organizer": "Financial Modeling World Cup",
-      "evaluation_metric": "Case Accuracy & Speed Score",
-      "teams_count": 1000,
-      "competitors_count": 1500,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "competition",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:02:16Z"
     },
     {
       "id": "quantconnect-quant-league-q4-2026-5444bc212bd0",
       "title": "QuantConnect Quant League Q4 2026",
       "platform": "QuantConnect",
       "source": "quantcontests",
-      "url": "https://quantconnect.com/league/2025-q4",
+      "url": "https://www.quantconnect.com/league/2025-q4/",
       "prize": "Recognition + Visibility",
       "prize_usd": 5000.0,
       "prize_currency": "USD",
@@ -588,7 +502,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "asset-allocation-performance-forecasting-qrt-202-23fce32ad3c1",
@@ -630,7 +544,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "how-do-you-fill-in-the-missing-values-for-custom-8c4dd3e2d066",
@@ -672,7 +586,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "insurprime-can-you-guess-the-insurance-premium-c-f1fe2c8c06e2",
@@ -714,54 +628,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
-      "id": "cme-group-trading-challenge-633adf30a778",
-      "title": "CME Group Trading Challenge",
-      "platform": "CME Group",
-      "source": "quantcontests",
-      "url": "https://cmegroup.com/education/trading-challenge.html",
-      "prize": "Cash Prizes",
-      "prize_usd": 15000.0,
-      "prize_currency": "USD",
-      "prize_raw": "Cash Prizes",
-      "start_date": null,
-      "end_date": "2027-01-31",
-      "days_remaining": 106,
-      "status": "active",
-      "category": "Macro, Commodities & Derivatives",
-      "tags": [
-        "CME",
-        "cme",
-        "derivatives",
-        "futures",
-        "options",
-        "simulation"
-      ],
-      "description": "Trade futures and options on CME Group's simulated platform. Learn about derivatives markets while competing for prizes in this educational trading competition.",
-      "organizer": "CME Group",
-      "evaluation_metric": "Futures Portfolio Account Equity",
-      "teams_count": 1000,
-      "competitors_count": null,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "competition",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
-    },
-    {
-      "id": "cornell-undergraduate-women-in-investing-confere-c4bb256b5b68",
+      "id": "cornell-undergraduate-women-in-investing-confere-149a30f2571e",
       "title": "Cornell Undergraduate Women in Investing Conference 2026",
       "platform": "CFA Institute",
       "source": "quantcontests",
-      "url": "https://johnson.cornell.edu/parker-center-for-investment-research/undergraduate-women-in-investing-conference",
+      "url": "https://business.cornell.edu/centers/parker/",
       "prize": "Career Opportunities + Networking",
       "prize_usd": 3000.0,
       "prize_currency": "USD",
@@ -793,14 +667,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "rotman-international-trading-competition-2026-4737d9cf533c",
+      "id": "rotman-international-trading-competition-2026-032b30047a4c",
       "title": "Rotman International Trading Competition 2026",
       "platform": "Rotman RITC",
       "source": "quantcontests",
-      "url": "https://ritc.rotman.utoronto.ca",
+      "url": "https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rotman-international-trading-competition/",
       "prize": "Cash Prizes + Recognition",
       "prize_usd": 25000.0,
       "prize_currency": "USD",
@@ -832,14 +706,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "southeastern-hedge-fund-competition-2026-92dd5cbb68fe",
+      "id": "southeastern-hedge-fund-competition-2026-fd3a308a5f83",
       "title": "Southeastern Hedge Fund Competition 2026",
       "platform": "FMA",
       "source": "quantcontests",
-      "url": "https://robinson.gsu.edu/academic-departments/finance/about/southeastern-hedge-fund-competition",
+      "url": "https://robinson.gsu.edu/academic-departments/finance/southeastern-hedge-fund-competition/",
       "prize": "Cash Prizes + Networking",
       "prize_usd": 10000.0,
       "prize_currency": "USD",
@@ -872,14 +746,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "fma-investment-analysis-competition-b63390e05636",
       "title": "FMA Investment Analysis Competition",
       "platform": "FMA",
       "source": "quantcontests",
-      "url": "https://fma.org/student-events-competitions",
+      "url": "https://www.fma.org/student-events-competitions",
       "prize": "Cash Prizes",
       "prize_usd": 3000.0,
       "prize_currency": "USD",
@@ -911,14 +785,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "global-case-competition-at-harvard-2026-cbb61c8b02df",
       "title": "Global Case Competition at Harvard 2026",
       "platform": "Harvard GCCH",
       "source": "quantcontests",
-      "url": "https://thecasecompetition.org/gcch-2026",
+      "url": "https://www.thecasecompetition.org/gcch-2026",
       "prize": "$10,000",
       "prize_usd": 10000.0,
       "prize_currency": "USD",
@@ -951,14 +825,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "optiver-ready-trader-go-global-algorithmic-marke-a2cd1cd38f3f",
       "title": "Optiver Ready Trader Go: Global Algorithmic Market-Making Challenge",
       "platform": "Optiver",
       "source": "quantcontests",
-      "url": "https://readytradergo.optiver.com",
+      "url": "https://readytradergo.optiver.com/",
       "prize": "€30,000 (~$33,726)",
       "prize_usd": 32700.0,
       "prize_currency": "EUR",
@@ -990,14 +864,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "quinnipiac-game-forum-2026-0712ae2cbb3d",
       "title": "Quinnipiac GAME Forum 2026",
       "platform": "FMA",
       "source": "quantcontests",
-      "url": "https://qgame.qu.edu",
+      "url": "https://qgame.qu.edu/",
       "prize": "Recognition + Networking",
       "prize_usd": 5000.0,
       "prize_currency": "USD",
@@ -1029,47 +903,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
-    },
-    {
-      "id": "gem-trader-s-cup-2027-78eac25536de",
-      "title": "GEM Trader's Cup 2027",
-      "platform": "GEM Trader's Cup",
-      "source": "quantcontests",
-      "url": "https://gem-financesociety.com/fr/poles-financiers/financial-competition",
-      "prize": "Recognition + Networking",
-      "prize_usd": 2000.0,
-      "prize_currency": "USD",
-      "prize_raw": "Recognition + Networking",
-      "start_date": null,
-      "end_date": "2027-03-31",
-      "days_remaining": 165,
-      "status": "active",
-      "category": "Macro, Commodities & Derivatives",
-      "tags": [
-        "French schools",
-        "ProRealTime",
-        "forex",
-        "gem",
-        "stocks",
-        "trading"
-      ],
-      "description": "Trading competition for French business schools on ProRealTime platform. Over 200 participants from 10 schools compete using real-time market data with virtual funds.",
-      "organizer": "GEM Finance Society",
-      "evaluation_metric": "Portfolio Sharpe & Total Return",
-      "teams_count": 200,
-      "competitors_count": 750,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "competition",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "14th-annual-uchicago-trading-competition-48b9fdc1081d",
@@ -1109,14 +943,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "g-research-spring-into-quant-finance-2026-fcc3dfb1adc9",
+      "id": "g-research-spring-into-quant-finance-2026-e087c75b0d1e",
       "title": "G-Research Spring into Quant Finance 2026",
       "platform": "G-Research",
       "source": "quantcontests",
-      "url": "https://gresearch.com/join-us/events",
+      "url": "https://www.gresearch.com/events/",
       "prize": "Career Opportunities",
       "prize_usd": 5000.0,
       "prize_currency": "USD",
@@ -1149,14 +983,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "imc-prosperity-global-algorithmic-manual-trading-4bcd8235aacb",
       "title": "IMC Prosperity Global Algorithmic & Manual Trading Challenge",
       "platform": "IMC Trading",
       "source": "quantcontests",
-      "url": "https://prosperity.imc.com",
+      "url": "https://prosperity.imc.com/",
       "prize": "$50,000",
       "prize_usd": 50000.0,
       "prize_currency": "USD",
@@ -1188,14 +1022,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "citadel-citadel-securities-global-data-open-cham-60d4e820d95c",
+      "id": "citadel-citadel-securities-global-data-open-cham-b8fbfcce83e4",
       "title": "Citadel & Citadel Securities Global Data Open Championship",
       "platform": "Citadel / Correlation One",
       "source": "quantcontests",
-      "url": "https://correlation-one.com/Programs/data-open",
+      "url": "https://www.correlation-one.com/",
       "prize": "$100,000",
       "prize_usd": 100000.0,
       "prize_currency": "USD",
@@ -1227,14 +1061,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "fma-1-000-000-student-investing-challenge-2ce99ef4e3f6",
+      "id": "fma-1-000-000-student-investing-challenge-6172feb163ac",
       "title": "FMA $1,000,000 Student Investing Challenge",
       "platform": "FMA",
       "source": "quantcontests",
-      "url": "https://fmai.memberclicks.net/stocktrak",
+      "url": "https://www.stocktrak.com/",
       "prize": "Cash Prizes",
       "prize_usd": 5000.0,
       "prize_currency": "USD",
@@ -1267,14 +1101,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "mcgill-international-portfolio-challenge-2026-15acd61f0f54",
       "title": "McGill International Portfolio Challenge 2026",
       "platform": "McGill MIPC",
       "source": "quantcontests",
-      "url": "https://mipc.ca",
+      "url": "https://mipc.ca/",
       "prize": "Cash Prizes + Networking",
       "prize_usd": 10000.0,
       "prize_currency": "USD",
@@ -1306,14 +1140,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
-      "id": "2027-mscf-trading-competition-427d1c8a4c2e",
+      "id": "2027-mscf-trading-competition-2931ccd3f5f0",
       "title": "2027 MSCF Trading Competition",
       "platform": "CMU MSCF",
       "source": "quantcontests",
-      "url": "https://cmu.edu/mscf/news-events/news/2024/2025-mscf-trading-competition.html",
+      "url": "https://www.cmu.edu/mscf/",
       "prize": "Cash Prizes + Recognition",
       "prize_usd": 10000.0,
       "prize_currency": "USD",
@@ -1346,14 +1180,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "ensimag-if-algorithmic-trading-2026-0a24ea715dfd",
       "title": "Ensimag IF - Algorithmic trading 2026",
       "platform": "Kaggle",
       "source": "kaggle",
-      "url": "https://kaggle.com/competitions/ensimag-if-2026",
+      "url": "https://www.kaggle.com/competitions/ensimag-if-2026",
       "prize": "Kudos",
       "prize_usd": 0.0,
       "prize_currency": "USD",
@@ -1382,53 +1216,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:40Z"
+      "scraped_at": "2026-10-17T08:04:12Z"
     },
     {
-      "id": "quantchallenge-2027-03b9e7087461",
-      "title": "QuantChallenge 2027",
-      "platform": "QuantChallenge",
-      "source": "quantcontests",
-      "url": "https://quantchallenge.org",
-      "prize": "$20,000",
-      "prize_usd": 20000.0,
-      "prize_currency": "USD",
-      "prize_raw": "$20,000+",
-      "start_date": null,
-      "end_date": "2027-09-25",
-      "days_remaining": 343,
-      "status": "active",
-      "category": "Algorithmic & Prop Trading",
-      "tags": [
-        "algorithmic trading",
-        "annual",
-        "market research",
-        "quantchallenge",
-        "student"
-      ],
-      "description": "Annual quantitative trading competition combining market research and algorithmic trading. Teams compete over a week-long challenge with $20,000+ in prizes.",
-      "organizer": "QuantChallenge",
-      "evaluation_metric": "Simulated Market-Making P&L",
-      "teams_count": 500,
-      "competitors_count": 900,
-      "entries_count": null,
-      "difficulty": "Advanced",
-      "competition_type": "competition",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
-    },
-    {
-      "id": "cfa-societies-canada-ethics-challenge-45a17a06475b",
+      "id": "cfa-societies-canada-ethics-challenge-ab89c25d2b10",
       "title": "CFA Societies Canada Ethics Challenge",
       "platform": "CFA Institute",
       "source": "quantcontests",
-      "url": "https://cfainstitute.org/en/about/universities/university-competition/ethics-challenge",
+      "url": "https://www.cfasociety.org/canada/events-and-programs/ethics-challenge",
       "prize": "Recognition + Career Opportunities",
       "prize_usd": 2000.0,
       "prize_currency": "USD",
@@ -1460,14 +1255,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "international-quant-championship-iqc-9ef253f7a1ae",
       "title": "International Quant Championship (IQC)",
       "platform": "WorldQuant BRAIN",
       "source": "quantcontests",
-      "url": "https://worldquant.com/brain/iqc",
+      "url": "https://www.worldquant.com/brain/iqc/",
       "prize": "Championship + Career Opportunities",
       "prize_usd": 100000.0,
       "prize_currency": "USD",
@@ -1499,14 +1294,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "the5ers-weekly-trading-competition-55b08ab16600",
       "title": "The5ers Weekly Trading Competition",
       "platform": "The5ers",
       "source": "quantcontests",
-      "url": "https://the5ers.com/trading-competition",
+      "url": "https://the5ers.com/trading-competition/",
       "prize": "$60,000",
       "prize_usd": 60000.0,
       "prize_currency": "USD",
@@ -1539,7 +1334,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "numerai-classic-global-equity-hedge-fund-tournam-7ad52e2011ea",
@@ -1579,7 +1374,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:08:59Z"
+      "scraped_at": "2026-10-17T08:01:41Z"
     },
     {
       "id": "worldquant-brain-alpha-research-e4d13312eeb8",
@@ -1619,7 +1414,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "numerai-signals-raw-global-equities-alpha-tourna-23437895ba0e",
@@ -1658,7 +1453,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:00Z"
+      "scraped_at": "2026-10-17T08:01:46Z"
     },
     {
       "id": "synth-synthetic-price-data-effd87fe16dc",
@@ -1696,7 +1491,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:02Z"
+      "scraped_at": "2026-10-17T08:02:16Z"
     },
     {
       "id": "numerai-crypto-digital-assets-meta-model-tournam-e653677daf18",
@@ -1735,7 +1530,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:01Z"
+      "scraped_at": "2026-10-17T08:01:59Z"
     },
     {
       "id": "algogene-global-quant-trading-challenge-60ed67e4966c",
@@ -1777,47 +1572,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
-    },
-    {
-      "id": "financial-modeling-world-cup-9dd38827b68a",
-      "title": "Financial Modeling World Cup",
-      "platform": "FMWC",
-      "source": "quantcontests",
-      "url": "https://fmworldcup.com/product-category/regular-competition",
-      "prize": "Cash Prizes + Recognition",
-      "prize_usd": 10000.0,
-      "prize_currency": "USD",
-      "prize_raw": "Cash Prizes + Recognition",
-      "start_date": null,
-      "end_date": null,
-      "days_remaining": null,
-      "status": "active",
-      "category": "Valuation, Portfolio & Case Arenas",
-      "tags": [
-        "DCF",
-        "Excel",
-        "case study",
-        "financial modeling",
-        "fmwc",
-        "valuation"
-      ],
-      "description": "The leading financial modeling competition in Microsoft Excel. Solve real-life case studies by building financial models. Participants compete in regular rounds throughout the year.",
-      "organizer": "Financial Modeling World Cup",
-      "evaluation_metric": "Case Accuracy & Speed Score",
-      "teams_count": 5000,
-      "competitors_count": 1500,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "tournament",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:03:21Z"
     },
     {
       "id": "btc-implied-volatility-prediction-competition-c9e67bd737cb",
@@ -1855,47 +1610,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:02Z"
-    },
-    {
-      "id": "grand-capital-cup-tournament-a79389a7f604",
-      "title": "Grand Capital Cup Tournament",
-      "platform": "Grand Capital",
-      "source": "quantcontests",
-      "url": "https://grandcapital.net/contests",
-      "prize": "$500",
-      "prize_usd": 500.0,
-      "prize_currency": "USD",
-      "prize_raw": "$500 + Pro Status",
-      "start_date": null,
-      "end_date": null,
-      "days_remaining": null,
-      "status": "active",
-      "category": "Macro, Commodities & Derivatives",
-      "tags": [
-        "CFD",
-        "demo",
-        "forex",
-        "grandcapital",
-        "tournament",
-        "weekly"
-      ],
-      "description": "Weekly 24-hour demo trading tournament. Traders start with $10,000 virtual balance and compete for $500 real trading capital plus Professional Trader status.",
-      "organizer": "Grand Capital",
-      "evaluation_metric": "Highest Account Profit %",
-      "teams_count": 1000,
-      "competitors_count": 1100,
-      "entries_count": null,
-      "difficulty": "Beginner",
-      "competition_type": "tournament",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": true,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:08Z"
+      "scraped_at": "2026-10-17T08:02:16Z"
     },
     {
       "id": "xentiment-social-sentiment-trading-signals-a8de7f0234e3",
@@ -1933,7 +1648,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:02Z"
+      "scraped_at": "2026-10-17T08:02:16Z"
     },
     {
       "id": "the-modern-ai-challenge-87863b2e1839",
@@ -1971,14 +1686,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:02Z"
+      "scraped_at": "2026-10-17T08:02:16Z"
     },
     {
       "id": "real-estate-price-prediction-c422ac355973",
       "title": "Real Estate Price Prediction",
       "platform": "Kaggle",
       "source": "kaggle",
-      "url": "https://kaggle.com/competitions/realestatepriceprediction",
+      "url": "https://www.kaggle.com/competitions/realestatepriceprediction",
       "prize": "Kudos",
       "prize_usd": 0.0,
       "prize_currency": "USD",
@@ -2007,14 +1722,14 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:40Z"
+      "scraped_at": "2026-10-17T08:04:13Z"
     },
     {
       "id": "sf-dst-car-price-prediction-451b38d742e0",
       "title": "[SF-DST] Car Price prediction",
       "platform": "Kaggle",
       "source": "kaggle",
-      "url": "https://kaggle.com/competitions/sf-dst-car-price-prediction",
+      "url": "https://www.kaggle.com/competitions/sf-dst-car-price-prediction",
       "prize": "Kudos",
       "prize_usd": 0.0,
       "prize_currency": "USD",
@@ -2043,7 +1758,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:40Z"
+      "scraped_at": "2026-10-17T08:04:13Z"
     },
     {
       "id": "sncf-transilien-2024-20f477cdd515",
@@ -2086,7 +1801,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "asset-production-estimation-kayrros-2020-6d10a5155624",
@@ -2127,7 +1842,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "bankers-and-markets-natixis-2022-899260d3031b",
@@ -2168,7 +1883,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "building-claim-prediction-generali-2019-91ca653ab5cd",
@@ -2210,7 +1925,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "can-you-explain-the-price-of-electricity-qrt-202-e7d0999a0c7e",
@@ -2253,7 +1968,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "can-you-retrieve-the-table-of-content-autorit-de-29d299d0caf5",
@@ -2295,7 +2010,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "deep-hedging-for-an-equinoxe-natixis-2020-2e56c6192fd5",
@@ -2336,7 +2051,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "electricity-price-forecasting-elmy-2024-dd1b2cb5aa70",
@@ -2380,7 +2095,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "esg-indicators-missing-value-estimation-pladifes-f22441f4ce29",
@@ -2422,7 +2137,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "exotic-pricing-with-multidimensional-non-linear--f9e606f5b2b6",
@@ -2464,7 +2179,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "high-frequency-market-data-could-you-guess-the-s-c5c80ce08ced",
@@ -2507,7 +2222,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "historical-consumption-regression-for-electricit-913eedc0e63f",
@@ -2547,7 +2262,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "how-to-detect-a-niche-of-fraudsters-bnp-paribas--eaab4e1caf86",
@@ -2589,7 +2304,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "learning-factors-for-stock-market-returns-predic-5ede9b002323",
@@ -2631,7 +2346,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "metamodels-to-improve-energy-consumptions-and-co-0054734635a9",
@@ -2672,7 +2387,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "prediction-of-daily-stock-end-of-day-movements-o-889e4d86f38f",
@@ -2715,7 +2430,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "prediction-of-direction-of-bitcoin-based-on-sent-b55f4891c9da",
@@ -2757,7 +2472,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "prediction-of-missing-bid-ask-spread-values-cfm--ab1bda0acb5b",
@@ -2798,7 +2513,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "prediction-of-sharpe-ratio-for-blends-of-quantit-5b2a50d31d74",
@@ -2840,7 +2555,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "real-estate-price-prediction-institut-louis-bach-aaa105581ab9",
@@ -2883,7 +2598,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "reconstruction-of-liquid-asset-performance-qrt-2-5bfc469dcd68",
@@ -2925,7 +2640,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "return-forecasting-of-cryptocurrency-clusters-na-87239cd44e45",
@@ -2967,7 +2682,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "smart-meter-is-coming-bcm-energy-plan-te-oui-202-208f0b112a73",
@@ -3008,7 +2723,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "stock-return-prediction-qrt-2020-6c95bde71bd5",
@@ -3050,7 +2765,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "stock-trading-prediction-of-auction-volumes-cfm--a62a0289372b",
@@ -3091,7 +2806,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "volatility-prediction-in-financial-markets-cfm-2-5deabbfff949",
@@ -3133,7 +2848,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "what-do-you-see-in-the-stock-market-data-autorit-0560c97a529c",
@@ -3175,7 +2890,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "where-will-the-next-trade-take-place-cfm-2020-90a75ddddc3b",
@@ -3217,7 +2932,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "who-are-the-high-frequency-traders-autorit-des-m-e45d76fda8e3",
@@ -3258,7 +2973,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     },
     {
       "id": "wind-power-forecasting-for-the-day-ahead-energy--e9bd6a71273f",
@@ -3299,7 +3014,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-17T07:09:04Z"
+      "scraped_at": "2026-10-17T08:02:38Z"
     }
   ]
 }
