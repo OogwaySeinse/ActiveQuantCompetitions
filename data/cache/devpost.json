@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 17,
+    "registrations_count": 20,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -73,12 +73,54 @@
       "cash": 1,
       "other": 7
     },
-    "registrations_count": 4,
+    "registrations_count": 5,
     "featured": false,
     "organization_name": "Stony Brook Computing Society",
     "winners_announced": false,
     "submission_gallery_url": "https://sbuhacks-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://sbuhacks-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 30029,
+    "title": "SwampHacks XII",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "University of Florida - Reitz Union"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/435/611/datas/medium_square.png",
+    "analytics_identifier": "SwampHacks XII (30029)",
+    "url": "https://swamphacks-xii.devpost.com/",
+    "time_left_to_submission": "about 5 hours left",
+    "submission_period_dates": "Oct 16 - 18, 2026",
+    "themes": [
+      {
+        "id": 23,
+        "name": "Beginner Friendly"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>9,500</span>",
+    "prizes_counts": {
+      "cash": 5,
+      "other": 13
+    },
+    "registrations_count": 344,
+    "featured": false,
+    "organization_name": "SwampHacks",
+    "winners_announced": false,
+    "submission_gallery_url": "https://swamphacks-xii.devpost.com/project-gallery",
+    "start_a_submission_url": "https://swamphacks-xii.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -126,90 +168,6 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 30029,
-    "title": "SwampHacks XII",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "University of Florida - Reitz Union"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/435/611/datas/medium_square.png",
-    "analytics_identifier": "SwampHacks XII (30029)",
-    "url": "https://swamphacks-xii.devpost.com/",
-    "time_left_to_submission": "1 day left",
-    "submission_period_dates": "Oct 16 - 18, 2026",
-    "themes": [
-      {
-        "id": 23,
-        "name": "Beginner Friendly"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>9,500</span>",
-    "prizes_counts": {
-      "cash": 5,
-      "other": 13
-    },
-    "registrations_count": 93,
-    "featured": false,
-    "organization_name": "SwampHacks",
-    "winners_announced": false,
-    "submission_gallery_url": "https://swamphacks-xii.devpost.com/project-gallery",
-    "start_a_submission_url": "https://swamphacks-xii.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31764,
-    "title": "AI Hackathon - Kenya",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/591/280/datas/medium_square.png",
-    "analytics_identifier": "AI Hackathon - Kenya (31764)",
-    "url": "https://ai-hackathon-ken.devpost.com/",
-    "time_left_to_submission": "about 3 hours left",
-    "submission_period_dates": "Oct 16 - 17, 2026",
-    "themes": [
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      },
-      {
-        "id": 13,
-        "name": "Social Good"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 23,
-    "featured": false,
-    "organization_name": "Jaseci Labs",
-    "winners_announced": false,
-    "submission_gallery_url": "https://ai-hackathon-ken.devpost.com/project-gallery",
-    "start_a_submission_url": "https://ai-hackathon-ken.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 31694,
     "title": "MineArena 1.0",
     "displayed_location": {
@@ -220,7 +178,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/578/562/datas/medium_square.png",
     "analytics_identifier": "MineArena 1.0 (31694)",
     "url": "https://minearena-1-0.devpost.com/",
-    "time_left_to_submission": "15 days left",
+    "time_left_to_submission": "14 days left",
     "submission_period_dates": "Oct 15 - 31, 2026",
     "themes": [
       {
@@ -241,7 +199,7 @@
       "cash": 5,
       "other": 0
     },
-    "registrations_count": 21,
+    "registrations_count": 39,
     "featured": false,
     "organization_name": "Code commit",
     "winners_announced": false,
@@ -252,45 +210,45 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31761,
-    "title": "AI Hackathon - Sri Lanka",
+    "id": 31647,
+    "title": "[LA Tech Week] ACM TrojanHacks 2026",
     "displayed_location": {
       "icon": "map-marker-alt",
-      "location": "Measurement Lab"
+      "location": "USC — Franklin Suites"
     },
     "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/590/342/datas/medium_square.png",
-    "analytics_identifier": "AI Hackathon - Sri Lanka (31761)",
-    "url": "https://ai-hackathon-sl.devpost.com/",
-    "time_left_to_submission": "about 3 hours left",
-    "submission_period_dates": "Oct 17, 2026",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/538/500/datas/medium_square.png",
+    "analytics_identifier": "[LA Tech Week] ACM TrojanHacks 2026 (31647)",
+    "url": "https://la-tech-acm-trojanhacks-2026.devpost.com/",
+    "time_left_to_submission": "about 14 hours left",
+    "submission_period_dates": "Oct 17 - 18, 2026",
     "themes": [
       {
-        "id": 6,
-        "name": "Machine Learning/AI"
+        "id": 13,
+        "name": "Social Good"
       },
       {
         "id": 3,
         "name": "Fintech"
       },
       {
-        "id": 13,
-        "name": "Social Good"
+        "id": 6,
+        "name": "Machine Learning/AI"
       }
     ],
-    "prize_amount": "$<span data-currency-value>1,000</span>",
+    "prize_amount": "$<span data-currency-value>839</span>",
     "prizes_counts": {
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 3,
+    "registrations_count": 11,
     "featured": false,
-    "organization_name": "Jaseci Labs",
+    "organization_name": "ACM at USC",
     "winners_announced": false,
-    "submission_gallery_url": "https://ai-hackathon-sl.devpost.com/project-gallery",
-    "start_a_submission_url": "https://ai-hackathon-sl.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "Registered students only",
+    "submission_gallery_url": "https://la-tech-acm-trojanhacks-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://la-tech-acm-trojanhacks-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
   },
   {
@@ -304,7 +262,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/522/077/datas/medium_square.png",
     "analytics_identifier": "IEEE Hack For Humanity (31617)",
     "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-    "time_left_to_submission": "5 days left",
+    "time_left_to_submission": "4 days left",
     "submission_period_dates": "Oct 11 - 21, 2026",
     "themes": [
       {
@@ -321,7 +279,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 47,
+    "registrations_count": 54,
     "featured": false,
     "organization_name": "IEEE Charlotte Section",
     "winners_announced": false,
@@ -332,49 +290,15 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31207,
-    "title": "HuskyHack 2026: Phase 1",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Milgard Hall "
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/283/020/datas/medium_square.png",
-    "analytics_identifier": "HuskyHack 2026: Phase 1 (31207)",
-    "url": "https://huskyhack2026.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Oct 17, 2026",
-    "themes": [
-      {
-        "id": 3,
-        "name": "Fintech"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>18,000</span>",
-    "prizes_counts": {
-      "cash": 2,
-      "other": 0
-    },
-    "registrations_count": 101,
-    "featured": false,
-    "organization_name": "SoundCreditUnion and UW Tacoma",
-    "winners_announced": false,
-    "submission_gallery_url": "https://huskyhack2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://huskyhack2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 31661,
-    "title": "HuskyHack 2026:Phase 2",
+    "title": "HuskyHack 2026: Phase 2",
     "displayed_location": {
       "icon": "map-marker-alt",
       "location": "University of Washington Tacoma "
     },
     "open_state": "upcoming",
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/538/547/datas/medium_square.png",
-    "analytics_identifier": "HuskyHack 2026:Phase 2 (31661)",
+    "analytics_identifier": "HuskyHack 2026: Phase 2 (31661)",
     "url": "https://huskyhack2026phase2.devpost.com/",
     "time_left_to_submission": "Upcoming",
     "submission_period_dates": "Oct 18, 2026",
@@ -389,7 +313,7 @@
       "cash": 1,
       "other": 0
     },
-    "registrations_count": 4,
+    "registrations_count": 2,
     "featured": false,
     "organization_name": "SoundCreditUnion and UW Tacoma",
     "winners_announced": false,
@@ -433,6 +357,48 @@
     "winners_announced": false,
     "submission_gallery_url": "https://redhawk-builds-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://redhawk-builds-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31165,
+    "title": "2026 AI for Good Hackathon",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "The Link"
+    },
+    "open_state": "upcoming",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/185/970/datas/medium_square.png",
+    "analytics_identifier": "2026 AI for Good Hackathon (31165)",
+    "url": "https://2026ai4goodhackathon.devpost.com/",
+    "time_left_to_submission": "Upcoming",
+    "submission_period_dates": "Oct 23 - 25, 2026",
+    "themes": [
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      },
+      {
+        "id": 13,
+        "name": "Social Good"
+      },
+      {
+        "id": 15,
+        "name": "Music/Art"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 0,
+      "other": 3
+    },
+    "registrations_count": 34,
+    "featured": false,
+    "organization_name": "Florida Data Science for Social Good",
+    "winners_announced": false,
+    "submission_gallery_url": "https://2026ai4goodhackathon.devpost.com/project-gallery",
+    "start_a_submission_url": "https://2026ai4goodhackathon.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
