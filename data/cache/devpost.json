@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "15 days left",
+    "time_left_to_submission": "14 days left",
     "submission_period_dates": "Oct 16 - Nov 01, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 20,
+    "registrations_count": 27,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -73,54 +73,12 @@
       "cash": 1,
       "other": 7
     },
-    "registrations_count": 5,
+    "registrations_count": 7,
     "featured": false,
     "organization_name": "Stony Brook Computing Society",
     "winners_announced": false,
     "submission_gallery_url": "https://sbuhacks-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://sbuhacks-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 30029,
-    "title": "SwampHacks XII",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "University of Florida - Reitz Union"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/435/611/datas/medium_square.png",
-    "analytics_identifier": "SwampHacks XII (30029)",
-    "url": "https://swamphacks-xii.devpost.com/",
-    "time_left_to_submission": "about 5 hours left",
-    "submission_period_dates": "Oct 16 - 18, 2026",
-    "themes": [
-      {
-        "id": 23,
-        "name": "Beginner Friendly"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>9,500</span>",
-    "prizes_counts": {
-      "cash": 5,
-      "other": 13
-    },
-    "registrations_count": 344,
-    "featured": false,
-    "organization_name": "SwampHacks",
-    "winners_announced": false,
-    "submission_gallery_url": "https://swamphacks-xii.devpost.com/project-gallery",
-    "start_a_submission_url": "https://swamphacks-xii.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -154,10 +112,10 @@
     ],
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
-      "cash": 0,
-      "other": 1
+      "cash": 1,
+      "other": 0
     },
-    "registrations_count": 100,
+    "registrations_count": 101,
     "featured": false,
     "organization_name": "university of pennsylvania",
     "winners_announced": false,
@@ -178,7 +136,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/578/562/datas/medium_square.png",
     "analytics_identifier": "MineArena 1.0 (31694)",
     "url": "https://minearena-1-0.devpost.com/",
-    "time_left_to_submission": "14 days left",
+    "time_left_to_submission": "13 days left",
     "submission_period_dates": "Oct 15 - 31, 2026",
     "themes": [
       {
@@ -199,54 +157,12 @@
       "cash": 5,
       "other": 0
     },
-    "registrations_count": 39,
+    "registrations_count": 59,
     "featured": false,
     "organization_name": "Code commit",
     "winners_announced": false,
     "submission_gallery_url": "https://minearena-1-0.devpost.com/project-gallery",
     "start_a_submission_url": "https://minearena-1-0.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31647,
-    "title": "[LA Tech Week] ACM TrojanHacks 2026",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "USC — Franklin Suites"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/538/500/datas/medium_square.png",
-    "analytics_identifier": "[LA Tech Week] ACM TrojanHacks 2026 (31647)",
-    "url": "https://la-tech-acm-trojanhacks-2026.devpost.com/",
-    "time_left_to_submission": "about 14 hours left",
-    "submission_period_dates": "Oct 17 - 18, 2026",
-    "themes": [
-      {
-        "id": 13,
-        "name": "Social Good"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>839</span>",
-    "prizes_counts": {
-      "cash": 3,
-      "other": 0
-    },
-    "registrations_count": 11,
-    "featured": false,
-    "organization_name": "ACM at USC",
-    "winners_announced": false,
-    "submission_gallery_url": "https://la-tech-acm-trojanhacks-2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://la-tech-acm-trojanhacks-2026.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -262,7 +178,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/522/077/datas/medium_square.png",
     "analytics_identifier": "IEEE Hack For Humanity (31617)",
     "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-    "time_left_to_submission": "4 days left",
+    "time_left_to_submission": "3 days left",
     "submission_period_dates": "Oct 11 - 21, 2026",
     "themes": [
       {
@@ -279,7 +195,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 54,
+    "registrations_count": 59,
     "featured": false,
     "organization_name": "IEEE Charlotte Section",
     "winners_announced": false,
@@ -287,40 +203,6 @@
     "start_a_submission_url": "https://ieee-ai-hack-for-humanity.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31661,
-    "title": "HuskyHack 2026: Phase 2",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "University of Washington Tacoma "
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/538/547/datas/medium_square.png",
-    "analytics_identifier": "HuskyHack 2026: Phase 2 (31661)",
-    "url": "https://huskyhack2026phase2.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Oct 18, 2026",
-    "themes": [
-      {
-        "id": 3,
-        "name": "Fintech"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>15,000</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 2,
-    "featured": false,
-    "organization_name": "SoundCreditUnion and UW Tacoma",
-    "winners_announced": false,
-    "submission_gallery_url": "https://huskyhack2026phase2.devpost.com/project-gallery",
-    "start_a_submission_url": "https://huskyhack2026phase2.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "Student that has already enrolled HuskyHack Phase1",
     "managed_by_devpost_badge": false
   },
   {
@@ -393,7 +275,7 @@
       "cash": 0,
       "other": 3
     },
-    "registrations_count": 34,
+    "registrations_count": 35,
     "featured": false,
     "organization_name": "Florida Data Science for Social Good",
     "winners_announced": false,
