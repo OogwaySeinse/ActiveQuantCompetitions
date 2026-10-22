@@ -37,7 +37,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-21T06:18:48Z"
+    "scraped_at": "2026-10-22T06:20:11Z"
   },
   {
     "id": "numerai-signals-raw-global-equities-alpha-tourna-23437895ba0e",
@@ -76,7 +76,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-21T06:18:48Z"
+    "scraped_at": "2026-10-22T06:20:12Z"
   },
   {
     "id": "numerai-crypto-digital-assets-meta-model-tournam-e653677daf18",
@@ -115,6 +115,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-21T06:18:48Z"
+    "scraped_at": "2026-10-22T06:20:12Z"
   }
 ]

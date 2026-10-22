@@ -11,7 +11,7 @@
     "prize_raw": "Leaderboard & Swag",
     "start_date": "2026-10-01",
     "end_date": "2026-10-31",
-    "days_remaining": 10,
+    "days_remaining": 9,
     "status": "active",
     "category": "Valuation, Portfolio & Case Arenas",
     "tags": [
@@ -36,6 +36,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-21T06:18:52Z"
+    "scraped_at": "2026-10-22T06:20:15Z"
   }
 ]
