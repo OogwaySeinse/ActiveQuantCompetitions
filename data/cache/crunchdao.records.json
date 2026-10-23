@@ -35,7 +35,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-22T06:20:13Z"
+    "scraped_at": "2026-10-23T06:19:19Z"
   },
   {
     "id": "btc-implied-volatility-prediction-competition-c9e67bd737cb",
@@ -73,7 +73,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-22T06:20:13Z"
+    "scraped_at": "2026-10-23T06:19:19Z"
   },
   {
     "id": "xentiment-social-sentiment-trading-signals-a8de7f0234e3",
@@ -111,7 +111,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-22T06:20:13Z"
+    "scraped_at": "2026-10-23T06:19:19Z"
   },
   {
     "id": "adia-lab-structural-break-challenge-real-time-ed-d996523e70e7",
@@ -125,7 +125,7 @@
     "prize_raw": "100,000 $USDC",
     "start_date": "2026-05-04",
     "end_date": "2026-11-30",
-    "days_remaining": 39,
+    "days_remaining": 38,
     "status": "active",
     "category": "Time Series & Econometrics",
     "tags": [
@@ -137,8 +137,8 @@
     "organizer": "ADIA Lab",
     "evaluation_metric": "",
     "teams_count": 116,
-    "competitors_count": 815,
-    "entries_count": 21521,
+    "competitors_count": 816,
+    "entries_count": 21536,
     "difficulty": "Research",
     "competition_type": "competition",
     "conference": "ADIA Lab",
@@ -148,7 +148,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-22T06:20:13Z"
+    "scraped_at": "2026-10-23T06:19:19Z"
   },
   {
     "id": "datacrunch-equity-market-neutral-2-d1b58874fd0e",
@@ -175,8 +175,8 @@
     "organizer": "Crunch Capital",
     "evaluation_metric": "",
     "teams_count": null,
-    "competitors_count": 584,
-    "entries_count": 9903,
+    "competitors_count": 586,
+    "entries_count": 9971,
     "difficulty": "Research",
     "competition_type": "tournament",
     "conference": null,
@@ -186,7 +186,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-22T06:20:13Z"
+    "scraped_at": "2026-10-23T06:19:19Z"
   },
   {
     "id": "synth-synthetic-price-data-effd87fe16dc",
@@ -213,8 +213,8 @@
     "organizer": "Synth",
     "evaluation_metric": "",
     "teams_count": null,
-    "competitors_count": 315,
-    "entries_count": 8400,
+    "competitors_count": 314,
+    "entries_count": 8407,
     "difficulty": "Advanced",
     "competition_type": "tournament",
     "conference": null,
@@ -224,6 +224,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-22T06:20:13Z"
+    "scraped_at": "2026-10-23T06:19:19Z"
   }
 ]

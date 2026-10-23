@@ -5,7 +5,7 @@
     "currentSeasonEnd": "2026-11-16 23:59:59",
     "raceState": "ONGOING",
     "season": 0,
-    "teamNum": 1822,
+    "teamNum": 1829,
     "state": 1,
     "visualTab": "AILLM",
     "website": "",
@@ -15,9 +15,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532514/1856796652288102/es1umzxt4g388xqj.png",
     "raceType": "ALGORITHEM",
     "bonus": 280000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532512,
@@ -25,7 +25,7 @@
     "currentSeasonEnd": "2029-10-03 23:59:59",
     "raceState": "ONGOING",
     "season": 3,
-    "teamNum": 500,
+    "teamNum": 503,
     "state": 1,
     "visualTab": "AILLM",
     "website": "",
@@ -35,9 +35,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532512/1242990779776242/mpf88jwki1wxqu98.png;https://static.tianchi.aliyun.com/tianchi/race/images/prod/532512/1242990779776242/ct6vf7dcyk6ekm26.png",
     "raceType": "ALGORITHEM",
     "bonus": 0,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532511,
@@ -45,7 +45,7 @@
     "currentSeasonEnd": "2026-10-25 23:59:59",
     "raceState": "ONGOING",
     "season": 0,
-    "teamNum": 620,
+    "teamNum": 627,
     "state": 1,
     "visualTab": "AILLM",
     "website": "",
@@ -56,9 +56,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532511/1818612140606782/4fpys320pii3o2aw.png;https://static.tianchi.aliyun.com/tianchi/race/images/prod/532511/1818612140606782/0il9ntlikfukscyx.png",
     "raceType": "ALGORITHEM",
     "bonus": 55000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532510,
@@ -66,7 +66,7 @@
     "currentSeasonEnd": "2026-12-31 23:59:59",
     "raceState": "ONGOING",
     "season": 1,
-    "teamNum": 1511,
+    "teamNum": 1534,
     "state": 1,
     "visualTab": "AILLM",
     "website": "",
@@ -76,9 +76,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532510/WB02138154/ii3xu35t8oa3rrzp.png",
     "raceType": "GETSTART",
     "bonus": 20000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532508,
@@ -96,9 +96,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532508/WB02138154/6xluv3vhf3qecgii.png",
     "raceType": "ALGORITHEM",
     "bonus": 100000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532507,
@@ -116,9 +116,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532507/WB02138154/8cu44x5somre217q.png",
     "raceType": "ALGORITHEM",
     "bonus": 100000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532506,
@@ -136,9 +136,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532506/WB02138154/j8smcm3n4p5w8yhn.png",
     "raceType": "ALGORITHEM",
     "bonus": 100000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceId": 532469,
@@ -156,9 +156,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532469/WB02138154/kuovfba47snj0pai.png",
     "raceType": "ALGORITHEM",
     "bonus": 100000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   },
   {
     "raceNameEn": "International Contest on Aftershock Forecasting",
@@ -167,7 +167,7 @@
     "currentSeasonEnd": "2026-10-31 23:59:59",
     "raceState": "ONGOING",
     "season": 7,
-    "teamNum": 865,
+    "teamNum": 867,
     "state": 1,
     "visualTab": "ALGORITHM",
     "website": "",
@@ -178,9 +178,9 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532460/WB02138154/zfq2o4m6cbudgs20.png;https://static.tianchi.aliyun.com/tianchi/race/images/prod/532460/WB02138154/gnyp13x4c3smz7k9.png",
     "raceType": "ALGORITHEM",
     "bonus": 30000,
+    "needStudent": false,
     "currencySymbol": "$",
-    "currency": 1,
-    "needStudent": false
+    "currency": 1
   },
   {
     "raceId": 532515,
@@ -188,7 +188,7 @@
     "currentSeasonEnd": "2026-12-31 23:59:59",
     "raceState": "ONGOING",
     "season": 0,
-    "teamNum": 130,
+    "teamNum": 132,
     "state": 1,
     "visualTab": "PROGRAMMING",
     "website": "",
@@ -198,8 +198,8 @@
     "orgUrl": "https://static.tianchi.aliyun.com/tianchi/race/images/prod/532515/1784589093133663/l2qt8c48whgob5iv.png;https://static.tianchi.aliyun.com/tianchi/race/images/prod/532515/1784589093133663/1yets94z06otux6f.png;https://static.tianchi.aliyun.com/tianchi/race/images/prod/532515/1784589093133663/ptpfl8cviqxn4p13.png;https://static.tianchi.aliyun.com/tianchi/race/images/prod/532515/1784589093133663/5qmpp8n2jlsxzgqi.png",
     "raceType": "ALGORITHEM",
     "bonus": 500000,
+    "needStudent": false,
     "currencySymbol": "￥",
-    "currency": 0,
-    "needStudent": false
+    "currency": 0
   }
 ]
