@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "9 days left",
+    "time_left_to_submission": "8 days left",
     "submission_period_dates": "Oct 16 - Nov 01, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 52,
+    "registrations_count": 66,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -48,11 +48,11 @@
       "icon": "map-marker-alt",
       "location": " Frank Melville Jr. Memorial Library"
     },
-    "open_state": "upcoming",
+    "open_state": "open",
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/491/851/datas/medium_square.png",
     "analytics_identifier": "SBUHacks 2026 (29117)",
     "url": "https://sbuhacks-2026.devpost.com/",
-    "time_left_to_submission": "Upcoming",
+    "time_left_to_submission": "1 day left",
     "submission_period_dates": "Oct 23 - 25, 2026",
     "themes": [
       {
@@ -73,7 +73,7 @@
       "cash": 1,
       "other": 14
     },
-    "registrations_count": 14,
+    "registrations_count": 39,
     "featured": false,
     "organization_name": "Stony Brook Computing Society",
     "winners_announced": false,
@@ -157,7 +157,7 @@
       "cash": 5,
       "other": 0
     },
-    "registrations_count": 203,
+    "registrations_count": 244,
     "featured": false,
     "organization_name": "Code commit",
     "winners_announced": false,
@@ -178,8 +178,8 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/522/077/datas/medium_square.png",
     "analytics_identifier": "IEEE Hack For Humanity (31617)",
     "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-    "time_left_to_submission": "about 23 hours left",
-    "submission_period_dates": "Oct 11 - 23, 2026",
+    "time_left_to_submission": "about 3 hours left",
+    "submission_period_dates": "Oct 11 - 24, 2026",
     "themes": [
       {
         "id": 6,
@@ -195,12 +195,54 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 88,
+    "registrations_count": 98,
     "featured": false,
     "organization_name": "IEEE Charlotte Section",
     "winners_announced": false,
     "submission_gallery_url": "https://ieee-ai-hack-for-humanity.devpost.com/project-gallery",
     "start_a_submission_url": "https://ieee-ai-hack-for-humanity.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31165,
+    "title": "2026 AI for Good Hackathon",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "The Link"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/185/970/datas/medium_square.png",
+    "analytics_identifier": "2026 AI for Good Hackathon (31165)",
+    "url": "https://2026ai4goodhackathon.devpost.com/",
+    "time_left_to_submission": "1 day left",
+    "submission_period_dates": "Oct 23 - 25, 2026",
+    "themes": [
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      },
+      {
+        "id": 13,
+        "name": "Social Good"
+      },
+      {
+        "id": 15,
+        "name": "Music/Art"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 0,
+      "other": 3
+    },
+    "registrations_count": 40,
+    "featured": false,
+    "organization_name": "Florida Data Science for Social Good",
+    "winners_announced": false,
+    "submission_gallery_url": "https://2026ai4goodhackathon.devpost.com/project-gallery",
+    "start_a_submission_url": "https://2026ai4goodhackathon.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -275,54 +317,12 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 3,
+    "registrations_count": 8,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
     "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31165,
-    "title": "2026 AI for Good Hackathon",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "The Link"
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/185/970/datas/medium_square.png",
-    "analytics_identifier": "2026 AI for Good Hackathon (31165)",
-    "url": "https://2026ai4goodhackathon.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Oct 23 - 25, 2026",
-    "themes": [
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      },
-      {
-        "id": 13,
-        "name": "Social Good"
-      },
-      {
-        "id": 15,
-        "name": "Music/Art"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 0,
-      "other": 3
-    },
-    "registrations_count": 42,
-    "featured": false,
-    "organization_name": "Florida Data Science for Social Good",
-    "winners_announced": false,
-    "submission_gallery_url": "https://2026ai4goodhackathon.devpost.com/project-gallery",
-    "start_a_submission_url": "https://2026ai4goodhackathon.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false

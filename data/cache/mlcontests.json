@@ -7897,5 +7897,22 @@
     "conference": null,
     "conference-year": null,
     "additional-urls": []
+  },
+  {
+    "name": "Optimal Square Packing",
+    "url": "https://www.kaggle.com/competitions/squares-in-squares?ref=mlcontests",
+    "tags": [
+      "optimisation",
+      "mathematics",
+      "measurable"
+    ],
+    "launched": "21 Oct 2026",
+    "registration-deadline": "11 Jul 2027",
+    "deadline": "18 Jul 2027",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Kaggle",
+    "conference": null,
+    "conference-year": null
   }
 ]

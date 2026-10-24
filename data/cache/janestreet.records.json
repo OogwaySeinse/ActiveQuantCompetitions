@@ -11,8 +11,8 @@
     "prize_raw": "Leaderboard & Swag",
     "start_date": "2026-10-01",
     "end_date": "2026-10-31",
-    "days_remaining": 8,
-    "status": "active",
+    "days_remaining": 7,
+    "status": "ending_soon",
     "category": "Valuation, Portfolio & Case Arenas",
     "tags": [
       "combinatorics",
@@ -36,6 +36,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-10-23T06:19:21Z"
+    "scraped_at": "2026-10-24T06:14:51Z"
   }
 ]
