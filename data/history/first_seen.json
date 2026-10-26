@@ -17,7 +17,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": null,
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Algogene",
     "title": "ALGOGENE Global Quant Trading Challenge"
   },
@@ -28,7 +28,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": "2026-11-30",
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Rotman RITC",
     "title": "Battle on Bay 2026"
   },
@@ -39,7 +39,7 @@
     "initial_prize_usd": 3000.0,
     "last_end_date": "2027-01-31",
     "last_prize_usd": 3000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CFA Institute",
     "title": "Cornell Undergraduate Women in Investing Conference 2026"
   },
@@ -50,7 +50,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": "2026-10-31",
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CFA Institute",
     "title": "CFA Institute Research Challenge 2026-26"
   },
@@ -83,7 +83,7 @@
     "initial_prize_usd": 2000.0,
     "last_end_date": "2027-10-15",
     "last_prize_usd": 2000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CFA Institute",
     "title": "CFA Societies Canada Ethics Challenge"
   },
@@ -105,7 +105,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "How to detect a niche of fraudsters? (BNP Paribas PF 2023)"
   },
@@ -116,7 +116,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Historical consumption regression for electricity supply pricing"
   },
@@ -127,7 +127,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Prediction of Sharpe ratio for blends of quantitative strategies"
   },
@@ -138,7 +138,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Electricity price forecasting (Elmy 2024)"
   },
@@ -171,7 +171,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "High frequency market data: could you guess the stock? (CFM 2024)"
   },
@@ -182,7 +182,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "(SNCF-Transilien 2024)"
   },
@@ -204,7 +204,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2026-12-31",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "How do you fill in the missing values for customer electricity consumption? (Enedis 2026)"
   },
@@ -215,7 +215,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2026-12-31",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "InsurPrime: Can You Guess the Insurance Premium? (Crédit Agricole Assurances 2026)"
   },
@@ -248,7 +248,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2026-12-31",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Asset Allocation Performance forecasting (QRT 2026)"
   },
@@ -259,7 +259,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Building Claim Prediction"
   },
@@ -270,7 +270,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Volatility prediction in financial markets"
   },
@@ -281,7 +281,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Stock Return Prediction"
   },
@@ -292,7 +292,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Metamodels to improve energy consumptions and comfort control in big buildings"
   },
@@ -303,7 +303,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Smart meter is coming"
   },
@@ -314,7 +314,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Prediction of direction of Bitcoin based on sentiment data"
   },
@@ -325,7 +325,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Wind Power forecasting for the day-ahead energy market"
   },
@@ -347,7 +347,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Deep Hedging for an Equinoxe"
   },
@@ -358,7 +358,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Asset production estimation"
   },
@@ -369,7 +369,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Where will the next trade take place?"
   },
@@ -380,7 +380,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Reconstruction of Liquid Asset Performance"
   },
@@ -391,7 +391,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Who are the high-frequency traders ?"
   },
@@ -413,7 +413,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Stock trading: prediction of auction volumes"
   },
@@ -424,7 +424,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Prediction of missing Bid-Ask spread values"
   },
@@ -435,7 +435,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "What do you see in the stock market data?"
   },
@@ -446,7 +446,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Real estate price prediction"
   },
@@ -457,7 +457,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Bankers and markets"
   },
@@ -468,7 +468,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Return Forecasting of Cryptocurrency Clusters"
   },
@@ -479,7 +479,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Learning factors for stock market returns prediction"
   },
@@ -490,7 +490,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Prediction of daily stock end-of-day movements on the US market (CFM 2023)"
   },
@@ -501,7 +501,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Can you retrieve the Table of Content? (Autorité des Marchés Financiers 2023)"
   },
@@ -512,7 +512,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "ESG indicators missing value estimation (Pladifes 2023)"
   },
@@ -534,7 +534,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Exotic pricing with multidimensional non-linear interpolation"
   },
@@ -545,7 +545,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "ENS Challenge Data",
     "title": "Can you explain the price of electricity? (QRT 2023)"
   },
@@ -567,7 +567,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": "2027-09-20",
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CMU MSCF",
     "title": "2027 MSCF Trading Competition"
   },
@@ -589,7 +589,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": "2026-10-31",
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CFA Institute",
     "title": "Van Berkom JMSB Small-Cap Case Competition 2026"
   },
@@ -600,7 +600,7 @@
     "initial_prize_usd": 100000.0,
     "last_end_date": "2027-04-30",
     "last_prize_usd": 100000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Citadel / Correlation One",
     "title": "Citadel & Citadel Securities Global Data Open Championship"
   },
@@ -622,7 +622,7 @@
     "initial_prize_usd": 25000.0,
     "last_end_date": null,
     "last_prize_usd": 25000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Numerai",
     "title": "Numerai Crypto: Digital Assets Meta-Model Tournament"
   },
@@ -644,7 +644,7 @@
     "initial_prize_usd": 3000.0,
     "last_end_date": "2027-03-05",
     "last_prize_usd": 3000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "fma",
     "title": "FMA Investment Analysis Competition"
   },
@@ -699,7 +699,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": "2027-04-17",
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "G-Research",
     "title": "G-Research Spring into Quant Finance 2026"
   },
@@ -743,7 +743,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": null,
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CrunchDAO",
     "title": "BTC Implied Volatility Prediction Competition"
   },
@@ -754,7 +754,7 @@
     "initial_prize_usd": 52000.0,
     "last_end_date": "2026-12-31",
     "last_prize_usd": 52000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CrunchDAO",
     "title": "Predict Cross-sectional Equity Returns"
   },
@@ -765,7 +765,7 @@
     "initial_prize_usd": 100000.0,
     "last_end_date": "2026-11-30",
     "last_prize_usd": 100000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CrunchDAO",
     "title": "ADIA Lab Structural Break Challenge: Real-Time Edition"
   },
@@ -776,7 +776,7 @@
     "initial_prize_usd": 30000.0,
     "last_end_date": null,
     "last_prize_usd": 30000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CrunchDAO",
     "title": "Synth: Synthetic Price Data"
   },
@@ -787,7 +787,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2026-10-31",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Jane Street",
     "title": "Jane Street Monthly Quant Puzzle: It's a Metric, Too"
   },
@@ -809,7 +809,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2027-09-21",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Kaggle",
     "title": "Ensimag IF - Algorithmic trading 2026"
   },
@@ -820,7 +820,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2029-12-31",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Kaggle",
     "title": "Real Estate Price Prediction"
   },
@@ -831,7 +831,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": "2030-12-31",
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Kaggle",
     "title": "[SF-DST] Car Price prediction"
   },
@@ -842,7 +842,7 @@
     "initial_prize_usd": 10.0,
     "last_end_date": "2026-10-26",
     "last_prize_usd": 10.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Kaggle",
     "title": "Tabular Time Series Trading Signal Classification"
   },
@@ -853,7 +853,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": "2027-09-15",
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "McGill MIPC",
     "title": "McGill International Portfolio Challenge 2026"
   },
@@ -875,7 +875,7 @@
     "initial_prize_usd": 52000.0,
     "last_end_date": null,
     "last_prize_usd": 52000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Numerai",
     "title": "Numerai Classic: Global Equity Hedge Fund Tournament"
   },
@@ -886,7 +886,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CrunchDAO",
     "title": "π the Modern AI Challenge"
   },
@@ -897,7 +897,7 @@
     "initial_prize_usd": 50000.0,
     "last_end_date": null,
     "last_prize_usd": 50000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "WorldQuant BRAIN",
     "title": "WorldQuant BRAIN Alpha Research"
   },
@@ -908,7 +908,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": "2026-11-14",
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Bloomberg",
     "title": "Bloomberg 2026 Global Trading Challenge"
   },
@@ -919,7 +919,7 @@
     "initial_prize_usd": 50000.0,
     "last_end_date": "2027-04-20",
     "last_prize_usd": 50000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "IMC Trading",
     "title": "IMC Prosperity Global Algorithmic & Manual Trading Challenge"
   },
@@ -930,7 +930,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": "2027-03-31",
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "fma",
     "title": "Quinnipiac GAME Forum 2026"
   },
@@ -952,7 +952,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": "2026-12-31",
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "QuantConnect",
     "title": "QuantConnect Quant League Q4 2026"
   },
@@ -963,7 +963,7 @@
     "initial_prize_usd": 32700.0,
     "last_end_date": "2027-03-31",
     "last_prize_usd": 32700.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Optiver",
     "title": "Optiver Ready Trader Go: Global Algorithmic Market-Making Challenge"
   },
@@ -996,7 +996,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": "2027-02-28",
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "FMA",
     "title": "Southeastern Hedge Fund Competition 2026"
   },
@@ -1007,7 +1007,7 @@
     "initial_prize_usd": 25000.0,
     "last_end_date": "2027-02-15",
     "last_prize_usd": 25000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Rotman RITC",
     "title": "Rotman International Trading Competition 2026"
   },
@@ -1018,7 +1018,7 @@
     "initial_prize_usd": 35000.0,
     "last_end_date": null,
     "last_prize_usd": 35000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Numerai",
     "title": "Numerai Signals: Raw Global Equities Alpha Tournament"
   },
@@ -1029,7 +1029,7 @@
     "initial_prize_usd": 5000.0,
     "last_end_date": "2027-05-31",
     "last_prize_usd": 5000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "FMA",
     "title": "FMA $1,000,000 Student Investing Challenge"
   },
@@ -1040,7 +1040,7 @@
     "initial_prize_usd": 60000.0,
     "last_end_date": null,
     "last_prize_usd": 60000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "The5ers",
     "title": "The5ers Weekly Trading Competition"
   },
@@ -1051,7 +1051,7 @@
     "initial_prize_usd": 10000.0,
     "last_end_date": "2027-03-29",
     "last_prize_usd": 10000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "gcch",
     "title": "Global Case Competition at Harvard 2026"
   },
@@ -1062,7 +1062,7 @@
     "initial_prize_usd": 25000.0,
     "last_end_date": "2027-04-11",
     "last_prize_usd": 25000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "UChicago Trading",
     "title": "14th Annual UChicago Trading Competition"
   },
@@ -1073,7 +1073,7 @@
     "initial_prize_usd": 100000.0,
     "last_end_date": null,
     "last_prize_usd": 100000.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "WorldQuant BRAIN",
     "title": "International Quant Championship (IQC)"
   },
@@ -1084,7 +1084,7 @@
     "initial_prize_usd": 13600.0,
     "last_end_date": "2026-11-15",
     "last_prize_usd": 13600.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "Wunder Fund",
     "title": "Wunder Fund Connectome: Limit Order Book Price Movement Prediction"
   },
@@ -1095,7 +1095,7 @@
     "initial_prize_usd": 0.0,
     "last_end_date": null,
     "last_prize_usd": 0.0,
-    "last_seen_at": "2026-10-25",
+    "last_seen_at": "2026-10-26",
     "platform": "CrunchDAO",
     "title": "Xentiment: Social Sentiment Trading Signals"
   }
