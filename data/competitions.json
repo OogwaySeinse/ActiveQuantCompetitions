@@ -1,18 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-10-26T06:22:24Z",
-    "total_active": 72,
-    "total_prize_usd": 863310.0,
-    "ending_soon_count": 4,
+    "generated_at": "2026-10-27T06:21:50Z",
+    "total_active": 67,
+    "total_prize_usd": 758300.0,
+    "ending_soon_count": 3,
     "platforms_count": 22,
     "platforms": {
-      "Kaggle": 4,
       "CFA Institute": 4,
       "Jane Street": 1,
       "Bloomberg": 1,
       "Wunder Fund": 1,
-      "CrunchDAO": 6,
       "Rotman RITC": 2,
+      "CrunchDAO": 2,
       "QuantConnect": 1,
       "ENS Challenge Data": 33,
       "FMA": 4,
@@ -24,21 +23,21 @@
       "Citadel / Correlation One": 1,
       "McGill MIPC": 1,
       "CMU MSCF": 1,
+      "Kaggle": 3,
       "WorldQuant BRAIN": 2,
       "The5ers": 1,
       "Numerai": 3,
       "Algogene": 1
     },
     "categories": {
-      "Time Series & Econometrics": 14,
       "Valuation, Portfolio & Case Arenas": 9,
       "Algorithmic & Prop Trading": 4,
       "Market Microstructure & HFT": 8,
-      "Alpha & Equity Prediction": 27,
+      "Alpha & Equity Prediction": 26,
+      "Time Series & Econometrics": 12,
       "Credit, Risk & Insurance": 2,
       "Macro, Commodities & Derivatives": 2,
-      "Crypto, DeFi & Digital Assets": 5,
-      "Financial NLP & Sentiment": 1
+      "Crypto, DeFi & Digital Assets": 4
     },
     "history": {
       "new_competitions": 0,
@@ -51,145 +50,109 @@
         "name": "numerai",
         "status": "ok",
         "count": 3,
-        "duration_ms": 1076,
+        "duration_ms": 1293,
         "error": null,
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "crunchdao",
         "status": "ok",
-        "count": 6,
-        "duration_ms": 703,
+        "count": 2,
+        "duration_ms": 917,
         "error": null,
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "ens",
         "status": "ok",
         "count": 34,
-        "duration_ms": 1221,
+        "duration_ms": 1416,
         "error": null,
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "janestreet",
         "status": "ok",
         "count": 1,
-        "duration_ms": 501,
+        "duration_ms": 509,
         "error": null,
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "quantcontests",
         "status": "ok",
         "count": 26,
-        "duration_ms": 324,
+        "duration_ms": 363,
         "error": null,
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "kaggle",
         "status": "cached",
-        "count": 4,
-        "duration_ms": 298,
+        "count": 3,
+        "duration_ms": 395,
         "error": "Live scrape returned 0 quant records; used cached snapshot",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "mlcontests",
         "status": "ok",
         "count": 2,
-        "duration_ms": 334,
+        "duration_ms": 465,
         "error": null,
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "zindi",
         "status": "degraded",
         "count": 0,
-        "duration_ms": 1770,
+        "duration_ms": 1979,
         "error": "0 quant records returned",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "drivendata",
         "status": "degraded",
         "count": 0,
-        "duration_ms": 920,
+        "duration_ms": 1178,
         "error": "0 quant records returned",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "aicrowd",
         "status": "degraded",
         "count": 0,
-        "duration_ms": 1383,
+        "duration_ms": 1701,
         "error": "0 quant records returned",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "codalab",
         "status": "degraded",
         "count": 0,
-        "duration_ms": 104984,
+        "duration_ms": 761,
         "error": "0 quant records returned",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "devpost",
         "status": "degraded",
         "count": 0,
-        "duration_ms": 1522,
+        "duration_ms": 1641,
         "error": "0 quant records returned",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       },
       {
         "name": "tianchi",
         "status": "degraded",
         "count": 0,
-        "duration_ms": 1610,
+        "duration_ms": 1611,
         "error": "0 quant records returned",
-        "updated_at": "2026-10-26T06:22:24Z"
+        "updated_at": "2026-10-27T06:21:50Z"
       }
     ]
   },
   "competitions": [
-    {
-      "id": "tabular-time-series-trading-signal-classificatio-fffaef9abe2a",
-      "title": "Tabular Time Series Trading Signal Classification",
-      "platform": "Kaggle",
-      "source": "kaggle",
-      "url": "https://www.kaggle.com/competitions/tabular-time-series-trading-signal-classification",
-      "prize": "$10",
-      "prize_usd": 10.0,
-      "prize_currency": "USD",
-      "prize_raw": "10 Usd",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-26",
-      "days_remaining": 0,
-      "status": "ending_soon",
-      "category": "Time Series & Econometrics",
-      "tags": [
-        "Community",
-        "average precision score"
-      ],
-      "description": "Predict tabular trading signals on historical asset prices without time leakage. Evaluated on Average Precision.",
-      "organizer": "Kaggle",
-      "evaluation_metric": "Average Precision Score",
-      "teams_count": 27,
-      "competitors_count": null,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "competition",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-17T08:04:12Z"
-    },
     {
       "id": "van-berkom-jmsb-small-cap-case-competition-2026-dd026714e7cc",
       "title": "Van Berkom JMSB Small-Cap Case Competition 2026",
@@ -202,7 +165,7 @@
       "prize_raw": "Cash Prizes + Career Opportunities",
       "start_date": null,
       "end_date": "2026-10-31",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "status": "ending_soon",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -227,7 +190,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "cfa-institute-research-challenge-2026-26-d9f7b7862abc",
@@ -241,7 +204,7 @@
       "prize_raw": "Career Opportunities + Recognition",
       "start_date": null,
       "end_date": "2026-10-31",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "status": "ending_soon",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -267,7 +230,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "jane-street-monthly-quant-puzzle-it-s-a-metric-t-e97797c7db5f",
@@ -281,7 +244,7 @@
       "prize_raw": "Leaderboard & Swag",
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "status": "ending_soon",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -306,7 +269,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "bloomberg-2026-global-trading-challenge-95d1f98520de",
@@ -320,7 +283,7 @@
       "prize_raw": "Bloomberg Terminal Access + Recognition",
       "start_date": null,
       "end_date": "2026-11-14",
-      "days_remaining": 19,
+      "days_remaining": 18,
       "status": "active",
       "category": "Algorithmic & Prop Trading",
       "tags": [
@@ -345,7 +308,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "wunder-fund-connectome-limit-order-book-price-mo-051b83117c32",
@@ -359,7 +322,7 @@
       "prize_raw": "$13,600",
       "start_date": "2026-06-01",
       "end_date": "2026-11-15",
-      "days_remaining": 20,
+      "days_remaining": 19,
       "status": "active",
       "category": "Market Microstructure & HFT",
       "tags": [
@@ -389,44 +352,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
-    },
-    {
-      "id": "adia-lab-structural-break-challenge-real-time-ed-d996523e70e7",
-      "title": "ADIA Lab Structural Break Challenge: Real-Time Edition",
-      "platform": "CrunchDAO",
-      "source": "crunchdao",
-      "url": "https://hub.crunchdao.com/competitions/structural-break-real-time",
-      "prize": "100,000 $USDC",
-      "prize_usd": 100000.0,
-      "prize_currency": "USD",
-      "prize_raw": "100,000 $USDC",
-      "start_date": "2026-05-04",
-      "end_date": "2026-11-30",
-      "days_remaining": 35,
-      "status": "active",
-      "category": "Time Series & Econometrics",
-      "tags": [
-        "crunchdao",
-        "decentralized-ml",
-        "offline"
-      ],
-      "description": "Monitor time series in real time and detect when their behaviour changes.",
-      "organizer": "ADIA Lab",
-      "evaluation_metric": "",
-      "teams_count": 116,
-      "competitors_count": 816,
-      "entries_count": 21541,
-      "difficulty": "Research",
-      "competition_type": "competition",
-      "conference": "ADIA Lab",
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:26Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "battle-on-bay-2026-d1bb4996f3a8",
@@ -440,7 +366,7 @@
       "prize_raw": "Cash Prizes",
       "start_date": null,
       "end_date": "2026-11-30",
-      "days_remaining": 35,
+      "days_remaining": 34,
       "status": "active",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -466,7 +392,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "datacrunch-equity-market-neutral-2-d1b58874fd0e",
@@ -480,7 +406,7 @@
       "prize_raw": "1,000 $USDC/week",
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -510,7 +436,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:26Z"
+      "scraped_at": "2026-10-27T06:21:52Z"
     },
     {
       "id": "quantconnect-quant-league-q4-2026-5444bc212bd0",
@@ -524,7 +450,7 @@
       "prize_raw": "Recognition + Visibility",
       "start_date": null,
       "end_date": "2026-12-31",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "status": "active",
       "category": "Algorithmic & Prop Trading",
       "tags": [
@@ -550,7 +476,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "asset-allocation-performance-forecasting-qrt-202-23fce32ad3c1",
@@ -564,7 +490,7 @@
       "prize_raw": "Academic & Sponsor Awards",
       "start_date": "2026-01-15",
       "end_date": "2026-12-31",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "status": "active",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -592,7 +518,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "how-do-you-fill-in-the-missing-values-for-custom-8c4dd3e2d066",
@@ -606,7 +532,7 @@
       "prize_raw": "Academic & Sponsor Awards",
       "start_date": "2026-01-15",
       "end_date": "2026-12-31",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "status": "active",
       "category": "Time Series & Econometrics",
       "tags": [
@@ -634,7 +560,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "insurprime-can-you-guess-the-insurance-premium-c-f1fe2c8c06e2",
@@ -648,7 +574,7 @@
       "prize_raw": "Academic & Sponsor Awards",
       "start_date": "2026-01-15",
       "end_date": "2026-12-31",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "status": "active",
       "category": "Credit, Risk & Insurance",
       "tags": [
@@ -676,7 +602,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "cornell-undergraduate-women-in-investing-confere-149a30f2571e",
@@ -690,7 +616,7 @@
       "prize_raw": "Career Opportunities + Networking",
       "start_date": null,
       "end_date": "2027-01-31",
-      "days_remaining": 97,
+      "days_remaining": 96,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -715,7 +641,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "rotman-international-trading-competition-2026-032b30047a4c",
@@ -729,7 +655,7 @@
       "prize_raw": "Cash Prizes + Recognition",
       "start_date": null,
       "end_date": "2027-02-15",
-      "days_remaining": 112,
+      "days_remaining": 111,
       "status": "active",
       "category": "Market Microstructure & HFT",
       "tags": [
@@ -754,7 +680,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "southeastern-hedge-fund-competition-2026-fd3a308a5f83",
@@ -768,7 +694,7 @@
       "prize_raw": "Cash Prizes + Networking",
       "start_date": null,
       "end_date": "2027-02-28",
-      "days_remaining": 125,
+      "days_remaining": 124,
       "status": "active",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -794,7 +720,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "fma-investment-analysis-competition-b63390e05636",
@@ -808,7 +734,7 @@
       "prize_raw": "Cash Prizes",
       "start_date": null,
       "end_date": "2027-03-05",
-      "days_remaining": 130,
+      "days_remaining": 129,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -833,7 +759,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "global-case-competition-at-harvard-2026-cbb61c8b02df",
@@ -847,7 +773,7 @@
       "prize_raw": "$10,000",
       "start_date": null,
       "end_date": "2027-03-29",
-      "days_remaining": 154,
+      "days_remaining": 153,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -873,7 +799,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "optiver-ready-trader-go-global-algorithmic-marke-a2cd1cd38f3f",
@@ -887,7 +813,7 @@
       "prize_raw": "€30,000",
       "start_date": "2027-02-15",
       "end_date": "2027-03-31",
-      "days_remaining": 156,
+      "days_remaining": 155,
       "status": "active",
       "category": "Market Microstructure & HFT",
       "tags": [
@@ -912,7 +838,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "quinnipiac-game-forum-2026-0712ae2cbb3d",
@@ -926,7 +852,7 @@
       "prize_raw": "Recognition + Networking",
       "start_date": null,
       "end_date": "2027-03-31",
-      "days_remaining": 156,
+      "days_remaining": 155,
       "status": "active",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -951,7 +877,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "14th-annual-uchicago-trading-competition-48b9fdc1081d",
@@ -965,7 +891,7 @@
       "prize_raw": "Cash Prizes + Recruitment",
       "start_date": null,
       "end_date": "2027-04-11",
-      "days_remaining": 167,
+      "days_remaining": 166,
       "status": "active",
       "category": "Market Microstructure & HFT",
       "tags": [
@@ -991,7 +917,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "g-research-spring-into-quant-finance-2026-e087c75b0d1e",
@@ -1005,7 +931,7 @@
       "prize_raw": "Career Opportunities",
       "start_date": null,
       "end_date": "2027-04-17",
-      "days_remaining": 173,
+      "days_remaining": 172,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -1031,7 +957,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "imc-prosperity-global-algorithmic-manual-trading-4bcd8235aacb",
@@ -1045,7 +971,7 @@
       "prize_raw": "$50,000",
       "start_date": "2027-03-15",
       "end_date": "2027-04-20",
-      "days_remaining": 176,
+      "days_remaining": 175,
       "status": "active",
       "category": "Market Microstructure & HFT",
       "tags": [
@@ -1070,7 +996,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "citadel-citadel-securities-global-data-open-cham-b8fbfcce83e4",
@@ -1084,7 +1010,7 @@
       "prize_raw": "$100,000",
       "start_date": "2026-09-01",
       "end_date": "2027-04-30",
-      "days_remaining": 186,
+      "days_remaining": 185,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -1109,7 +1035,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "fma-1-000-000-student-investing-challenge-6172feb163ac",
@@ -1123,7 +1049,7 @@
       "prize_raw": "Cash Prizes",
       "start_date": null,
       "end_date": "2027-05-31",
-      "days_remaining": 217,
+      "days_remaining": 216,
       "status": "active",
       "category": "Alpha & Equity Prediction",
       "tags": [
@@ -1149,7 +1075,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "mcgill-international-portfolio-challenge-2026-15acd61f0f54",
@@ -1163,7 +1089,7 @@
       "prize_raw": "Cash Prizes + Networking",
       "start_date": null,
       "end_date": "2027-09-15",
-      "days_remaining": 324,
+      "days_remaining": 323,
       "status": "active",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -1188,7 +1114,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "2027-mscf-trading-competition-2931ccd3f5f0",
@@ -1202,7 +1128,7 @@
       "prize_raw": "Cash Prizes + Recognition",
       "start_date": null,
       "end_date": "2027-09-20",
-      "days_remaining": 329,
+      "days_remaining": 328,
       "status": "active",
       "category": "Algorithmic & Prop Trading",
       "tags": [
@@ -1228,7 +1154,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "ensimag-if-algorithmic-trading-2026-0a24ea715dfd",
@@ -1242,7 +1168,7 @@
       "prize_raw": "Kudos",
       "start_date": "2026-09-22",
       "end_date": "2027-09-21",
-      "days_remaining": 330,
+      "days_remaining": 329,
       "status": "active",
       "category": "Macro, Commodities & Derivatives",
       "tags": [
@@ -1278,7 +1204,7 @@
       "prize_raw": "Recognition + Career Opportunities",
       "start_date": null,
       "end_date": "2027-10-15",
-      "days_remaining": 354,
+      "days_remaining": 353,
       "status": "active",
       "category": "Valuation, Portfolio & Case Arenas",
       "tags": [
@@ -1303,7 +1229,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "international-quant-championship-iqc-9ef253f7a1ae",
@@ -1342,7 +1268,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "the5ers-weekly-trading-competition-55b08ab16600",
@@ -1382,7 +1308,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "numerai-classic-global-equity-hedge-fund-tournam-7ad52e2011ea",
@@ -1422,7 +1348,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:24Z"
+      "scraped_at": "2026-10-27T06:21:51Z"
     },
     {
       "id": "worldquant-brain-alpha-research-e4d13312eeb8",
@@ -1462,7 +1388,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "numerai-signals-raw-global-equities-alpha-tourna-23437895ba0e",
@@ -1501,7 +1427,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:25Z"
+      "scraped_at": "2026-10-27T06:21:51Z"
     },
     {
       "id": "synth-synthetic-price-data-effd87fe16dc",
@@ -1528,8 +1454,8 @@
       "organizer": "Synth",
       "evaluation_metric": "",
       "teams_count": null,
-      "competitors_count": 315,
-      "entries_count": 8440,
+      "competitors_count": 316,
+      "entries_count": 8448,
       "difficulty": "Advanced",
       "competition_type": "tournament",
       "conference": null,
@@ -1539,7 +1465,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:26Z"
+      "scraped_at": "2026-10-27T06:21:52Z"
     },
     {
       "id": "numerai-crypto-digital-assets-meta-model-tournam-e653677daf18",
@@ -1578,7 +1504,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:25Z"
+      "scraped_at": "2026-10-27T06:21:51Z"
     },
     {
       "id": "algogene-global-quant-trading-challenge-60ed67e4966c",
@@ -1620,121 +1546,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:28Z"
-    },
-    {
-      "id": "btc-implied-volatility-prediction-competition-c9e67bd737cb",
-      "title": "BTC Implied Volatility Prediction Competition",
-      "platform": "CrunchDAO",
-      "source": "crunchdao",
-      "url": "https://hub.crunchdao.com/competitions/btcdvol",
-      "prize": "$5,000",
-      "prize_usd": 5000.0,
-      "prize_currency": "USD",
-      "prize_raw": "$5,000",
-      "start_date": "2026-01-22",
-      "end_date": null,
-      "days_remaining": null,
-      "status": "active",
-      "category": "Crypto, DeFi & Digital Assets",
-      "tags": [
-        "continuous",
-        "crunchdao",
-        "decentralized-ml",
-        "real_time"
-      ],
-      "description": "Predict the 30-day implied volatility (DVOL) of Bitcoin using the Deribit volatility index.",
-      "organizer": "CrunchDAO",
-      "evaluation_metric": "",
-      "teams_count": null,
-      "competitors_count": 8,
-      "entries_count": 18,
-      "difficulty": "Intermediate",
-      "competition_type": "tournament",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:26Z"
-    },
-    {
-      "id": "xentiment-social-sentiment-trading-signals-a8de7f0234e3",
-      "title": "Xentiment: Social Sentiment Trading Signals",
-      "platform": "CrunchDAO",
-      "source": "crunchdao",
-      "url": "https://xentiment.crunchdao.com",
-      "prize": "Points",
-      "prize_usd": 0.0,
-      "prize_currency": "USD",
-      "prize_raw": "Points",
-      "start_date": "2026-03-09",
-      "end_date": null,
-      "days_remaining": null,
-      "status": "active",
-      "category": "Financial NLP & Sentiment",
-      "tags": [
-        "continuous",
-        "crunchdao",
-        "decentralized-ml",
-        "offline"
-      ],
-      "description": "Can you turn tweets and financial media transcripts into predictive trading signals?",
-      "organizer": "CrunchDAO",
-      "evaluation_metric": "",
-      "teams_count": null,
-      "competitors_count": null,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "tournament",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:26Z"
-    },
-    {
-      "id": "the-modern-ai-challenge-87863b2e1839",
-      "title": "π the Modern AI Challenge",
-      "platform": "CrunchDAO",
-      "source": "crunchdao",
-      "url": "https://pi.crunchdao.com",
-      "prize": "π Points",
-      "prize_usd": 0.0,
-      "prize_currency": "USD",
-      "prize_raw": "π Points",
-      "start_date": "2024-09-21",
-      "end_date": null,
-      "days_remaining": null,
-      "status": "active",
-      "category": "Alpha & Equity Prediction",
-      "tags": [
-        "continuous",
-        "crunchdao",
-        "decentralized-ml",
-        "offline"
-      ],
-      "description": "Query the world’s data, find unique insights, world-changing correlations and earn money from financial institutions",
-      "organizer": "CrunchDAO",
-      "evaluation_metric": "",
-      "teams_count": null,
-      "competitors_count": null,
-      "entries_count": null,
-      "difficulty": "Intermediate",
-      "competition_type": "tournament",
-      "conference": null,
-      "conference_year": null,
-      "paper_url": null,
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:26Z"
+      "scraped_at": "2026-10-27T06:21:55Z"
     },
     {
       "id": "real-estate-price-prediction-c422ac355973",
@@ -1748,7 +1560,7 @@
       "prize_raw": "Kudos",
       "start_date": "2019-10-07",
       "end_date": "2029-12-31",
-      "days_remaining": 1162,
+      "days_remaining": 1161,
       "status": "active",
       "category": "Time Series & Econometrics",
       "tags": [
@@ -1784,7 +1596,7 @@
       "prize_raw": "Kudos",
       "start_date": "2020-10-26",
       "end_date": "2030-12-31",
-      "days_remaining": 1527,
+      "days_remaining": 1526,
       "status": "active",
       "category": "Time Series & Econometrics",
       "tags": [
@@ -1849,7 +1661,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "asset-production-estimation-kayrros-2020-6d10a5155624",
@@ -1890,7 +1702,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "bankers-and-markets-natixis-2022-899260d3031b",
@@ -1931,7 +1743,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "building-claim-prediction-generali-2019-91ca653ab5cd",
@@ -1973,7 +1785,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "can-you-explain-the-price-of-electricity-qrt-202-e7d0999a0c7e",
@@ -2016,7 +1828,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "can-you-retrieve-the-table-of-content-autorit-de-29d299d0caf5",
@@ -2058,7 +1870,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "deep-hedging-for-an-equinoxe-natixis-2020-2e56c6192fd5",
@@ -2099,7 +1911,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "electricity-price-forecasting-elmy-2024-dd1b2cb5aa70",
@@ -2143,7 +1955,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "esg-indicators-missing-value-estimation-pladifes-f22441f4ce29",
@@ -2185,7 +1997,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "exotic-pricing-with-multidimensional-non-linear--f9e606f5b2b6",
@@ -2227,7 +2039,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "high-frequency-market-data-could-you-guess-the-s-c5c80ce08ced",
@@ -2270,7 +2082,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "historical-consumption-regression-for-electricit-913eedc0e63f",
@@ -2310,7 +2122,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "how-to-detect-a-niche-of-fraudsters-bnp-paribas--eaab4e1caf86",
@@ -2352,7 +2164,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "learning-factors-for-stock-market-returns-predic-5ede9b002323",
@@ -2394,7 +2206,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "metamodels-to-improve-energy-consumptions-and-co-0054734635a9",
@@ -2435,7 +2247,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "prediction-of-daily-stock-end-of-day-movements-o-889e4d86f38f",
@@ -2478,7 +2290,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "prediction-of-direction-of-bitcoin-based-on-sent-b55f4891c9da",
@@ -2520,7 +2332,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "prediction-of-missing-bid-ask-spread-values-cfm--ab1bda0acb5b",
@@ -2561,7 +2373,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "prediction-of-sharpe-ratio-for-blends-of-quantit-5b2a50d31d74",
@@ -2603,7 +2415,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "real-estate-price-prediction-institut-louis-bach-aaa105581ab9",
@@ -2646,7 +2458,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "reconstruction-of-liquid-asset-performance-qrt-2-5bfc469dcd68",
@@ -2688,7 +2500,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "return-forecasting-of-cryptocurrency-clusters-na-87239cd44e45",
@@ -2730,7 +2542,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "smart-meter-is-coming-bcm-energy-plan-te-oui-202-208f0b112a73",
@@ -2771,7 +2583,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "stock-return-prediction-qrt-2020-6c95bde71bd5",
@@ -2813,7 +2625,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "stock-trading-prediction-of-auction-volumes-cfm--a62a0289372b",
@@ -2854,7 +2666,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "volatility-prediction-in-financial-markets-cfm-2-5deabbfff949",
@@ -2896,7 +2708,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "what-do-you-see-in-the-stock-market-data-autorit-0560c97a529c",
@@ -2938,7 +2750,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "where-will-the-next-trade-take-place-cfm-2020-90a75ddddc3b",
@@ -2980,7 +2792,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "who-are-the-high-frequency-traders-autorit-des-m-e45d76fda8e3",
@@ -3021,7 +2833,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     },
     {
       "id": "wind-power-forecasting-for-the-day-ahead-energy--e9bd6a71273f",
@@ -3062,7 +2874,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_Shift": 0,
-      "scraped_at": "2026-10-26T06:22:27Z"
+      "scraped_at": "2026-10-27T06:21:54Z"
     }
   ]
 }

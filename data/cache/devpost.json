@@ -10,8 +10,8 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "6 days left",
-    "submission_period_dates": "Oct 16 - Nov 01, 2026",
+    "time_left_to_submission": "19 days left",
+    "submission_period_dates": "Oct 16 - Nov 15, 2026",
     "themes": [
       {
         "id": 10,
@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 85,
+    "registrations_count": 95,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -73,7 +73,7 @@
       "cash": 5,
       "other": 0
     },
-    "registrations_count": 315,
+    "registrations_count": 357,
     "featured": false,
     "organization_name": "Code commit",
     "winners_announced": false,
@@ -126,6 +126,90 @@
     "managed_by_devpost_badge": false
   },
   {
+    "id": 31883,
+    "title": "DATANOVA 2026 GLOBAL DATA-THON",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/708/795/datas/medium_square.png",
+    "analytics_identifier": "DATANOVA 2026 GLOBAL DATA-THON (31883)",
+    "url": "https://datanova-2026-global-data-thon.devpost.com/",
+    "time_left_to_submission": "15 days left",
+    "submission_period_dates": "Oct 26 - Nov 10, 2026",
+    "themes": [
+      {
+        "id": 20,
+        "name": "E-commerce/Retail"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 16,
+        "name": "Health"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>1,750</span>",
+    "prizes_counts": {
+      "cash": 3,
+      "other": 0
+    },
+    "registrations_count": 10,
+    "featured": false,
+    "organization_name": "DataNova",
+    "winners_announced": false,
+    "submission_gallery_url": "https://datanova-2026-global-data-thon.devpost.com/project-gallery",
+    "start_a_submission_url": "https://datanova-2026-global-data-thon.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 26475,
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
+    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "time_left_to_submission": "25 days left",
+    "submission_period_dates": "Oct 26 - Nov 20, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>900</span>",
+    "prizes_counts": {
+      "cash": 1,
+      "other": 0
+    },
+    "registrations_count": 29,
+    "featured": false,
+    "organization_name": "Dakar Bitcoin Days",
+    "winners_announced": false,
+    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
     "id": 31435,
     "title": "Redhawk Builds 2026",
     "displayed_location": {
@@ -164,45 +248,45 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 26475,
-    "title": "Dakar Bitcoin Hack by BTrust",
+    "id": 31887,
+    "title": "Intermountain Quantum Competition",
     "displayed_location": {
       "icon": "globe",
       "location": "Online"
     },
     "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
-    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/717/852/datas/medium_square.png",
+    "analytics_identifier": "Intermountain Quantum Competition (31887)",
+    "url": "https://iqc.devpost.com/",
     "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Oct 26 - Nov 20, 2026",
+    "submission_period_dates": "Nov 06 - 07, 2026",
     "themes": [
       {
-        "id": 1,
-        "name": "Blockchain"
+        "id": 23,
+        "name": "Beginner Friendly"
       },
       {
         "id": 3,
         "name": "Fintech"
       },
       {
-        "id": 6,
-        "name": "Machine Learning/AI"
+        "id": 24,
+        "name": "Quantum"
       }
     ],
-    "prize_amount": "$<span data-currency-value>900</span>",
+    "prize_amount": "$<span data-currency-value>850</span>",
     "prizes_counts": {
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 14,
+    "registrations_count": 0,
     "featured": false,
-    "organization_name": "Dakar Bitcoin Days",
+    "organization_name": "Brigham Young University - Provo",
     "winners_announced": false,
-    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
+    "submission_gallery_url": "https://iqc.devpost.com/project-gallery",
+    "start_a_submission_url": "https://iqc.devpost.com/challenges/start_a_submission",
+    "invite_only": true,
+    "eligibility_requirement_invite_only_description": "University students (undergraduate and graduate)",
     "managed_by_devpost_badge": false
   },
   {
