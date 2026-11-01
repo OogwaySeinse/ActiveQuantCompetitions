@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "15 days left",
+    "time_left_to_submission": "14 days left",
     "submission_period_dates": "Oct 16 - Nov 15, 2026",
     "themes": [
       {
@@ -31,54 +31,12 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 127,
+    "registrations_count": 137,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
     "submission_gallery_url": "https://mathematics-systems-security.devpost.com/project-gallery",
     "start_a_submission_url": "https://mathematics-systems-security.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31694,
-    "title": "MineArena 1.0",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "SSM cultural centre"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/578/562/datas/medium_square.png",
-    "analytics_identifier": "MineArena 1.0 (31694)",
-    "url": "https://minearena-1-0.devpost.com/",
-    "time_left_to_submission": "about 12 hours left",
-    "submission_period_dates": "Oct 15 - 31, 2026",
-    "themes": [
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 16,
-        "name": "Health"
-      }
-    ],
-    "prize_amount": "₹ <span data-currency-value>75,000</span>",
-    "prizes_counts": {
-      "cash": 5,
-      "other": 0
-    },
-    "registrations_count": 689,
-    "featured": false,
-    "organization_name": "Code commit",
-    "winners_announced": false,
-    "submission_gallery_url": "https://minearena-1-0.devpost.com/project-gallery",
-    "start_a_submission_url": "https://minearena-1-0.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -115,7 +73,7 @@
       "cash": 0,
       "other": 1
     },
-    "registrations_count": 105,
+    "registrations_count": 107,
     "featured": false,
     "organization_name": "university of pennsylvania",
     "winners_announced": false,
@@ -136,7 +94,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "21 days left",
+    "time_left_to_submission": "20 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -157,7 +115,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 112,
+    "registrations_count": 119,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -178,7 +136,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/708/795/datas/medium_square.png",
     "analytics_identifier": "DATANOVA 2026 GLOBAL DATA-THON (31883)",
     "url": "https://datanova-2026-global-data-thon.devpost.com/",
-    "time_left_to_submission": "11 days left",
+    "time_left_to_submission": "10 days left",
     "submission_period_dates": "Oct 26 - Nov 10, 2026",
     "themes": [
       {
@@ -199,7 +157,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 46,
+    "registrations_count": 52,
     "featured": false,
     "organization_name": "DataNova",
     "winners_announced": false,
@@ -241,7 +199,7 @@
       "cash": 0,
       "other": 5
     },
-    "registrations_count": 5,
+    "registrations_count": 6,
     "featured": false,
     "organization_name": "HKBU Coding Club",
     "winners_announced": false,
@@ -321,7 +279,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 5,
+    "registrations_count": 7,
     "featured": false,
     "organization_name": "Brigham Young University - Provo",
     "winners_announced": false,
@@ -374,6 +332,48 @@
     "managed_by_devpost_badge": false
   },
   {
+    "id": 31841,
+    "title": "Global AI Hackathon - Devcon 2026 By Mel",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/725/405/datas/medium_square.png",
+    "analytics_identifier": "Global AI Hackathon - Devcon 2026 By Mel (31841)",
+    "url": "https://trick-or-build.devpost.com/",
+    "time_left_to_submission": "about 19 hours left",
+    "submission_period_dates": "Oct 31 - Nov 01, 2026",
+    "themes": [
+      {
+        "id": 23,
+        "name": "Beginner Friendly"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      },
+      {
+        "id": 11,
+        "name": "Productivity"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 0,
+      "other": 1
+    },
+    "registrations_count": 29,
+    "featured": false,
+    "organization_name": "Agentic Day (co-hosted with Mel)",
+    "winners_announced": false,
+    "submission_gallery_url": "https://trick-or-build.devpost.com/project-gallery",
+    "start_a_submission_url": "https://trick-or-build.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
     "id": 30884,
     "title": "MakeUC 2026 ",
     "displayed_location": {
@@ -411,48 +411,6 @@
     "winners_announced": false,
     "submission_gallery_url": "https://makeuc-2026-30884.devpost.com/project-gallery",
     "start_a_submission_url": "https://makeuc-2026-30884.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31841,
-    "title": "Global AI Hackathon - Devcon 2026 By Mel",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/725/405/datas/medium_square.png",
-    "analytics_identifier": "Global AI Hackathon - Devcon 2026 By Mel (31841)",
-    "url": "https://trick-or-build.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Oct 31 - Nov 01, 2026",
-    "themes": [
-      {
-        "id": 23,
-        "name": "Beginner Friendly"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      },
-      {
-        "id": 11,
-        "name": "Productivity"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 0,
-      "other": 1
-    },
-    "registrations_count": 20,
-    "featured": false,
-    "organization_name": "Agentic Day (co-hosted with Mel)",
-    "winners_announced": false,
-    "submission_gallery_url": "https://trick-or-build.devpost.com/project-gallery",
-    "start_a_submission_url": "https://trick-or-build.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
