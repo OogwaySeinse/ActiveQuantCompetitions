@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "13 days left",
+    "time_left_to_submission": "12 days left",
     "submission_period_dates": "Oct 16 - Nov 15, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 151,
+    "registrations_count": 155,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -84,48 +84,6 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31883,
-    "title": "DATANOVA 2026 GLOBAL DATA-THON",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/708/795/datas/medium_square.png",
-    "analytics_identifier": "DATANOVA 2026 GLOBAL DATA-THON (31883)",
-    "url": "https://datanova-2026-global-data-thon.devpost.com/",
-    "time_left_to_submission": "9 days left",
-    "submission_period_dates": "Oct 26 - Nov 10, 2026",
-    "themes": [
-      {
-        "id": 20,
-        "name": "E-commerce/Retail"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 16,
-        "name": "Health"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>1,750</span>",
-    "prizes_counts": {
-      "cash": 3,
-      "other": 0
-    },
-    "registrations_count": 64,
-    "featured": false,
-    "organization_name": "DataNova",
-    "winners_announced": false,
-    "submission_gallery_url": "https://datanova-2026-global-data-thon.devpost.com/project-gallery",
-    "start_a_submission_url": "https://datanova-2026-global-data-thon.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 26475,
     "title": "Dakar Bitcoin Hack by BTrust",
     "displayed_location": {
@@ -136,7 +94,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "19 days left",
+    "time_left_to_submission": "18 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -157,12 +115,54 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 129,
+    "registrations_count": 144,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
     "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31883,
+    "title": "DATANOVA 2026 GLOBAL DATA-THON",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/708/795/datas/medium_square.png",
+    "analytics_identifier": "DATANOVA 2026 GLOBAL DATA-THON (31883)",
+    "url": "https://datanova-2026-global-data-thon.devpost.com/",
+    "time_left_to_submission": "8 days left",
+    "submission_period_dates": "Oct 26 - Nov 10, 2026",
+    "themes": [
+      {
+        "id": 20,
+        "name": "E-commerce/Retail"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 16,
+        "name": "Health"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>1,750</span>",
+    "prizes_counts": {
+      "cash": 3,
+      "other": 0
+    },
+    "registrations_count": 73,
+    "featured": false,
+    "organization_name": "DataNova",
+    "winners_announced": false,
+    "submission_gallery_url": "https://datanova-2026-global-data-thon.devpost.com/project-gallery",
+    "start_a_submission_url": "https://datanova-2026-global-data-thon.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -178,7 +178,7 @@
     "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
     "analytics_identifier": "Redhawk Builds 2026 (31435)",
     "url": "https://redhawk-builds-2026.devpost.com/",
-    "time_left_to_submission": "7 days left",
+    "time_left_to_submission": "5 days left",
     "submission_period_dates": "Nov 01 - 08, 2026",
     "themes": [
       {
@@ -195,7 +195,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 1,
+    "registrations_count": 7,
     "featured": false,
     "organization_name": "Miami",
     "winners_announced": false,
@@ -237,7 +237,7 @@
       "cash": 0,
       "other": 5
     },
-    "registrations_count": 8,
+    "registrations_count": 13,
     "featured": false,
     "organization_name": "HKBU Coding Club",
     "winners_announced": false,
@@ -279,7 +279,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 7,
+    "registrations_count": 10,
     "featured": false,
     "organization_name": "Brigham Young University - Provo",
     "winners_announced": false,
@@ -318,10 +318,10 @@
     ],
     "prize_amount": "$<span data-currency-value>22,000</span>",
     "prizes_counts": {
-      "cash": 16,
-      "other": 3
+      "cash": 1,
+      "other": 0
     },
-    "registrations_count": 2,
+    "registrations_count": 8,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
