@@ -559,7 +559,7 @@
     "web3": false,
     "order": 700,
     "statistics": {
-      "entrants": 1657,
+      "entrants": 1658,
       "participants": 221,
       "teams": 49,
       "submissions": 3347,
@@ -620,7 +620,7 @@
     "web3": false,
     "order": 1400,
     "statistics": {
-      "entrants": 2112,
+      "entrants": 2115,
       "participants": 549,
       "teams": 120,
       "submissions": 8909,
@@ -681,7 +681,7 @@
     "web3": false,
     "order": 1900,
     "statistics": {
-      "entrants": 1085,
+      "entrants": 1086,
       "participants": 105,
       "teams": 122,
       "submissions": 1926,
@@ -742,11 +742,11 @@
     "web3": false,
     "order": 2600,
     "statistics": {
-      "entrants": 1786,
+      "entrants": 1789,
       "participants": 821,
       "teams": 116,
-      "submissions": 21592,
-      "runnables": 20547
+      "submissions": 21598,
+      "runnables": 20554
     },
     "session": null,
     "createdAt": "2026-04-17T17:16:07",
@@ -950,11 +950,11 @@
     "web3": false,
     "order": 2800,
     "statistics": {
-      "entrants": 1506,
-      "participants": 664,
+      "entrants": 1519,
+      "participants": 669,
       "teams": 0,
-      "submissions": 10978,
-      "runnables": 42724
+      "submissions": 11184,
+      "runnables": 42888
     },
     "session": null,
     "createdAt": "2023-11-28T16:27:18",
@@ -1093,7 +1093,7 @@
     "web3": false,
     "order": 1200,
     "statistics": {
-      "entrants": 476,
+      "entrants": 477,
       "participants": 77,
       "teams": 52,
       "submissions": 1841,
@@ -1154,7 +1154,7 @@
     "web3": false,
     "order": 1100,
     "statistics": {
-      "entrants": 526,
+      "entrants": 527,
       "participants": 28,
       "teams": 18,
       "submissions": 626,
@@ -1215,7 +1215,7 @@
     "web3": false,
     "order": 1000,
     "statistics": {
-      "entrants": 126,
+      "entrants": 127,
       "participants": 19,
       "teams": 6,
       "submissions": 132,
@@ -1276,7 +1276,7 @@
     "web3": false,
     "order": 1800,
     "statistics": {
-      "entrants": 896,
+      "entrants": 897,
       "participants": 88,
       "teams": 53,
       "submissions": 1799,
@@ -1337,7 +1337,7 @@
     "web3": false,
     "order": 1850,
     "statistics": {
-      "entrants": 423,
+      "entrants": 424,
       "participants": 72,
       "teams": 9,
       "submissions": 1850,
@@ -1398,7 +1398,7 @@
     "web3": false,
     "order": 2400,
     "statistics": {
-      "entrants": 537,
+      "entrants": 538,
       "participants": 64,
       "teams": 7,
       "submissions": 427,
@@ -1459,7 +1459,7 @@
     "web3": false,
     "order": 2350,
     "statistics": {
-      "entrants": 2,
+      "entrants": 3,
       "participants": 0,
       "teams": 0,
       "submissions": 0,
@@ -1581,11 +1581,11 @@
     "web3": false,
     "order": 2700,
     "statistics": {
-      "entrants": 958,
-      "participants": 296,
+      "entrants": 962,
+      "participants": 297,
       "teams": 0,
-      "submissions": 8547,
-      "runnables": 11343
+      "submissions": 8566,
+      "runnables": 11351
     },
     "session": null,
     "createdAt": "2025-11-06T11:44:26",

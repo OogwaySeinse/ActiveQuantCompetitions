@@ -11,7 +11,7 @@
     "prize_raw": "$52,000",
     "start_date": "2026-01-05",
     "end_date": "2026-12-31",
-    "days_remaining": 54,
+    "days_remaining": 53,
     "status": "active",
     "category": "Alpha & Equity Prediction",
     "tags": [
@@ -38,7 +38,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-07T12:00:38Z"
+    "scraped_at": "2026-11-08T12:20:43Z"
   },
   {
     "id": "predict-price-movements-from-limit-order-book-da-051b83117c32",
@@ -52,8 +52,8 @@
     "prize_raw": "$13,600",
     "start_date": "2026-09-11",
     "end_date": "2026-11-15",
-    "days_remaining": 8,
-    "status": "active",
+    "days_remaining": 7,
+    "status": "ending_soon",
     "category": "Market Microstructure & HFT",
     "tags": [
       "efficiency",
@@ -79,6 +79,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-07T12:00:38Z"
+    "scraped_at": "2026-11-08T12:20:43Z"
   }
 ]
