@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "3 days left",
+    "time_left_to_submission": "2 days left",
     "submission_period_dates": "Oct 16 - Nov 15, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 215,
+    "registrations_count": 228,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -42,139 +42,17 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31484,
-    "title": "2026-2027 Fall ESE Senior Design",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Amy Gutman Hall"
-    },
-    "open_state": "open",
-    "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-    "analytics_identifier": "2026-2027 Fall ESE Senior Design (31484)",
-    "url": "https://ese4500f26.devpost.com/",
-    "time_left_to_submission": "26 days left",
-    "submission_period_dates": "Sep 22 - Dec 07, 2026",
-    "themes": [
-      {
-        "id": 5,
-        "name": "AR/VR"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 24,
-        "name": "Quantum"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 0,
-      "other": 1
-    },
-    "registrations_count": 117,
-    "featured": false,
-    "organization_name": "university of pennsylvania",
-    "winners_announced": false,
-    "submission_gallery_url": "https://ese4500f26.devpost.com/project-gallery",
-    "start_a_submission_url": "https://ese4500f26.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 26475,
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
-    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "8 days left",
-    "submission_period_dates": "Oct 26 - Nov 20, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>900</span>",
-    "prizes_counts": {
-      "cash": 3,
-      "other": 0
-    },
-    "registrations_count": 239,
-    "featured": false,
-    "organization_name": "Dakar Bitcoin Days",
-    "winners_announced": false,
-    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31890,
-    "title": "Blockchain Innovation Challenge powered by Stellar",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Velocity, Innovation Arena"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/795/760/datas/medium_square.png",
-    "analytics_identifier": "Blockchain Innovation Challenge powered by Stellar (31890)",
-    "url": "https://blockchain-stellar-ic.devpost.com/",
-    "time_left_to_submission": "1 day left",
-    "submission_period_dates": "Nov 06 - 13, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      }
-    ],
-    "prize_amount": "$CAD <span data-currency-value>15,000</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 40,
-    "featured": false,
-    "organization_name": "University of Waterloo",
-    "winners_announced": false,
-    "submission_gallery_url": "https://blockchain-stellar-ic.devpost.com/project-gallery",
-    "start_a_submission_url": "https://blockchain-stellar-ic.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "University of Waterloo students",
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 31915,
     "title": "BUHACK 2.0",
     "displayed_location": {
       "icon": "globe",
       "location": "Online"
     },
-    "open_state": "upcoming",
+    "open_state": "open",
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/727/171/datas/medium_square.PNG",
     "analytics_identifier": "BUHACK 2.0 (31915)",
     "url": "https://buhack-2.devpost.com/",
-    "time_left_to_submission": "Upcoming",
+    "time_left_to_submission": "1 day left",
     "submission_period_dates": "Nov 12 - 14, 2026",
     "themes": [
       {
@@ -195,7 +73,7 @@
       "cash": 0,
       "other": 5
     },
-    "registrations_count": 98,
+    "registrations_count": 108,
     "featured": false,
     "organization_name": "HKBU Coding Club",
     "winners_announced": false,
@@ -203,6 +81,132 @@
     "start_a_submission_url": "https://buhack-2.devpost.com/challenges/start_a_submission",
     "invite_only": true,
     "eligibility_requirement_invite_only_description": "Hong Kong Students",
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31484,
+    "title": "2026-2027 Fall ESE Senior Design",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "Amy Gutman Hall"
+    },
+    "open_state": "open",
+    "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+    "analytics_identifier": "2026-2027 Fall ESE Senior Design (31484)",
+    "url": "https://ese4500f26.devpost.com/",
+    "time_left_to_submission": "25 days left",
+    "submission_period_dates": "Sep 22 - Dec 07, 2026",
+    "themes": [
+      {
+        "id": 5,
+        "name": "AR/VR"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 24,
+        "name": "Quantum"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 1,
+      "other": 0
+    },
+    "registrations_count": 118,
+    "featured": false,
+    "organization_name": "university of pennsylvania",
+    "winners_announced": false,
+    "submission_gallery_url": "https://ese4500f26.devpost.com/project-gallery",
+    "start_a_submission_url": "https://ese4500f26.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 26475,
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
+    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "time_left_to_submission": "7 days left",
+    "submission_period_dates": "Oct 26 - Nov 20, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>900</span>",
+    "prizes_counts": {
+      "cash": 3,
+      "other": 0
+    },
+    "registrations_count": 248,
+    "featured": false,
+    "organization_name": "Dakar Bitcoin Days",
+    "winners_announced": false,
+    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31926,
+    "title": "WiseStart 2026 Hackathon: Tallinn",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "Wise Tallinn"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/888/757/datas/medium_square.png",
+    "analytics_identifier": "WiseStart 2026 Hackathon: Tallinn (31926)",
+    "url": "https://wisestart-2026-tll.devpost.com/",
+    "time_left_to_submission": "about 22 hours left",
+    "submission_period_dates": "Nov 13 - 14, 2026",
+    "themes": [
+      {
+        "id": 22,
+        "name": "Open Ended"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 23,
+        "name": "Beginner Friendly"
+      }
+    ],
+    "prize_amount": "€<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 0,
+      "other": 3
+    },
+    "registrations_count": 4,
+    "featured": false,
+    "organization_name": "WISE",
+    "winners_announced": false,
+    "submission_gallery_url": "https://wisestart-2026-tll.devpost.com/project-gallery",
+    "start_a_submission_url": "https://wisestart-2026-tll.devpost.com/challenges/start_a_submission",
+    "invite_only": true,
+    "eligibility_requirement_invite_only_description": "Participants must be invited by Wise",
     "managed_by_devpost_badge": false
   },
   {
@@ -237,7 +241,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 184,
+    "registrations_count": 252,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -245,48 +249,6 @@
     "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
     "invite_only": true,
     "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31926,
-    "title": "WiseStart 2026 Hackathon: Tallinn",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Wise Tallinn"
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-    "analytics_identifier": "WiseStart 2026 Hackathon: Tallinn (31926)",
-    "url": "https://wisestart-2026-tll.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Nov 13 - 14, 2026",
-    "themes": [
-      {
-        "id": 22,
-        "name": "Open Ended"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 23,
-        "name": "Beginner Friendly"
-      }
-    ],
-    "prize_amount": "€<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 0,
-      "other": 3
-    },
-    "registrations_count": 1,
-    "featured": false,
-    "organization_name": "WISE",
-    "winners_announced": false,
-    "submission_gallery_url": "https://wisestart-2026-tll.devpost.com/project-gallery",
-    "start_a_submission_url": "https://wisestart-2026-tll.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "Participants must be invited by Wise",
     "managed_by_devpost_badge": false
   },
   {
@@ -319,9 +281,9 @@
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
       "cash": 1,
-      "other": 0
+      "other": 8
     },
-    "registrations_count": 6,
+    "registrations_count": 28,
     "featured": false,
     "organization_name": "Princeton University",
     "winners_announced": false,
