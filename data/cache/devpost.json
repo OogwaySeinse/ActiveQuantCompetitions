@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
     "analytics_identifier": "Mathematics for systems security (31666)",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "1 day left",
+    "time_left_to_submission": "about 1 hour left",
     "submission_period_dates": "Oct 16 - Nov 15, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 0,
       "other": 6
     },
-    "registrations_count": 239,
+    "registrations_count": 246,
     "featured": false,
     "organization_name": "Software Engineering Club (DEV)",
     "winners_announced": false,
@@ -42,45 +42,45 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31915,
-    "title": "BUHACK 2.0",
+    "id": 31990,
+    "title": "HackPrinceton Fall '26",
     "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
+      "icon": "map-marker-alt",
+      "location": "JRR, LAS, Robertson, Friend"
     },
     "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/727/171/datas/medium_square.PNG",
-    "analytics_identifier": "BUHACK 2.0 (31915)",
-    "url": "https://buhack-2.devpost.com/",
-    "time_left_to_submission": "about 15 hours left",
-    "submission_period_dates": "Nov 12 - 14, 2026",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/789/397/datas/medium_square.png",
+    "analytics_identifier": "HackPrinceton Fall '26 (31990)",
+    "url": "https://hackprinceton-fall-26.devpost.com/",
+    "time_left_to_submission": "26 minutes left",
+    "submission_period_dates": "Nov 13 - 15, 2026",
     "themes": [
       {
-        "id": 23,
-        "name": "Beginner Friendly"
+        "id": 19,
+        "name": "Education"
       },
       {
-        "id": 17,
-        "name": "Low/No Code"
+        "id": 6,
+        "name": "Machine Learning/AI"
       },
       {
-        "id": 25,
-        "name": "Web"
+        "id": 13,
+        "name": "Social Good"
       }
     ],
-    "prize_amount": "$<span data-currency-value>0</span>",
+    "prize_amount": "$<span data-currency-value>10,312</span>",
     "prizes_counts": {
-      "cash": 0,
-      "other": 5
+      "cash": 6,
+      "other": 14
     },
-    "registrations_count": 111,
+    "registrations_count": 932,
     "featured": false,
-    "organization_name": "HKBU Coding Club",
+    "organization_name": "Princeton University",
     "winners_announced": false,
-    "submission_gallery_url": "https://buhack-2.devpost.com/project-gallery",
-    "start_a_submission_url": "https://buhack-2.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "Hong Kong Students",
+    "submission_gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
+    "start_a_submission_url": "https://hackprinceton-fall-26.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
   },
   {
@@ -136,7 +136,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
     "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "time_left_to_submission": "6 days left",
+    "time_left_to_submission": "5 days left",
     "submission_period_dates": "Nov 13 - 20, 2026",
     "themes": [
       {
@@ -157,7 +157,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 289,
+    "registrations_count": 311,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -178,7 +178,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "6 days left",
+    "time_left_to_submission": "5 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -199,7 +199,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 257,
+    "registrations_count": 271,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -210,81 +210,85 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31990,
-    "title": "HackPrinceton Fall '26",
+    "id": 32032,
+    "title": "Datathon PolyFinances BNC x AWS",
     "displayed_location": {
       "icon": "map-marker-alt",
-      "location": "JRR, LAS, Robertson, Friend"
+      "location": "Polytechnique Montréal"
     },
     "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/789/397/datas/medium_square.png",
-    "analytics_identifier": "HackPrinceton Fall '26 (31990)",
-    "url": "https://hackprinceton-fall-26.devpost.com/",
-    "time_left_to_submission": "1 day left",
-    "submission_period_dates": "Nov 13 - 15, 2026",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/824/284/datas/medium_square.png",
+    "analytics_identifier": "Datathon PolyFinances BNC x AWS (32032)",
+    "url": "https://datathon-polyfinances-bnc-aws.devpost.com/",
+    "time_left_to_submission": "about 18 hours left",
+    "submission_period_dates": "Nov 14 - 16, 2026",
     "themes": [
       {
         "id": 19,
         "name": "Education"
       },
       {
-        "id": 6,
-        "name": "Machine Learning/AI"
+        "id": 3,
+        "name": "Fintech"
       },
       {
-        "id": 13,
-        "name": "Social Good"
+        "id": 6,
+        "name": "Machine Learning/AI"
       }
     ],
-    "prize_amount": "$<span data-currency-value>0</span>",
+    "prize_amount": "$CAD <span data-currency-value>5,500</span>",
     "prizes_counts": {
-      "cash": 1,
-      "other": 8
+      "cash": 5,
+      "other": 0
     },
-    "registrations_count": 193,
+    "registrations_count": 6,
     "featured": false,
-    "organization_name": "Princeton University",
+    "organization_name": "Polyfinances",
     "winners_announced": false,
-    "submission_gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
-    "start_a_submission_url": "https://hackprinceton-fall-26.devpost.com/challenges/start_a_submission",
+    "submission_gallery_url": "https://datathon-polyfinances-bnc-aws.devpost.com/project-gallery",
+    "start_a_submission_url": "https://datathon-polyfinances-bnc-aws.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
   },
   {
-    "id": 32030,
-    "title": "Hack Club Haven (Hong Kong)",
+    "id": 32124,
+    "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
     "displayed_location": {
       "icon": "map-marker-alt",
-      "location": "Canadian International School Hong Kong"
+      "location": "OJone Building, Bengaluru. "
     },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/793/388/datas/medium_square.png",
-    "analytics_identifier": "Hack Club Haven (Hong Kong) (32030)",
-    "url": "https://hack-club-haven-hong-kong.devpost.com/",
-    "time_left_to_submission": "1 day left",
-    "submission_period_dates": "Nov 14 - 15, 2026",
+    "open_state": "upcoming",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/912/423/datas/medium_square.jpg",
+    "analytics_identifier": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition) (32124)",
+    "url": "https://theagent-to-agent-hackathon.devpost.com/",
+    "time_left_to_submission": "Upcoming",
+    "submission_period_dates": "Nov 17 - 24, 2026",
     "themes": [
       {
-        "id": 23,
-        "name": "Beginner Friendly"
+        "id": 2,
+        "name": "DevOps"
       },
       {
-        "id": 4,
-        "name": "Gaming"
+        "id": 6,
+        "name": "Machine Learning/AI"
+      },
+      {
+        "id": 27,
+        "name": "Robotic Process Automation"
       }
     ],
-    "prize_amount": "$<span data-currency-value>0</span>",
+    "prize_amount": "$<span data-currency-value>700</span>",
     "prizes_counts": {
-      "cash": 0,
-      "other": 4
+      "cash": 3,
+      "other": 1
     },
     "registrations_count": 1,
     "featured": false,
-    "organization_name": "Hack Club",
+    "organization_name": "hidevs",
     "winners_announced": false,
-    "submission_gallery_url": "https://hack-club-haven-hong-kong.devpost.com/project-gallery",
-    "start_a_submission_url": "https://hack-club-haven-hong-kong.devpost.com/challenges/start_a_submission",
+    "submission_gallery_url": "https://theagent-to-agent-hackathon.devpost.com/project-gallery",
+    "start_a_submission_url": "https://theagent-to-agent-hackathon.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
