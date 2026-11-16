@@ -24,8 +24,8 @@
     "organizer": "Crunch Capital",
     "evaluation_metric": "",
     "teams_count": null,
-    "competitors_count": 706,
-    "entries_count": 11763,
+    "competitors_count": 716,
+    "entries_count": 11844,
     "difficulty": "Research",
     "competition_type": "tournament",
     "conference": null,
@@ -35,7 +35,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-15T13:03:42Z"
+    "scraped_at": "2026-11-16T14:09:13Z"
   },
   {
     "id": "synth-synthetic-price-data-effd87fe16dc",
@@ -62,8 +62,8 @@
     "organizer": "Synth",
     "evaluation_metric": "",
     "teams_count": null,
-    "competitors_count": 301,
-    "entries_count": 8639,
+    "competitors_count": 299,
+    "entries_count": 8650,
     "difficulty": "Advanced",
     "competition_type": "tournament",
     "conference": null,
@@ -73,6 +73,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-15T13:03:42Z"
+    "scraped_at": "2026-11-16T14:09:13Z"
   }
 ]

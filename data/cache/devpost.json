@@ -1,86 +1,44 @@
 [
   {
-    "id": 31666,
-    "title": "Mathematics for systems security",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/539/461/datas/medium_square.jpg",
-    "analytics_identifier": "Mathematics for systems security (31666)",
-    "url": "https://mathematics-systems-security.devpost.com/",
-    "time_left_to_submission": "about 1 hour left",
-    "submission_period_dates": "Oct 16 - Nov 15, 2026",
-    "themes": [
-      {
-        "id": 10,
-        "name": "Communication"
-      },
-      {
-        "id": 9,
-        "name": "Cybersecurity"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 0,
-      "other": 6
-    },
-    "registrations_count": 246,
-    "featured": false,
-    "organization_name": "Software Engineering Club (DEV)",
-    "winners_announced": false,
-    "submission_gallery_url": "https://mathematics-systems-security.devpost.com/project-gallery",
-    "start_a_submission_url": "https://mathematics-systems-security.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31990,
-    "title": "HackPrinceton Fall '26",
+    "id": 31746,
+    "title": "University Blockchain Conference Hackathon 2026",
     "displayed_location": {
       "icon": "map-marker-alt",
-      "location": "JRR, LAS, Robertson, Friend"
+      "location": "University of Texas at Austin"
     },
     "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/789/397/datas/medium_square.png",
-    "analytics_identifier": "HackPrinceton Fall '26 (31990)",
-    "url": "https://hackprinceton-fall-26.devpost.com/",
-    "time_left_to_submission": "26 minutes left",
-    "submission_period_dates": "Nov 13 - 15, 2026",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
+    "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
+    "url": "https://ubc-hackathon-2026.devpost.com/",
+    "time_left_to_submission": "4 days left",
+    "submission_period_dates": "Nov 13 - 20, 2026",
     "themes": [
       {
-        "id": 19,
-        "name": "Education"
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
       },
       {
         "id": 6,
         "name": "Machine Learning/AI"
-      },
-      {
-        "id": 13,
-        "name": "Social Good"
       }
     ],
-    "prize_amount": "$<span data-currency-value>10,312</span>",
+    "prize_amount": "$<span data-currency-value>22,000</span>",
     "prizes_counts": {
-      "cash": 6,
-      "other": 14
+      "cash": 16,
+      "other": 3
     },
-    "registrations_count": 932,
+    "registrations_count": 344,
     "featured": false,
-    "organization_name": "Princeton University",
+    "organization_name": "college.xyz",
     "winners_announced": false,
-    "submission_gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
-    "start_a_submission_url": "https://hackprinceton-fall-26.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
+    "submission_gallery_url": "https://ubc-hackathon-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": true,
+    "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
     "managed_by_devpost_badge": false
   },
   {
@@ -94,7 +52,7 @@
     "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
     "analytics_identifier": "2026-2027 Fall ESE Senior Design (31484)",
     "url": "https://ese4500f26.devpost.com/",
-    "time_left_to_submission": "23 days left",
+    "time_left_to_submission": "21 days left",
     "submission_period_dates": "Sep 22 - Dec 07, 2026",
     "themes": [
       {
@@ -126,48 +84,6 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 31746,
-    "title": "University Blockchain Conference Hackathon 2026",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "University of Texas at Austin"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
-    "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
-    "url": "https://ubc-hackathon-2026.devpost.com/",
-    "time_left_to_submission": "5 days left",
-    "submission_period_dates": "Nov 13 - 20, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>22,000</span>",
-    "prizes_counts": {
-      "cash": 16,
-      "other": 3
-    },
-    "registrations_count": 311,
-    "featured": false,
-    "organization_name": "college.xyz",
-    "winners_announced": false,
-    "submission_gallery_url": "https://ubc-hackathon-2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 26475,
     "title": "Dakar Bitcoin Hack by BTrust",
     "displayed_location": {
@@ -178,7 +94,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "5 days left",
+    "time_left_to_submission": "4 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -199,7 +115,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 271,
+    "registrations_count": 295,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -210,43 +126,85 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 32032,
-    "title": "Datathon PolyFinances BNC x AWS",
+    "id": 32144,
+    "title": "CodeNova Hackathon 2026",
     "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Polytechnique Montréal"
+      "icon": "globe",
+      "location": "Online"
     },
     "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/824/284/datas/medium_square.png",
-    "analytics_identifier": "Datathon PolyFinances BNC x AWS (32032)",
-    "url": "https://datathon-polyfinances-bnc-aws.devpost.com/",
-    "time_left_to_submission": "about 18 hours left",
-    "submission_period_dates": "Nov 14 - 16, 2026",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/933/100/datas/medium_square.png",
+    "analytics_identifier": "CodeNova Hackathon 2026 (32144)",
+    "url": "https://codenova-hackathon-2026.devpost.com/",
+    "time_left_to_submission": "29 minutes left",
+    "submission_period_dates": "Nov 16, 2026",
     "themes": [
       {
-        "id": 19,
-        "name": "Education"
+        "id": 23,
+        "name": "Beginner Friendly"
       },
+      {
+        "id": 18,
+        "name": "Design"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 0,
+      "other": 1
+    },
+    "registrations_count": 2,
+    "featured": false,
+    "organization_name": "Google Student Ambassador",
+    "winners_announced": false,
+    "submission_gallery_url": "https://codenova-hackathon-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://codenova-hackathon-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31739,
+    "title": "RAMHACK Mini 2026",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "Fordham University at Lincoln Center"
+    },
+    "open_state": "upcoming",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/930/287/datas/medium_square.png",
+    "analytics_identifier": "RAMHACK Mini 2026 (31739)",
+    "url": "https://ramhack-mini-2026.devpost.com/",
+    "time_left_to_submission": "Upcoming",
+    "submission_period_dates": "Nov 18, 2026",
+    "themes": [
       {
         "id": 3,
         "name": "Fintech"
       },
       {
-        "id": 6,
-        "name": "Machine Learning/AI"
+        "id": 11,
+        "name": "Productivity"
+      },
+      {
+        "id": 13,
+        "name": "Social Good"
       }
     ],
-    "prize_amount": "$CAD <span data-currency-value>5,500</span>",
+    "prize_amount": "$<span data-currency-value>470</span>",
     "prizes_counts": {
-      "cash": 5,
+      "cash": 4,
       "other": 0
     },
-    "registrations_count": 6,
+    "registrations_count": 0,
     "featured": false,
-    "organization_name": "Polyfinances",
+    "organization_name": "Fordham University",
     "winners_announced": false,
-    "submission_gallery_url": "https://datathon-polyfinances-bnc-aws.devpost.com/project-gallery",
-    "start_a_submission_url": "https://datathon-polyfinances-bnc-aws.devpost.com/challenges/start_a_submission",
+    "submission_gallery_url": "https://ramhack-mini-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://ramhack-mini-2026.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -280,10 +238,10 @@
     ],
     "prize_amount": "$<span data-currency-value>700</span>",
     "prizes_counts": {
-      "cash": 3,
-      "other": 1
+      "cash": 1,
+      "other": 0
     },
-    "registrations_count": 1,
+    "registrations_count": 6,
     "featured": false,
     "organization_name": "hidevs",
     "winners_announced": false,
