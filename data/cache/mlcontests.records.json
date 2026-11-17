@@ -11,7 +11,7 @@
     "prize_raw": "$52,000",
     "start_date": "2026-01-05",
     "end_date": "2026-12-31",
-    "days_remaining": 45,
+    "days_remaining": 44,
     "status": "active",
     "category": "Alpha & Equity Prediction",
     "tags": [
@@ -38,6 +38,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-16T14:09:17Z"
+    "scraped_at": "2026-11-17T15:02:21Z"
   }
 ]
