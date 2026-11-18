@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
     "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "time_left_to_submission": "3 days left",
+    "time_left_to_submission": "2 days left",
     "submission_period_dates": "Nov 13 - 20, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 372,
+    "registrations_count": 390,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -39,6 +39,48 @@
     "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
     "invite_only": true,
     "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 26475,
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
+    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "time_left_to_submission": "2 days left",
+    "submission_period_dates": "Oct 26 - Nov 20, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>900</span>",
+    "prizes_counts": {
+      "cash": 3,
+      "other": 0
+    },
+    "registrations_count": 322,
+    "featured": false,
+    "organization_name": "Dakar Bitcoin Days",
+    "winners_announced": false,
+    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
   },
   {
@@ -84,48 +126,6 @@
     "managed_by_devpost_badge": false
   },
   {
-    "id": 26475,
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
-    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "3 days left",
-    "submission_period_dates": "Oct 26 - Nov 20, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>900</span>",
-    "prizes_counts": {
-      "cash": 3,
-      "other": 0
-    },
-    "registrations_count": 308,
-    "featured": false,
-    "organization_name": "Dakar Bitcoin Days",
-    "winners_announced": false,
-    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 31739,
     "title": "RAMHACK Mini 2026",
     "displayed_location": {
@@ -154,10 +154,10 @@
     ],
     "prize_amount": "$<span data-currency-value>470</span>",
     "prizes_counts": {
-      "cash": 1,
+      "cash": 4,
       "other": 0
     },
-    "registrations_count": 2,
+    "registrations_count": 14,
     "featured": false,
     "organization_name": "Fordham University",
     "winners_announced": false,
@@ -199,7 +199,7 @@
       "cash": 0,
       "other": 7
     },
-    "registrations_count": 2,
+    "registrations_count": 4,
     "featured": false,
     "organization_name": "Small Money, Big Plan",
     "winners_announced": false,
@@ -216,11 +216,11 @@
       "icon": "map-marker-alt",
       "location": "OJone Building, Bengaluru. "
     },
-    "open_state": "upcoming",
+    "open_state": "open",
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/912/423/datas/medium_square.jpg",
     "analytics_identifier": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition) (32124)",
     "url": "https://theagent-to-agent-hackathon.devpost.com/",
-    "time_left_to_submission": "Upcoming",
+    "time_left_to_submission": "6 days left",
     "submission_period_dates": "Nov 17 - 24, 2026",
     "themes": [
       {
@@ -241,7 +241,7 @@
       "cash": 3,
       "other": 1
     },
-    "registrations_count": 9,
+    "registrations_count": 27,
     "featured": false,
     "organization_name": "hidevs",
     "winners_announced": false,
