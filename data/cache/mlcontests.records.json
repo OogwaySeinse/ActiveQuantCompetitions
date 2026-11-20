@@ -11,7 +11,7 @@
     "prize_raw": "$52,000",
     "start_date": "2026-01-05",
     "end_date": "2026-12-31",
-    "days_remaining": 42,
+    "days_remaining": 41,
     "status": "active",
     "category": "Alpha & Equity Prediction",
     "tags": [
@@ -38,6 +38,48 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-19T14:50:06Z"
+    "scraped_at": "2026-11-20T14:30:42Z"
+  },
+  {
+    "id": "predict-memecoin-pumps-from-on-chain-launch-data-b65ec768cb2e",
+    "title": "Predict Memecoin Pumps from On-Chain Launch Data",
+    "platform": "Kaggle",
+    "source": "mlcontests",
+    "url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump",
+    "prize": "$5,000",
+    "prize_usd": 5000.0,
+    "prize_currency": "USD",
+    "prize_raw": "$5,000",
+    "start_date": "2026-09-27",
+    "end_date": "2026-11-30",
+    "days_remaining": 10,
+    "status": "active",
+    "category": "Crypto, DeFi & Digital Assets",
+    "tags": [
+      "crypto",
+      "custom metric",
+      "finance",
+      "forecasting",
+      "measurable",
+      "supervised",
+      "tabular",
+      "timeseries"
+    ],
+    "description": "",
+    "organizer": "Dmitry Dryomov",
+    "evaluation_metric": "",
+    "teams_count": null,
+    "competitors_count": null,
+    "entries_count": null,
+    "difficulty": "Intermediate",
+    "competition_type": "competition",
+    "conference": null,
+    "conference_year": null,
+    "paper_url": null,
+    "first_seen_at": null,
+    "is_new": false,
+    "prize_delta_usd": 0.0,
+    "days_Shift": 0,
+    "scraped_at": "2026-11-20T14:30:42Z"
   }
 ]
