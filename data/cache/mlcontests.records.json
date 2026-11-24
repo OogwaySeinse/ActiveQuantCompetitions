@@ -11,7 +11,7 @@
     "prize_raw": "$52,000",
     "start_date": "2026-01-05",
     "end_date": "2026-12-31",
-    "days_remaining": 38,
+    "days_remaining": 37,
     "status": "active",
     "category": "Alpha & Equity Prediction",
     "tags": [
@@ -38,7 +38,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-23T16:41:55Z"
+    "scraped_at": "2026-11-24T16:38:30Z"
   },
   {
     "id": "predict-memecoin-pumps-from-on-chain-launch-data-b65ec768cb2e",
@@ -52,7 +52,7 @@
     "prize_raw": "$5,000",
     "start_date": "2026-09-27",
     "end_date": "2026-11-30",
-    "days_remaining": 7,
+    "days_remaining": 6,
     "status": "ending_soon",
     "category": "Crypto, DeFi & Digital Assets",
     "tags": [
@@ -80,6 +80,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_Shift": 0,
-    "scraped_at": "2026-11-23T16:41:55Z"
+    "scraped_at": "2026-11-24T16:38:30Z"
   }
 ]

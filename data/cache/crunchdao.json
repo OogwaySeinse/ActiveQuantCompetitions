@@ -462,7 +462,7 @@
     "web3": false,
     "order": 700,
     "statistics": {
-      "entrants": 1659,
+      "entrants": 1660,
       "participants": 221,
       "teams": 49,
       "submissions": 3347,
@@ -849,7 +849,7 @@
     "web3": false,
     "order": 1400,
     "statistics": {
-      "entrants": 2117,
+      "entrants": 2118,
       "participants": 549,
       "teams": 120,
       "submissions": 8909,
@@ -1032,11 +1032,11 @@
     "web3": false,
     "order": 2800,
     "statistics": {
-      "entrants": 1710,
-      "participants": 773,
+      "entrants": 1725,
+      "participants": 786,
       "teams": 0,
-      "submissions": 12456,
-      "runnables": 48631
+      "submissions": 12527,
+      "runnables": 48705
     },
     "session": null,
     "createdAt": "2023-11-28T16:27:18",
@@ -1154,11 +1154,11 @@
     "web3": false,
     "order": 2700,
     "statistics": {
-      "entrants": 1022,
-      "participants": 323,
+      "entrants": 1027,
+      "participants": 324,
       "teams": 0,
-      "submissions": 8721,
-      "runnables": 12165
+      "submissions": 8729,
+      "runnables": 12359
     },
     "session": null,
     "createdAt": "2025-11-06T11:44:26",
@@ -1459,11 +1459,11 @@
     "web3": false,
     "order": 2600,
     "statistics": {
-      "entrants": 1825,
-      "participants": 829,
+      "entrants": 1827,
+      "participants": 830,
       "teams": 116,
-      "submissions": 21668,
-      "runnables": 20631
+      "submissions": 21674,
+      "runnables": 20637
     },
     "session": null,
     "createdAt": "2026-04-17T17:16:07",
@@ -1534,9 +1534,9 @@
   {
     "id": 25,
     "name": "broad-liver-1",
-    "displayName": "Fatty Liver ML Competition - ​​Part 1",
-    "fullName": "Fatty Liver Disease Machine Learning Competition: Tackling Metabolic Diseases - Part 1",
-    "shortDescription": "Predict two held-out image channels for each cell in an OPS dataset fusing the cell’s remaining two channels and information from neighboring cells, in two experimental conditions.",
+    "displayName": "Metabolic Liver Disease ML Competition - ​​Part 1",
+    "fullName": "Metabolic Liver Disease Machine Learning Competition - Part 1",
+    "shortDescription": "Predict the two disease-relevant held-out image channels showing lipid droplets and mitochondria from the two observed landmark channels and brightfield image in each cell, under different conditions: baseline, FFA, low-oxygen exposure, or both.",
     "type": "CODE",
     "format": "UNSTRUCTURED",
     "mode": "OFFLINE",
